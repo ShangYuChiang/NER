@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>19542205</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Large gene family expansions and adaptive evolution for odorant and gustatory receptors in the pea aphid, Acyrthosiphon pisum.</text>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:17:13Z</infon>
+        <location offset="68" length="18"/>
+        <text>gustatory receptor</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7029</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="106" length="19"/>
+        <text>Acyrthosiphon pisum</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>127</offset>
+      <text>Gaining insight into the mechanisms of chemoreception in aphids is of primary importance for both integrative studies on the evolution of host plant specialization and applied research in pest control management because aphids rely on their sense of smell and taste to locate and assess their host plants. We made use of the recent genome sequence of the pea aphid, Acyrthosiphon pisum, to address the molecular characterization and evolution of key molecular components of chemoreception: the odorant (Or) and gustatory (Gr) receptor genes. We identified 79 Or and 77 Gr genes in the pea aphid genome and showed that most of them are aphid-specific genes that have undergone recent and rapid expansion in the genome. By addressing selection within sets of paralogous Or and Gr expansions, for the first time in an insect species, we show that the most recently duplicated loci have evolved under positive selection, which might be related to the high degree of ecological specialization of this species. Although more functional studies are still needed for insect chemoreceptors, we provide evidence that Grs and Ors have different sets of positively selected sites, suggesting the possibility that these two gene families might have different binding pockets and bind structurally distinct classes of ligand. The pea aphid is the most basal insect species with a completely sequenced genome to date. The identification of chemoreceptor genes in this species is a key step toward further exploring insect comparative genetics, the genomics of ecological specialization and speciation, and new pest control strategies.</text>
+      <annotation id="5">
+        <infon key="identifier">7029</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="493" length="19"/>
+        <text>Acyrthosiphon pisum</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="630" length="2"/>
+        <text>Or</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="649" length="2"/>
+        <text>Gr</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="686" length="2"/>
+        <text>Or</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="696" length="2"/>
+        <text>Gr</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">7029</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="712" length="9"/>
+        <text>pea aphid</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="895" length="2"/>
+        <text>Or</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="902" length="2"/>
+        <text>Gr</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:17:37Z</infon>
+        <location offset="1234" length="2"/>
+        <text>Gr</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:17:38Z</infon>
+        <location offset="1242" length="2"/>
+        <text>Or</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:17:47Z</infon>
+        <location offset="1552" length="18"/>
+        <text>chemoreceptor gene</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

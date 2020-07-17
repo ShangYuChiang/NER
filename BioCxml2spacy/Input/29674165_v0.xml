@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29674165</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Identification, expression and function of myosin heavy chain family genes in Tribolium castaneum.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="43" length="18"/>
+        <text>myosin heavy chain</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="78" length="19"/>
+        <text>Tribolium castaneum</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>99</offset>
+      <text>Functions of myosin heavy chain (myosin) family genes are poorly understood in some insects. To address this, we determined the expression and function of myosin family genes in Tribolium castaneum. TcMyo15 is predominantly expressed in early embryos, late larvae and early adults, but TcMyo7B transcripts significantly increased in late larvae. TcMyo20 transcripts are abundant in pre-adults, whereas TcMhc1 is highly expressed in post-embryonic stages. TcMhc2 shows peak expression in late pupae. TcMyo9 transcripts reached their highest levels in late pupae. TcMyo15, TcMyo7B and TcMhc2 are abundantly expressed in the adult epidermis, gut and testis, respectively. TcMyo9 and TcMyo20 are highly expressed in the epidermis, fat body and ovary, and TcMhc1 exhibits high mRNA levels in the epidermis and accessory gland. TcMyo20 RNAi reduced wing and leg size, fertility and egg hatchability. TcMyo9 knockdown completely inhibited eclosion and fecundity, but TcMyo15 or TcMhc1 silencing only impaired eclosion. TcMhc2 RNAi affected pupation and wing development. This study suggests myosin genes as potential targets of pesticides due to their critical roles in insect development and reproduction.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="112" length="18"/>
+        <text>myosin heavy chain</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:44:40Z</infon>
+        <location offset="132" length="6"/>
+        <text>myosin</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="277" length="19"/>
+        <text>Tribolium castaneum</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">658144</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="298" length="7"/>
+        <text>TcMyo15</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">662874</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="385" length="7"/>
+        <text>TcMyo7B</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">657914</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="445" length="7"/>
+        <text>TcMyo20</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">659358</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="501" length="6"/>
+        <text>TcMhc1</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">663025</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="554" length="6"/>
+        <text>TcMhc2</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">656579</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="598" length="6"/>
+        <text>TcMyo9</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">658144</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="661" length="7"/>
+        <text>TcMyo15</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">662874</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="670" length="7"/>
+        <text>TcMyo7B</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">663025</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="682" length="6"/>
+        <text>TcMhc2</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">656579</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="768" length="6"/>
+        <text>TcMyo9</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">657914</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="779" length="7"/>
+        <text>TcMyo20</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">659358</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="850" length="6"/>
+        <text>TcMhc1</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">657914</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="921" length="7"/>
+        <text>TcMyo20</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">656579</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="993" length="6"/>
+        <text>TcMyo9</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">658144</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1059" length="7"/>
+        <text>TcMyo15</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">659358</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1070" length="6"/>
+        <text>TcMhc1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">663025</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1111" length="6"/>
+        <text>TcMhc2</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

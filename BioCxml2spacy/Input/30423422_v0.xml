@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30423422</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Functional characterization of odorant-binding proteins from the scarab beetle Holotrichia oblita based on semiochemical-induced expression alteration and gene silencing.</text>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:29:41Z</infon>
+        <location offset="31" length="23"/>
+        <text>odorant-binding protein</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">644536</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="79" length="18"/>
+        <text>Holotrichia oblita</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>171</offset>
+      <text>With the advent of next-generation sequencing, it is now possible to rapidly identify the entire repertoire of olfactory genes likely to be involved in chemical communication of an insect species. It remains, however, a challenge to identify olfactory proteins, such as odorant receptors and odorant-binding proteins (OBPs), vis- -vis the odorants they detect. It has been reported that exposing the olfactory system to a physiologically relevant odorant alters the transcript levels of odorant receptor(s) involved in the detection of the tested odorant. We applied this paradigm in an attempt to identify putative OBPs from the scarab beetle Holotrichia oblita involved in the reception of plant-derived kairomones. Twenty-nine OBP genes were identified in the H. oblita transcriptome, 20 of which were enriched in antennae compared with nonolfactory tissues. Of these, 2 OBP genes, HoblOBP13 and HoblOBP9, were upregulated upon exposure to one of the female attractants (E)-2-hexenol and phenethyl alcohol; none of the OBP transcripts changed upon exposure to methyl anthranilate, which does not attract H. oblita females. Binding assays showed that HoblOBP13 and HoblOBP9 have high affinity for (E)-2-hexenol and phenethyl alcohol, respectively. RNAi treatment showed that transcripts of both HoblOBP13 and HoblOBP9 declined in a time-course manner 24-72  h postinjection. OBP-dsRNA-treated female beetles showed significantly lower attraction to (E)-2-hexenol and phenethyl alcohol than did water-injected beetles and those treated with GFP-dsRNA. We, therefore, concluded that HoblOBP13 and HoblOBP9 are essential for H. oblita reception of the plant-derived kairomones (E)-2-hexenol and phenethyl alcohol.</text>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:30:13Z</infon>
+        <location offset="441" length="16"/>
+        <text>odorant receptor</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:29:55Z</infon>
+        <location offset="463" length="23"/>
+        <text>odorant-binding protein</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:30:00Z</infon>
+        <location offset="489" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:30:24Z</infon>
+        <location offset="787" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">644536</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="815" length="18"/>
+        <text>Holotrichia oblita</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">MESH:D010675</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="877" length="10"/>
+        <text>kairomones</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="901" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">644536</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="934" length="9"/>
+        <text>H. oblita</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1045" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1056" length="9"/>
+        <text>HoblOBP13</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1070" length="8"/>
+        <text>HoblOBP9</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">MESH:C529979</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1144" length="13"/>
+        <text>(E)-2-hexenol</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:D010626</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1162" length="17"/>
+        <text>phenethyl alcohol</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1193" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">MESH:C038892</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1234" length="19"/>
+        <text>methyl anthranilate</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">644536</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1278" length="9"/>
+        <text>H. oblita</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1324" length="9"/>
+        <text>HoblOBP13</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1338" length="8"/>
+        <text>HoblOBP9</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">MESH:C529979</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1370" length="13"/>
+        <text>(E)-2-hexenol</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:D010626</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1388" length="17"/>
+        <text>phenethyl alcohol</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1468" length="9"/>
+        <text>HoblOBP13</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1482" length="8"/>
+        <text>HoblOBP9</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1548" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">MESH:C529979</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1622" length="13"/>
+        <text>(E)-2-hexenol</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">MESH:D010626</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1640" length="17"/>
+        <text>phenethyl alcohol</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1754" length="9"/>
+        <text>HoblOBP13</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1768" length="8"/>
+        <text>HoblOBP9</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">644536</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1795" length="9"/>
+        <text>H. oblita</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">MESH:D010675</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1836" length="24"/>
+        <text>kairomones (E)-2-hexenol</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">MESH:D010626</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1865" length="17"/>
+        <text>phenethyl alcohol</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

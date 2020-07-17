@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>12459185</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Molecular cloning and functional expression of a Drosophila receptor for the neuropeptides capa-1 and -2.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="49" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:28:58Z</infon>
+        <location offset="91" length="6"/>
+        <text>capa-1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>106</offset>
+      <text>The Drosophila Genome Project website contains an annotated gene (CG14575) for a G protein-coupled receptor. We cloned this receptor and found that the cloned cDNA did not correspond to the annotated gene; it partly contained different exons and additional exons located at the 5( )-end of the annotated gene. We expressed the coding part of the cloned cDNA in Chinese hamster ovary cells and found that the receptor was activated by two neuropeptides, capa-1 and -2, encoded by the Drosophila capability gene. Database searches led to the identification of a similar receptor in the genome from the malaria mosquito Anopheles gambiae (58% amino acid residue identities; 76% conserved residues; and 5 introns at identical positions within the two insect genes). Because capa-1 and -2 and related insect neuropeptides stimulate fluid secretion in insect Malpighian (renal) tubules, the identification of this first insect capa receptor will advance our knowledge on insect renal function.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="110" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">40393</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="172" length="7"/>
+        <text>CG14575</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:27:52Z</infon>
+        <location offset="187" length="26"/>
+        <text>G protein-coupled receptor</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:28:31Z</infon>
+        <location offset="559" length="6"/>
+        <text>capa-1</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="589" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:28:36Z</infon>
+        <location offset="600" length="10"/>
+        <text>capability</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="723" length="17"/>
+        <text>Anopheles gambiae</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:28:50Z</infon>
+        <location offset="876" length="6"/>
+        <text>capa-1</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:29:22Z</infon>
+        <location offset="1027" length="4"/>
+        <text>capa</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30101471</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Constitutive overexpression of cytochrome P450 monooxygenase genes contributes to chlorantraniliprole resistance in Chilo suppressalis (Walker).</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="31" length="29"/>
+        <text>cytochrome P450 monooxygenase</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">MESH:C517733</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="82" length="19"/>
+        <text>chlorantraniliprole</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">168631</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="116" length="18"/>
+        <text>Chilo suppressalis</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>145</offset>
+      <text>BACKGROUND: The rice striped stem borer (SSB), Chilo suppressalis (Walker), which is one of the most economically important phytophagous pests, has developed resistance to multiple insecticides. The resistance of SSB against chlorantraniliprole has been investigated in detail. However, the mechanism of its metabolic resistance has rarely been studied. RESULTS: A field population from Wuhu City, China was used to establish chlorantraniliprole resistant and susceptible strains (WHR and WHS) by laboratory continuous selection. Enzyme activities data suggested the potential involvement of cytochrome P450 monooxygenase in WHR. CYP6CV5, CYP9A68, CYP321F3, and CYP324A12 were significantly overexpressed in WHR (from 4.48 to 44.88-fold). These four P450 genes were expressed in the late developmental stages of WHR; however, they were almost absent during the egg stage. In addition, their expressions were much more sensitive to chlorantraniliprole induction in WHR than in WHS. Injection of individual and mixture dsRNAs reduced the expression of the four target genes (55.2-73.2% and 43.2-50.2%, respectively) and caused significant larvae mortality (55.1-65.1% and 88.2%, respectively). CONCLUSION: Multiple overexpressed P450 genes were potentially associated with chlorantraniliprole resistance, as confirmed by the RNA interference (RNAi) assay. Our findings suggested that metabolic resistance to chlorantraniliprole might be mediated by P450s.  2018 Society of Chemical Industry.</text>
+      <annotation id="5">
+        <infon key="identifier">168631</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="192" length="18"/>
+        <text>Chilo suppressalis</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">MESH:C517733</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="370" length="19"/>
+        <text>chlorantraniliprole</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">MESH:C517733</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="571" length="19"/>
+        <text>chlorantraniliprole</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">MESH:D054877</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="634" length="3"/>
+        <text>WHS</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="737" length="29"/>
+        <text>cytochrome P450 monooxygenase</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="775" length="7"/>
+        <text>CYP6CV5</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="784" length="7"/>
+        <text>CYP9A68</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="793" length="8"/>
+        <text>CYP321F3</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="807" length="9"/>
+        <text>CYP324A12</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:36:41Z</infon>
+        <location offset="895" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:C517733</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1076" length="19"/>
+        <text>chlorantraniliprole</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">MESH:D054877</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1121" length="3"/>
+        <text>WHS</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:36:48Z</infon>
+        <location offset="1372" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">MESH:C517733</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1416" length="19"/>
+        <text>chlorantraniliprole</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">MESH:C517733</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1551" length="19"/>
+        <text>chlorantraniliprole</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:36:53Z</infon>
+        <location offset="1592" length="4"/>
+        <text>P450</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>20457161</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Evolutionary divergence of the paralogs Methoprene tolerant (Met) and germ cell expressed (gce) within the genus Drosophila.</text>
+      <annotation id="1">
+        <infon key="identifier">32114</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="40" length="19"/>
+        <text>Methoprene tolerant</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">32114</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="61" length="3"/>
+        <text>Met</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="70" length="19"/>
+        <text>germ cell expressed</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="91" length="3"/>
+        <text>gce</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="113" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>125</offset>
+      <text>Juvenile hormone (JH) signaling underpins both regulatory and developmental pathways in insects. However, the JH receptor is poorly understood. Methoprene tolerant (Met) and germ cell expressed (gce) have been implicated in JH signaling in Drosophila. We investigated the evolution of Met and gce across 12 Drosophila species and found that these paralogs are conserved across at least 63 million years of dipteran evolution. Distinct patterns of selection found using estimates of dN/dS ratios across Drosophila Met and gce coding sequences, along with their incongruent temporal expression profiles in embryonic Drosophila melanogaster, illustrate avenues through which these genes have diverged within the Diptera. Additionally, we demonstrate that the annotated gene CG15032 is the 5  terminus of gce. In mosquitoes and beetles, a single Met-like homolog displays structural similarity to both Met and gce, and the intron locations are conserved with those of gce. We found that Tribolium and mosquito Met orthologs are assembled from Met- and gce-specific domains in a modular fashion. Our results suggest that Drosophila Met and gce experienced divergent evolutionary pressures following the duplication of an ancestral gce-like gene found in less derived holometabolous insects.</text>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="235" length="11"/>
+        <text>JH receptor</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">32114</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="269" length="19"/>
+        <text>Methoprene tolerant</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">32114</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="290" length="3"/>
+        <text>Met</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="299" length="19"/>
+        <text>germ cell expressed</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="320" length="3"/>
+        <text>gce</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="365" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">32114</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="410" length="3"/>
+        <text>Met</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="418" length="3"/>
+        <text>gce</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="432" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="627" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">32114</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="638" length="3"/>
+        <text>Met</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="646" length="3"/>
+        <text>gce</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="739" length="23"/>
+        <text>Drosophila melanogaster</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="896" length="7"/>
+        <text>CG15032</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="926" length="3"/>
+        <text>gce</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">32114</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="967" length="3"/>
+        <text>Met</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">32114</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1023" length="3"/>
+        <text>Met</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1031" length="3"/>
+        <text>gce</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1089" length="3"/>
+        <text>gce</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:53:39Z</infon>
+        <location offset="1108" length="9"/>
+        <text>Tribolium</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">32114</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1131" length="3"/>
+        <text>Met</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">32114</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1164" length="3"/>
+        <text>Met</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1173" length="3"/>
+        <text>gce</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1241" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">32114</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1252" length="3"/>
+        <text>Met</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1260" length="3"/>
+        <text>gce</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1351" length="3"/>
+        <text>gce</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

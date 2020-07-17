@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>22081039</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Post-embryonic functions of HSP90 in Tribolium castaneum include the regulation of compound eye development.</text>
+      <annotation id="1">
+        <infon key="identifier">656270</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="28" length="5"/>
+        <text>HSP90</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="37" length="19"/>
+        <text>Tribolium castaneum</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>109</offset>
+      <text>Heat shock protein 90 (HSP90) belongs to a family of conserved chaperons with multiple roles in stress adaptation and development, including spermatogenesis, oogenesis and embryogenesis in insects. In the red flour beetle, Tribolium castaneum, we found that HSP90 is transiently upregulated during larval development, in prepupae, in female pupae and in adults, suggesting multiple post-embryonic roles. We found that silencing HSP90 expression by RNA interference was lethal within 10 days at all developmental stages. Titration experiments revealed that larvae were more susceptible than pupae or beetles. Interestingly, HSP90 silencing in final instar larvae resulted in abnormal pupal phenotypes lacking compound eyes and exhibiting prepupal features, suggesting developmental arrest at the prepupal stage. Our results suggest that HSP90 functions can be expanded beyond the known ones in insect embryogenesis to include roles in post-embryonic development such as the regulation of compound eye development.</text>
+      <annotation id="3">
+        <infon key="identifier">656270</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="109" length="21"/>
+        <text>Heat shock protein 90</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">656270</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="132" length="5"/>
+        <text>HSP90</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="332" length="19"/>
+        <text>Tribolium castaneum</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">656270</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="367" length="5"/>
+        <text>HSP90</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">656270</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="537" length="5"/>
+        <text>HSP90</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">656270</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="732" length="5"/>
+        <text>HSP90</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:D006323</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="876" length="20"/>
+        <text>developmental arrest</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">656270</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="945" length="5"/>
+        <text>HSP90</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

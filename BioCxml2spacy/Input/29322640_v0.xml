@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29322640</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Conserved roles of Osiris genes in insect development, polymorphism and protection.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="19" length="6"/>
+        <text>Osiris</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>84</offset>
+      <text>Much of the variation among insects is derived from the different ways that chitin has been moulded to form rigid structures, both internal and external. In this study, we identify a highly conserved expression pattern in an insect-only gene family, the Osiris genes, that is essential for development, but also plays a significant role in phenotypic plasticity and in immunity/toxicity responses. The majority of Osiris genes exist in a highly syntenic cluster, and the cluster itself appears to have arisen very early in the evolution of insects. We used developmental gene expression in the fruit fly, Drosophila melanogaster, the bumble bee, Bombus terrestris, the harvester ant, Pogonomyrmex barbatus, and the wood ant, Formica exsecta, to compare patterns of Osiris gene expression both during development and between alternate caste phenotypes in the polymorphic social insects. Developmental gene expression of Osiris genes is highly conserved across species and correlated with gene location and evolutionary history. The social insect castes are highly divergent in pupal Osiris gene expression. Sets of co-expressed genes that include Osiris genes are enriched in gene ontology terms related to chitin/cuticle and peptidase activity. Osiris genes are essential for cuticle formation in both embryos and pupae, and genes co-expressed with Osiris genes affect wing development. Additionally, Osiris genes and those co-expressed seem to play a conserved role in insect toxicology defences and digestion. Given their role in development, plasticity, and protection, we propose that the Osiris genes play a central role in insect adaptive evolution.</text>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="338" length="6"/>
+        <text>Osiris</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">MESH:D064420</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="462" length="8"/>
+        <text>toxicity</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="498" length="6"/>
+        <text>Osiris</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="689" length="23"/>
+        <text>Drosophila melanogaster</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">30195</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="730" length="17"/>
+        <text>Bombus terrestris</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">144034</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="768" length="21"/>
+        <text>Pogonomyrmex barbatus</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">72781</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="809" length="15"/>
+        <text>Formica exsecta</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="849" length="6"/>
+        <text>Osiris</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1003" length="6"/>
+        <text>Osiris</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1166" length="6"/>
+        <text>Osiris</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1230" length="6"/>
+        <text>Osiris</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1329" length="6"/>
+        <text>Osiris</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1433" length="6"/>
+        <text>Osiris</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1485" length="6"/>
+        <text>Osiris</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1677" length="6"/>
+        <text>Osiris</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

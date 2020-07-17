@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>20130575</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Odorant reception in the malaria mosquito Anopheles gambiae.</text>
+      <annotation id="1">
+        <infon key="identifier">D008288</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="25" length="7"/>
+        <text>malaria</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="42" length="17"/>
+        <text>Anopheles gambiae</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>61</offset>
+      <text>The mosquito Anopheles gambiae is the major vector of malaria in sub-Saharan Africa. It locates its human hosts primarily through olfaction, but little is known about the molecular basis of this process. Here we functionally characterize the Anopheles gambiae odorant receptor (AgOr) repertoire. We identify receptors that respond strongly to components of human odour and that may act in the process of human recognition. Some of these receptors are narrowly tuned, and some salient odorants elicit strong responses from only one or a few receptors, suggesting a central role for specific transmission channels in human host-seeking behaviour. This analysis of the Anopheles gambiae receptors permits a comparison with the corresponding Drosophila melanogaster odorant receptor repertoire. We find that odorants are differentially encoded by the two species in ways consistent with their ecological needs. Our analysis of the Anopheles gambiae repertoire identifies receptors that may be useful targets for controlling the transmission of malaria.</text>
+      <annotation id="3">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="74" length="17"/>
+        <text>Anopheles gambiae</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">D008288</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="115" length="7"/>
+        <text>malaria</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="303" length="17"/>
+        <text>Anopheles gambiae</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="321" length="16"/>
+        <text>odorant receptor</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:08:22Z</infon>
+        <location offset="339" length="4"/>
+        <text>AgOr</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="727" length="17"/>
+        <text>Anopheles gambiae</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="799" length="23"/>
+        <text>Drosophila melanogaster</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="823" length="16"/>
+        <text>odorant receptor</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="988" length="17"/>
+        <text>Anopheles gambiae</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">D008288</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1101" length="7"/>
+        <text>malaria</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

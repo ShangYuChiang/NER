@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31022386</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Bombyxin/Akt signaling in relation to the embryonic diapause process of the silkworm, Bombyx mori.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="8"/>
+        <text>Bombyxin</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">100141438</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="9" length="3"/>
+        <text>Akt</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="76" length="8"/>
+        <text>silkworm</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="86" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>99</offset>
+      <text>Our previous study showed that phosphorylation of glycogen synthase kinase (GSK)-3b is related to the embryonic diapause process in Bombyx. However, the upstream signaling pathway was not clearly understood. In the present study, we examined bombyxin/Akt signaling in relation to the embryonic diapause process of B. mori. Results showed that GSK-3b phosphorylation stimulated by dechorionation was blocked by LY294002, a specific phosphatidylinositol 3-kinase (PI3K) inhibitor, indicating involvement of PI3K in GSK-3b phosphorylation in dechorionated eggs. Direct determination of Akt phosphorylation showed that dechorionation stimulated Akt phosphorylation. The Akt phosphorylation was blocked by LY294002. Temporal changes in Akt phosphorylation showed that different changing patterns exist between diapause and developing eggs. Relatively higher phosphorylation levels of Akt were detected between days 3 and 5 after oviposition in non-diapause eggs compared to those at the same stages in diapause eggs. Upon treatment with HCl, which prevents diapause initiation, Akt phosphorylation levels exhibited a later and much broader peak compared to diapause eggs. Examination of expression levels of the bombyxin-Z1 gene showed that in diapause eggs, a major peak occurred 1  day after oviposition, and its level then sharply decreased on day 2. However, in both non-diapause and HCl-treated eggs, a major broad peak was detected between days 1 and 4 after oviposition. These temporal changes in bombyxin-Z1 gene expression levels during embryonic stages coincided with changes in Akt phosphorylation, indicating that bombyxin-Z1 is likely an upstream signaling component for Akt phosphorylation. Taken together, our results indicated that PI3K/Akt is an upstream signaling pathway for GSK-3b phosphorylation and is associated with the diapause process of B. mori eggs. To our knowledge, this is the first study to demonstrate the potential correlation between bombyxin/Akt signaling and the embryonic diapause process.</text>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T20:19:13Z</infon>
+        <location offset="149" length="24"/>
+        <text>glycogen synthase kinase</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T20:19:16Z</infon>
+        <location offset="174" length="8"/>
+        <text>(GSK)-3b</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="231" length="6"/>
+        <text>Bombyx</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="341" length="8"/>
+        <text>bombyxin</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">100141438</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="350" length="3"/>
+        <text>Akt</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="413" length="7"/>
+        <text>B. mori</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T20:19:23Z</infon>
+        <location offset="442" length="6"/>
+        <text>GSK-3b</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">MESH:C085911</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="509" length="8"/>
+        <text>LY294002</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">100158253</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="530" length="29"/>
+        <text>phosphatidylinositol 3-kinase</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T20:19:28Z</infon>
+        <location offset="561" length="4"/>
+        <text>PI3K</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T20:19:29Z</infon>
+        <location offset="604" length="4"/>
+        <text>PI3K</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T20:19:32Z</infon>
+        <location offset="612" length="6"/>
+        <text>GSK-3b</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">100141438</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="682" length="3"/>
+        <text>Akt</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">100141438</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="740" length="3"/>
+        <text>Akt</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">100141438</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="765" length="3"/>
+        <text>Akt</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:C085911</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="800" length="8"/>
+        <text>LY294002</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">100141438</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="830" length="3"/>
+        <text>Akt</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">100141438</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="978" length="3"/>
+        <text>Akt</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">MESH:C014843</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1131" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">100141438</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1172" length="3"/>
+        <text>Akt</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1306" length="11"/>
+        <text>bombyxin-Z1</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">MESH:C014843</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1482" length="3"/>
+        <text>HCl</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1598" length="11"/>
+        <text>bombyxin-Z1</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">100141438</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1683" length="3"/>
+        <text>Akt</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1720" length="11"/>
+        <text>bombyxin-Z1</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">100141438</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1778" length="3"/>
+        <text>Akt</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T20:19:40Z</infon>
+        <location offset="1842" length="4"/>
+        <text>PI3K</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">100141438</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1847" length="3"/>
+        <text>Akt</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T20:19:41Z</infon>
+        <location offset="1888" length="6"/>
+        <text>GSK-3b</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1958" length="7"/>
+        <text>B. mori</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2063" length="8"/>
+        <text>bombyxin</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">100141438</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2072" length="3"/>
+        <text>Akt</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

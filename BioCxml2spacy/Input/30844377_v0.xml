@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30844377</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Decapentaplegic function in wing vein development and wing morph transformation in brown planthopper, Nilaparvata lugens.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="15"/>
+        <text>Decapentaplegic</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>122</offset>
+      <text>The decapentaplegic (dpp) gene plays a variety of roles in diverse cellular and molecular processes of the growth and development. In insects, dpp is mainly required for dorsal-ventral patterning and appendage formation. The brown planthopper (BPH) Nilaparvata lugens, a major pest of rice, possesses two distinct wing morphs described as long-winged (LW) and short-winged (SW) morphs. With our lab-maintained stable strains of LW and SW BPH, RNA interference (RNAi) was used to research the functions of N. lugens dpp (Nldpp) on wing development. Silencing of Nldpp in the SW strain led to the significant lengthening of the forewing, while Nldpp-knockdown in the LW strain resulted in distorted wings. Moreover, knockdown of Nldpp caused the complete absence of wing veins. During the development of wing-pads, the Nldpp abundance in the terga of the SW strain was significantly higher than that of the LW strain. Through controlling the direction of wing morph transformation, we found that the expression level of Nldpp increased in the NlInR1-knockdown BPH (tending to SW) and abundance of Nldpp declined after dsNlInR2 injection (tending to LW). Our results showed that Nldpp is mainly responsible for the formation and development of veins in BPH. Also, Nldpp can be regulated by NlInR1/2 and participate in the wing morph transformation.</text>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="126" length="15"/>
+        <text>decapentaplegic</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="143" length="3"/>
+        <text>dpp</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="265" length="3"/>
+        <text>dpp</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">4530</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="407" length="4"/>
+        <text>rice</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="637" length="3"/>
+        <text>dpp</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="642" length="5"/>
+        <text>Nldpp</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="683" length="5"/>
+        <text>Nldpp</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="764" length="5"/>
+        <text>Nldpp</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="849" length="5"/>
+        <text>Nldpp</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="939" length="5"/>
+        <text>Nldpp</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1140" length="5"/>
+        <text>Nldpp</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:03:22Z</infon>
+        <location offset="1163" length="6"/>
+        <text>NlInR1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1217" length="5"/>
+        <text>Nldpp</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1298" length="5"/>
+        <text>Nldpp</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1383" length="5"/>
+        <text>Nldpp</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:03:27Z</infon>
+        <location offset="1409" length="6"/>
+        <text>NlInR1</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

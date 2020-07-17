@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>25516715</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>The insect ecdysone receptor is a good potential target for RNAi-based pest control.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="11" length="17"/>
+        <text>ecdysone receptor</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>85</offset>
+      <text>RNA interference (RNAi) has great potential for use in insect pest control. However, some significant challenges must be overcome before RNAi-based pest control can become a reality. One challenge is the proper selection of a good target gene for RNAi. Here, we report that the insect ecdysone receptor (EcR) is a good potential target for RNAi-based pest control in the brown planthopper Nilaparvata lugens, a serious insect pest of rice plants. We demonstrated that the use of a 360 bp fragment (NlEcR-c) that is common between NlEcR-A and NlEcR-B for feeding RNAi experiments significantly decreased the relative mRNA expression levels of NlEcR compared with those in the dsGFP control. Feeding RNAi also resulted in a significant reduction in the number of offspring per pair of N. lugens. Consequently, a transgenic rice line expressing NlEcR dsRNA was constructed by Agrobacterium- mediated transformation. The results of qRT-PCR showed that the total copy number of the target gene in all transgenic rice lines was 2. Northern blot analysis showed that the small RNA of the hairpin dsNlEcR-c was successfully expressed in the transgenic rice lines. After newly hatched nymphs of N. lugens fed on the transgenic rice lines, effective RNAi was observed. The NlEcR expression levels in all lines examined were decreased significantly compared with the control. In all lines, the survival rate of the nymphs was nearly 90%, and the average number of offspring per pair in the treated groups was significantly less than that observed in the control, with a decrease of 44.18-66.27%. These findings support an RNAi-based pest control strategy and are also important for the management of rice insect pests.</text>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="370" length="17"/>
+        <text>ecdysone receptor</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="389" length="3"/>
+        <text>EcR</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="474" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:53:36Z</infon>
+        <location offset="583" length="7"/>
+        <text>NlEcR-c</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:53:43Z</infon>
+        <location offset="615" length="7"/>
+        <text>NlEcR-A</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:53:48Z</infon>
+        <location offset="627" length="7"/>
+        <text>NlEcR-B</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="727" length="5"/>
+        <text>NlEcR</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="868" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="927" length="5"/>
+        <text>NlEcR</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1271" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1348" length="5"/>
+        <text>NlEcR</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

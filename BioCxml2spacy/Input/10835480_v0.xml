@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>10835480</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Anopheles stephensi Dox-A2 shares common ancestry with genes from distant groups of eukaryotes encoding a 26S proteasome subunit and is in a conserved gene cluster.</text>
+      <annotation id="1">
+        <infon key="identifier">30069</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="19"/>
+        <text>Anopheles stephensi</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">35176</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="20" length="6"/>
+        <text>Dox-A2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>165</offset>
+      <text>The sequence of a cloned Anopheles stephensi gene showed 72% inferred amino acid identity with Drosophila melanogaster Dox-A2 and 93% with its putative ortholog in Anopheles gambiae. Dox-A2 is the reported but herein disputed structural locus for diphenol oxidase A2. Database searches identified Dox-A2 related gene sequences from 15 non-insect species from diverse groups. Phylogenetic trees based on alignments of inferred protein sequences, DNA, and protein motif searches and protein secondary structure predictions produced results consistent with expectations for genes that are orthologous. The only inconsistency was that the C-terminus appears to be more primitive in the yeasts than in plants. In mammals, plants, and yeast these genes have been shown to code for a non-ATPase subunit of the PA700 (19S) regulatory complex of 26S proteasome. The analyses indicated that the insect genes contain no divergent structural features, which taken within an appraisal of all available data, makes the reported alternative function highly improbable. A plausible additional role, in which the 26S proteasome is implicated in regulation of phenol oxidase, would also apply to at least the mammalian genes. No function has yet been reported for the other included sequences. These were from genome projects and included Caenorhabiditus elegans, Arabidopsis thaliana, Fugu rubripes, and Toxoplasma gondii. A consensus of the results predicts a protein containing exceptionally long stretches of helix with a hydrophilic C-terminus. Phosphorylation site motifs were identified at two conserved positions. Possible SRY and GATA-1 binding motifs were found at conserved positions upstream of the mosquito genes. The location of A. stephensi Dox-A2 was determined by in situ hybridization at 34D on chromosome arm 3R. It is in a conserved gene cluster with respect to the other insects. However, the A. stephensi cluster contains a gene showing significant sequence identity to human and pigeon carnitine acetyltransferase genes, therefore showing divergence with the distal end of the D. melanogaster cluster.</text>
+      <annotation id="3">
+        <infon key="identifier">30069</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="190" length="19"/>
+        <text>Anopheles stephensi</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="260" length="23"/>
+        <text>Drosophila melanogaster</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">35176</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="284" length="6"/>
+        <text>Dox-A2</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="329" length="17"/>
+        <text>Anopheles gambiae</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">35176</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="348" length="6"/>
+        <text>Dox-A2</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:37:23Z</infon>
+        <location offset="412" length="19"/>
+        <text>diphenol oxidase A2</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">35176</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="462" length="6"/>
+        <text>Dox-A2</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">D002244</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="800" length="1"/>
+        <text>C</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1307" length="14"/>
+        <text>phenol oxidase</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">9606</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1356" length="9"/>
+        <text>mammalian</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1486" length="23"/>
+        <text>Caenorhabiditus elegans</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">3702</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1511" length="20"/>
+        <text>Arabidopsis thaliana</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">31033</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1533" length="13"/>
+        <text>Fugu rubripes</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1552" length="17"/>
+        <text>Toxoplasma gondii</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">D002244</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1685" length="1"/>
+        <text>C</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">30069</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1890" length="12"/>
+        <text>A. stephensi</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">35176</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1903" length="6"/>
+        <text>Dox-A2</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">30069</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2061" length="12"/>
+        <text>A. stephensi</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">9606</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2139" length="5"/>
+        <text>human</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2156" length="27"/>
+        <text>carnitine acetyltransferase</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2247" length="15"/>
+        <text>D. melanogaster</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29087606</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Genome-wide identification of chitin-binding proteins and characterization of BmCBP1 in the silkworm, Bombyx mori.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="30" length="23"/>
+        <text>chitin-binding proteins</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="78" length="6"/>
+        <text>BmCBP1</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="92" length="8"/>
+        <text>silkworm</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="102" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>115</offset>
+      <text>The insect cuticle plays important roles in numerous physiological functions to protect the body from invasion of pathogens, physical injury and dehydration. In this report, we conducted a comprehensive genome-wide search for genes encoding proteins with peritrophin A-type (ChtBD2) chitin-binding domain (CBD) in the silkworm, Bombyx mori. One of these genes, which encodes the cuticle protein BmCBP1, was additionally cloned, and its expression and location during the process of development and molting in B. mori were investigated. In total, 46 protein-coding genes were identified in the silkworm genome, including those encoding 15 cuticle proteins analogous to peritrophins with one CBD (CPAP1s), nine cuticle proteins analogous to peritrophins with three CBD (CPAP3s), 15 peritrophic membrane proteins (PMPs), four chitinases, and three chitin deacetylases, which contained at least one ChtBD2 domain. Microarray analysis indicated that CPAP-encoding genes were widely expressed in various tissues, whereas PMP genes were highly expressed in the midgut. Quantitative polymerase chain reaction and western blotting showed that the cuticle protein BmCBP1 was highly expressed in the epidermis and head, particularly during molting and metamorphosis. An immunofluorescence study revealed that chitin co-localized with BmCBP1 at the epidermal surface during molting. Additionally, BmCBP1 was notably up-regulated by 20-hydroxyecdysone treatment. These results provide a genome-level view of the chitin-binding protein in silkworm and suggest that BmCBP1 participates in the formation of the new cuticle during molting.</text>
+      <annotation id="5">
+        <infon key="identifier">MESH:D003681</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="240" length="31"/>
+        <text>physical injury and dehydration</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:21:31Z</infon>
+        <location offset="370" length="13"/>
+        <text>peritrophin A</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="433" length="8"/>
+        <text>silkworm</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="443" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="494" length="15"/>
+        <text>cuticle protein</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="510" length="6"/>
+        <text>BmCBP1</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="624" length="7"/>
+        <text>B. mori</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="708" length="8"/>
+        <text>silkworm</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="753" length="15"/>
+        <text>cuticle protein</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:20:43Z</infon>
+        <location offset="783" length="11"/>
+        <text>peritrophin</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:22:45Z</infon>
+        <location offset="810" length="5"/>
+        <text>CPAP1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:19:56Z</infon>
+        <location offset="824" length="15"/>
+        <text>cuticle protein</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:20:35Z</infon>
+        <location offset="854" length="11"/>
+        <text>peritrophin</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:22:46Z</infon>
+        <location offset="883" length="5"/>
+        <text>CPAP3</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:19:59Z</infon>
+        <location offset="895" length="28"/>
+        <text>peritrophic membrane protein</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:24:27Z</infon>
+        <location offset="926" length="3"/>
+        <text>PMP</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:20:01Z</infon>
+        <location offset="938" length="9"/>
+        <text>chitinase</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:20:05Z</infon>
+        <location offset="960" length="18"/>
+        <text>chitin deacetylase</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1253" length="15"/>
+        <text>cuticle protein</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1269" length="6"/>
+        <text>BmCBP1</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1438" length="6"/>
+        <text>BmCBP1</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1500" length="6"/>
+        <text>BmCBP1</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">MESH:D004441</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1535" length="18"/>
+        <text>20-hydroxyecdysone</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1614" length="22"/>
+        <text>chitin-binding protein</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1640" length="8"/>
+        <text>silkworm</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1666" length="6"/>
+        <text>BmCBP1</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

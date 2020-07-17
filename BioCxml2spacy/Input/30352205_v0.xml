@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30352205</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Identification, characterization and expression analysis of Anopheles stephensi double peroxidase.</text>
+      <annotation id="1">
+        <infon key="identifier">30069</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="60" length="19"/>
+        <text>Anopheles stephensi</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>99</offset>
+      <text>Peroxidases catalyze the reduction of peroxides and that, in turn, oxidize various substrates. They have been widely reported to play an important role in mosquito innate immunity against various pathogens. Here, we have characterized double heme peroxidase (AsDBLOX) gene from the Indian malaria vector Anopheles stephensi. It is a true ortholog of An. gambiae DBLOX. This 4209 bp AsDBLOX gene encodes for a protein of 1402 amino acids that has two duplicated peroxidase domains, domain I (from amino acid 61 to 527) and domain II (from amino acid 714 to 1252). The first domain has only substrate binding sites and lacks all other motifs of a functional heme peroxidase (e.g. heme binding site, calcium binding site and homodimer interface). Instead, it has two integrin binding motifs-LDV (Leu-Asp-Val) and RGD (Arg-Gly-Asp). The second peroxidase domain, however, has all the features of a complete heme peroxidase along with an integrin binding motif LDI (Leu-Asp-Ile). Thus, AsDBLOX gene is a unique type of peroxinectin as these groups of proteins are characterized by integrin binding motifs along with a heme peroxidase domain. We also observed that the AsDBLOX gene is expressed in all the life cycle stages of mosquito and is highly induced in the pupal stage of development which indicates its possible role in development.</text>
+      <annotation id="2">
+        <infon key="identifier">MESH:D010545</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="137" length="9"/>
+        <text>peroxides</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="334" length="22"/>
+        <text>double heme peroxidase</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="358" length="7"/>
+        <text>AsDBLOX</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">MESH:D008288</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="388" length="7"/>
+        <text>malaria</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">30069</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="403" length="19"/>
+        <text>Anopheles stephensi</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="449" length="11"/>
+        <text>An. gambiae</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="461" length="5"/>
+        <text>DBLOX</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="481" length="7"/>
+        <text>AsDBLOX</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:D006418</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="755" length="4"/>
+        <text>heme</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">MESH:D006418</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="777" length="4"/>
+        <text>heme</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">MESH:D002118</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="796" length="7"/>
+        <text>calcium</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">MESH:C090763</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="892" length="11"/>
+        <text>Leu-Asp-Val</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:C047981</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="914" length="11"/>
+        <text>Arg-Gly-Asp</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">MESH:D006418</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1002" length="4"/>
+        <text>heme</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">MESH:C061058</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1060" length="11"/>
+        <text>Leu-Asp-Ile</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1080" length="7"/>
+        <text>AsDBLOX</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">MESH:D006418</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1212" length="4"/>
+        <text>heme</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1262" length="7"/>
+        <text>AsDBLOX</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

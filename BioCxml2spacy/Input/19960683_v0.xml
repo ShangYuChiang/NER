@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>19960683</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Expression of a novel member of the odorant-binding protein gene family in Culex nigripalpus (Diptera: Culicidae).</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="36" length="23"/>
+        <text>odorant-binding protein</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">42429</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="75" length="17"/>
+        <text>Culex nigripalpus</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>115</offset>
+      <text>We previously showed that gene expression in the midgut of female Culex nigripalpus Theobald (Diptera: Culicidae) was altered after ingestion of a bloodmeal and some of the expressed cDNAs showed stage-, sex-, and tissue-specific expression. One of these expressed cDNAs, CN G11B, is here shown to be similar to members of a gene family that encodes odorant-binding proteins. CN G11B.1 is a cDNA fragment of 721 bp, is incomplete at the 5 -end, and contains a canonical polyadenylic acid tail signal sequence in the 103-bp 3 -untranslated region. Translation of CN G11B.1 provides a putative protein product of 207 amino acids. GenBank tblastx, VectorBase, and Pfam database searches showed identity to hypothetical proteins from Culex pipiens quinquefasciatus Say (86%) and Aedes aegypti (L.) (55%). These proteins have structural motifs similar to those found in the gene family that includes odorant-binding proteins. CN G11B.1 putative protein has two of the six cysteines that are highly conserved in most invertebrate odorant-binding proteins. CN G11B.1 expression increased in thoraces (6-12 h) and in abdomens (3-48 h) of blood fed female Cx. nigripalpus but was not detected in RNA from heads, indicating a possible role in both chemoreception and blood feeding.</text>
+      <annotation id="3">
+        <infon key="identifier">42429</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="181" length="17"/>
+        <text>Culex nigripalpus</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">D011061</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="585" length="17"/>
+        <text>polyadenylic acid</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">7176</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="845" length="30"/>
+        <text>Culex pipiens quinquefasciatus</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7159</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="890" length="13"/>
+        <text>Aedes aegypti</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1010" length="23"/>
+        <text>odorant-binding protein</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">D003545</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1082" length="9"/>
+        <text>cysteines</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1139" length="23"/>
+        <text>odorant-binding protein</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1262" length="15"/>
+        <text>Cx. nigripalpus</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

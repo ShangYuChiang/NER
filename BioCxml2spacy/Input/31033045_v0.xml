@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31033045</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>DDC plays vital roles in the wing spot formation, egg production, and chorion tanning in the brown planthopper.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="3"/>
+        <text>DDC</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>112</offset>
+      <text>The gene dopa decarboxylase (Nlddc) of the brown planthopper (BPH, Nilaparvata lugens) was identified in the genome and transcriptome of the insect. The open reading frame of Nlddc is 1,434 bp in length and, it has the potential to encode a protein of 477 amino acid with a conserved pyridoxal-dependent decarboxylase domain and a typical motif, NFNPHKW. Real-time quantification polymerase chain reaction analyses revealed that this gene was highly expressed in the integument and brain, and transcript level peaked in the late stages of egg period and each nymph instar with periodicity. RNA interference results revealed that Nlddc played essential roles in pigment synthesis, formation of wing spot, egg production, and tanning of the chorion. A rapid accumulation of Nlddc transcripts was detected, and it coincided with the injection of the hormone 20-hydroxyecdysone (20E), suggesting that Nlddc transcription was regulated by 20E.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="121" length="18"/>
+        <text>dopa decarboxylase</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="141" length="5"/>
+        <text>Nlddc</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:42:12Z</infon>
+        <location offset="179" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="287" length="5"/>
+        <text>Nlddc</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">MESH:D011730</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="396" length="9"/>
+        <text>pyridoxal</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="741" length="5"/>
+        <text>Nlddc</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="884" length="5"/>
+        <text>Nlddc</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">MESH:D004441</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="967" length="18"/>
+        <text>20-hydroxyecdysone</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1009" length="5"/>
+        <text>Nlddc</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

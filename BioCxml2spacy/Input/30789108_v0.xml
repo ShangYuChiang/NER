@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30789108</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Latrophilin mediates insecticides susceptibility and fecundity through two carboxylesterases, esterase4 and esterase6, in Tribolium castaneum.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="11"/>
+        <text>Latrophilin</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="94" length="9"/>
+        <text>esterase4</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">658475</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="108" length="9"/>
+        <text>esterase6</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="122" length="19"/>
+        <text>Tribolium castaneum</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>143</offset>
+      <text>Latrophilin (LPH) is known as an adhesion G-protein-coupled receptor which involved in multiple physiological processes in organisms. Previous studies showed that lph not only involved the susceptibility to anticholinesterase insecticides but also affected fecundity in Tribolium castaneum. However, its regulatory mechanisms in these biological processes are still not clear. Here, we identified two potential downstream carboxylesterase (cce) genes of Tclph, esterase4 and esterase6, and further characterized their interactions with Tclph. After treatment of T. castaneum larvae with carbofuran or dichlorvos insecticides, the transcript levels of Tcest4 and Tcest6 were significantly induced from 12 to 72 h. RNAi against Tcest4 or Tcest6 led to the higher mortality compared with the controls after the insecticides treatment, suggesting that these two genes play a vital role in detoxification of insecticides in T. castaneum. Furthermore, with insecticides exposure to Tclph knockdown beetles, the expression of Tcest4 was upregulated but Tcest6 was downregulated, indicating that beetles existed a compensatory response against the insecticides. Additionally, RNAi of Tcest6 resulted in 43% reductions in female egg laying and completely inhibited egg hatching, which showed the similar phenotype as that of Tclph knockdown. These results indicated that Tclph affected fecundity by positively regulating Tcest6 expression. Our findings will provide a new insight into the molecular mechanisms of Tclph involved in physiological functions in T. castaneum.</text>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="143" length="11"/>
+        <text>Latrophilin</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="156" length="3"/>
+        <text>LPH</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="185" length="26"/>
+        <text>G-protein-coupled receptor</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="306" length="3"/>
+        <text>lph</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="413" length="19"/>
+        <text>Tribolium castaneum</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="565" length="16"/>
+        <text>carboxylesterase</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="583" length="3"/>
+        <text>cce</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="597" length="5"/>
+        <text>Tclph</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="604" length="9"/>
+        <text>esterase4</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">658475</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="618" length="9"/>
+        <text>esterase6</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="679" length="5"/>
+        <text>Tclph</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="705" length="12"/>
+        <text>T. castaneum</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">MESH:D002235</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="730" length="10"/>
+        <text>carbofuran</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">MESH:D004006</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="744" length="10"/>
+        <text>dichlorvos</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="794" length="6"/>
+        <text>Tcest4</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="805" length="6"/>
+        <text>Tcest6</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="869" length="6"/>
+        <text>Tcest4</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="879" length="6"/>
+        <text>Tcest6</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1062" length="12"/>
+        <text>T. castaneum</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1119" length="5"/>
+        <text>Tclph</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1162" length="6"/>
+        <text>Tcest4</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1189" length="6"/>
+        <text>Tcest6</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1319" length="6"/>
+        <text>Tcest6</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1459" length="5"/>
+        <text>Tclph</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1505" length="5"/>
+        <text>Tclph</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1555" length="6"/>
+        <text>Tcest6</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1647" length="5"/>
+        <text>Tclph</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1692" length="12"/>
+        <text>T. castaneum</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

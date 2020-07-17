@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>27472833</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Discovery and functional identification of fecundity-related genes in the brown planthopper by large-scale RNA interference.</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>125</offset>
+      <text>Recently, transcriptome and proteome data have increasingly been used to identify potential novel genes related to insect phenotypes. However, there are few studies reporting the large-scale functional identification of such genes in insects. To identify novel genes related to fecundity in the brown planthopper (BPH), Nilaparvata lugens, 115 genes were selected from the transcriptomic and proteomic data previously obtained from high- and low-fecundity populations in our laboratory. The results of RNA interference (RNAi) feeding experiments showed that 91.21% of the genes were involved in the regulation of vitellogenin (Vg) expression and may influence BPH fecundity. After RNAi injection experiments, 12 annotated genes were confirmed as fecundity-related genes and three novel genes were identified in the BPH. Finally, C-terminal binding protein (CtBP) was shown to play an important role in BPH fecundity. Knockdown of CtBP not only led to lower survival, underdeveloped ovaries and fewer eggs laid but also resulted in a reduction in Vg protein expression. The novel gene resources gained from this study will be useful for constructing a Vg regulation network and may provide potential target genes for RNAi-based pest control.</text>
+      <annotation id="16">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:47:28Z</infon>
+        <location offset="445" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="738" length="12"/>
+        <text>vitellogenin</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="752" length="2"/>
+        <text>Vg</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="954" length="26"/>
+        <text>C-terminal binding protein</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="982" length="4"/>
+        <text>CtBP</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1055" length="4"/>
+        <text>CtBP</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">MESH:D010051</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1107" length="7"/>
+        <text>ovaries</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1171" length="2"/>
+        <text>Vg</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1276" length="2"/>
+        <text>Vg</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

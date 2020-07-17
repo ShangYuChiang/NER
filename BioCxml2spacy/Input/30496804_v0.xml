@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30496804</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>The NompC channel regulates Nilaparvata lugens proprioception and gentle-touch response.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="4" length="5"/>
+        <text>NompC</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="28" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>89</offset>
+      <text>NompC channel is a member of the transient receptor potential (TRP) ion channel superfamily. It can regulate gentle-touch, locomotion, hearing and food texture detection in Drosophila. We cloned the NompC gene of Nilaparvata lugens (NlNompC). The full length NlNompC possessed similar structure as DmNompC, which belongs to TRPN subfamily. The expression pattern analysis of different developmental stages and body parts showed that the transcription of NlNompC was more abundant in adult stage and in the abdomen. Injection of double-stranded RNA (dsRNA) of NlNompC in the third-instar nymphs successfully knocked down the target gene with 75% suppression. At nine days after injection, the survival rate of dsRNA injected nymphs was as low as 9.84%. Behavioral observation revealed that the locomotion of the dsRNA injected nymphs was defective with much less movement compared to the negative control. Feeding and honeydew excretion of the dsRNA injected insects also decreased significantly. These results suggested that NlNompC is a classical mechanotransduction channel that plays important roles in proprioception and locomotion, and is essential for the survival of N. lugens. The results also contribute to the understanding of how TRP channels regulate proprioception.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="89" length="5"/>
+        <text>NompC</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="288" length="5"/>
+        <text>NompC</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="302" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="322" length="7"/>
+        <text>NlNompC</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="348" length="7"/>
+        <text>NlNompC</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:25:32Z</infon>
+        <location offset="387" length="7"/>
+        <text>DmNompC</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:26:31Z</infon>
+        <location offset="413" length="4"/>
+        <text>TRPN</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="543" length="7"/>
+        <text>NlNompC</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="648" length="7"/>
+        <text>NlNompC</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1114" length="7"/>
+        <text>NlNompC</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1263" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

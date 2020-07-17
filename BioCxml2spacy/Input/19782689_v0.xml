@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>19782689</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Molecular characterization of heat shock protein 90, 70 and 70 cognate cDNAs and their expression patterns during thermal stress and pupal diapause in the corn earworm.</text>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:47:26Z</infon>
+        <location offset="30" length="21"/>
+        <text>heat shock protein 90</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7113</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="155" length="12"/>
+        <text>corn earworm</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>169</offset>
+      <text>Three heat shock protein transcripts, hsp90, hsp70, hsc70, isolated from the corn earworm, Helicoverpa zea, were evaluated for their responsiveness to diapause and thermal stress. These Hsps showed high homology to their counterparts in other species. A phylogenetic analysis of the Hsp90 sequence was consistent with the known classification of insects. Northern blot hybridization indicated the presence of hsp90 transcripts in all tissues, but expression in the brain-subesophageal complex was especially pronounced. The genomic organization of hsp90 examined by Southern blot suggested the presence of a single copy of hsp90 in the H. zea genome. The expression patterns after heat shock indicated that hsp70 and hsp90 were heat-inducible, although hsp70 was more strongly induced than hsp90, and hsc70 was indeed a constitutively expressed member of the hsp70 family. Expression of hsp70 and hsc70 were not altered by the diapause program, but hsp90 was down-regulated at this time. Low temperatures (0-4 degrees C) and recovery from low temperature elicited hsp70 and hsp90 responses, but not an hsc70 response. Thus, unlike several other species, H. zea does not up-regulate hsp70 during pupal diapause, but the down-regulation of hsp90 is consistent with the pattern observed in several other species during diapause. Our results also indicate that hsp90 and hsp70 are responsive to low temperature in both diapausing and nondiapausing pupae.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="175" length="18"/>
+        <text>heat shock protein</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="207" length="5"/>
+        <text>hsp90</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="214" length="5"/>
+        <text>hsp70</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="221" length="5"/>
+        <text>hsc70</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">7113</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="246" length="12"/>
+        <text>corn earworm</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">7113</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="260" length="15"/>
+        <text>Helicoverpa zea</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="452" length="5"/>
+        <text>Hsp90</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="578" length="5"/>
+        <text>hsp90</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="717" length="5"/>
+        <text>hsp90</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="792" length="5"/>
+        <text>hsp90</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:47:13Z</infon>
+        <location offset="805" length="6"/>
+        <text>H. zea</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">D012769</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="850" length="10"/>
+        <text>heat shock</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="876" length="5"/>
+        <text>hsp70</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="886" length="5"/>
+        <text>hsp90</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="922" length="5"/>
+        <text>hsp70</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="959" length="5"/>
+        <text>hsp90</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="970" length="5"/>
+        <text>hsc70</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1028" length="5"/>
+        <text>hsp70</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1056" length="5"/>
+        <text>hsp70</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1066" length="5"/>
+        <text>hsc70</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1118" length="5"/>
+        <text>hsp90</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1233" length="5"/>
+        <text>hsp70</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1243" length="5"/>
+        <text>hsp90</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1271" length="5"/>
+        <text>hsc70</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:47:45Z</infon>
+        <location offset="1323" length="6"/>
+        <text>H. zea</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1351" length="5"/>
+        <text>hsp70</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1407" length="5"/>
+        <text>hsp90</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1526" length="5"/>
+        <text>hsp90</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1536" length="5"/>
+        <text>hsp70</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

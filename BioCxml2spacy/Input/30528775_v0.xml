@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30528775</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>MiR-219 represses expression of dFMR1 in Drosophila melanogaster.</text>
+      <annotation id="1">
+        <infon key="identifier">12797923</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="7"/>
+        <text>MiR-219</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">37528</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="32" length="5"/>
+        <text>dFMR1</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="41" length="23"/>
+        <text>Drosophila melanogaster</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>66</offset>
+      <text>AIMS: Fragile X mental retardation protein (FMRP) plays a vital role in mRNA trafficking and translation inhibition to regulate the synthesis of local proteins in neuronal axons and dendritic terminals. However, there are no reports on microRNA (miRNA)-mediated regulation of FMRP levels in Drosophila. Here, we aimed to identify miRNAs regulating FMRP levels in Drosophila. MAIN METHODS: Using online software, we predicted and selected 11 miRNAs potentially acting on the Drosophila fragile X mental retardation 1 (dFMR1) transcript. These candidates were screened for modulation of dFMR1 transcript levels at the cellular level using a dual luciferase reporter system. In addition, we constructed a transgenic Drosophila model overexpressing miR-219 in the nervous system and quantified dFMRP by western blotting. The neuromuscular junction phenotype in the model was studied by immunofluorescence staining. KEY FINDINGS: Among the 11 miRNAs screened, miR-219 and miR-960 reduced luciferase gene activity by binding to the 3 -UTR of the dFMR1 transcript. Mutation of the miR-219 or miR-960 binding sites on the transcript resulted in complete or partial elimination of the miRNA-induced repression. Western blots revealed that dFMRP expression was decreased in the miR-219 overexpression model (Elav&gt;miR-219). Drosophila larvae overexpressing miR-219 showed morphological abnormalities at the neuromuscular junction (increased synaptic boutons and synaptic branches). This finding is consistent with some phenotypes observed in dfmr1 mutants. SIGNIFICANCE: Our results suggest that miR-219 regulates dFMR1 expression in Drosophila and is involved in fragile X syndrome pathogenesis. Collectively, these findings expand the current understanding of miRNA-mediated regulation of target molecule-related functions.</text>
+      <annotation id="4">
+        <infon key="identifier">37528</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="72" length="36"/>
+        <text>Fragile X mental retardation protein</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">37528</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="110" length="4"/>
+        <text>FMRP</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">37528</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="342" length="4"/>
+        <text>FMRP</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="357" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">37528</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="414" length="4"/>
+        <text>FMRP</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="429" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="540" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">37528</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="551" length="30"/>
+        <text>fragile X mental retardation 1</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">37528</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="583" length="5"/>
+        <text>dFMR1</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">37528</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="651" length="5"/>
+        <text>dFMR1</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="779" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">12797923</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="811" length="7"/>
+        <text>miR-219</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">37528</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="856" length="5"/>
+        <text>dFMRP</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">12797923</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1021" length="7"/>
+        <text>miR-219</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">12798564</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1033" length="7"/>
+        <text>miR-960</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">37528</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1106" length="5"/>
+        <text>dFMR1</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">12797923</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1140" length="7"/>
+        <text>miR-219</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">12798564</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1151" length="7"/>
+        <text>miR-960</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">37528</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1296" length="5"/>
+        <text>dFMRP</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">12797923</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1334" length="7"/>
+        <text>miR-219</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">12797923</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1369" length="7"/>
+        <text>miR-219</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">MESH:D007815</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1379" length="17"/>
+        <text>Drosophila larvae</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">12797923</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1412" length="7"/>
+        <text>miR-219</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">MESH:D020511</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1427" length="57"/>
+        <text>morphological abnormalities at the neuromuscular junction</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">37528</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1597" length="5"/>
+        <text>dfmr1</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">12797923</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1651" length="7"/>
+        <text>miR-219</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">37528</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1669" length="5"/>
+        <text>dFMR1</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1689" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">MESH:D005600</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1719" length="18"/>
+        <text>fragile X syndrome</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

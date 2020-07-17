@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29415259</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Analysis of Homologs of Cry-toxin Receptor-Related Proteins in the Midgut of a Non-Bt Target, Nilaparvata lugens (St l) (Hemiptera: Delphacidae).</text>
+      <annotation id="47">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:33:45Z</infon>
+        <location offset="94" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>146</offset>
+      <text>The brown planthopper (BPH) Nilaparvata lugens is one of the most destructive insect pests in the rice fields of Asia. Like other hemipteran insects, BPH is not susceptible to Cry toxins of Bacillus thuringiensis (Bt) or transgenic rice carrying Bt cry genes. Lack of Cry receptors in the midgut is one of the main reasons that BPH is not susceptible to the Cry toxins. The main Cry-binding proteins (CBPs) of the susceptible insects are cadherin, aminopeptidase N (APN), and alkaline phosphatase (ALP). In this study, we analyzed and validated de novo assembled transcripts from transcriptome sequencing data of BPH to identify and characterize homologs of cadherin, APN, and ALP. We then compared the cadherin-, APN-, and ALP-like proteins of BPH to previously reported CBPs to identify their homologs in BPH. The sequence analysis revealed that at least one cadherin, one APN, and two ALPs of BPH contained homologous functional domains identified from the Cry-binding cadherin, APN, and ALP, respectively. Quantitative real-time polymerase chain reaction used to verify the expression level of each putative Cry receptor homolog in the BPH midgut indicated that the CBPs homologous APN and ALP were expressed at high or medium-high levels while the cadherin was expressed at a low level. These results suggest that homologs of CBPs exist in the midgut of BPH. However, differences in key motifs of CBPs, which are functional in interacting with Cry toxins, may be responsible for insusceptibility of BPH to Cry toxins.</text>
+      <annotation id="48">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:33:47Z</infon>
+        <location offset="174" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:43:02Z</infon>
+        <location offset="414" length="12"/>
+        <text>Cry receptor</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:34:23Z</infon>
+        <location offset="525" length="19"/>
+        <text>Cry-binding protein</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:34:28Z</infon>
+        <location offset="547" length="3"/>
+        <text>CBP</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="584" length="8"/>
+        <text>cadherin</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="594" length="16"/>
+        <text>aminopeptidase N</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="612" length="3"/>
+        <text>APN</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="622" length="20"/>
+        <text>alkaline phosphatase</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="644" length="3"/>
+        <text>ALP</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="804" length="8"/>
+        <text>cadherin</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="814" length="3"/>
+        <text>APN</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="823" length="3"/>
+        <text>ALP</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="849" length="8"/>
+        <text>cadherin</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="860" length="3"/>
+        <text>APN</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="870" length="3"/>
+        <text>ALP</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:35:10Z</infon>
+        <location offset="918" length="3"/>
+        <text>CBP</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1007" length="8"/>
+        <text>cadherin</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1021" length="3"/>
+        <text>APN</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1034" length="4"/>
+        <text>ALPs</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1118" length="8"/>
+        <text>cadherin</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1128" length="3"/>
+        <text>APN</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1137" length="3"/>
+        <text>ALP</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:35:03Z</infon>
+        <location offset="1316" length="3"/>
+        <text>CBP</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1332" length="3"/>
+        <text>APN</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1340" length="3"/>
+        <text>ALP</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1399" length="8"/>
+        <text>cadherin</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:34:58Z</infon>
+        <location offset="1477" length="3"/>
+        <text>CBP</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:34:52Z</infon>
+        <location offset="1548" length="3"/>
+        <text>CBP</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

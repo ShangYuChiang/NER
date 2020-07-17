@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31443456</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Expression Patterns, Molecular Characterization, and Response to Host Stress of CYP Genes from Phenacoccus solenopsis (Hemiptera: Pseudococcidae).</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="80" length="3"/>
+        <text>CYP</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">483260</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="95" length="22"/>
+        <text>Phenacoccus solenopsis</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>147</offset>
+      <text>The quarantine insect pest Phenacoccus solenopsis (Hemiptera: Pseudococcidae) has a broad host range and is distributed worldwide. Each year, P. solenopsis causes significant crop losses. The detoxification of various xenobiotic compounds involves the cytochrome P450 monooxygenase (CYP) superfamily of enzymes. However, the functions of CYPs in P. solenopsis are poorly understood. In the present study, P. solenopsis was reared from the egg to the adult stage on three host plants: Tomato, cotton, and hibiscus. Thirty-seven P. solenopsis CYP genes were identified and their phylogenetic relationships were analyzed. Eleven CYP genes (PsCYP4NT1, PsCYP4G219, PsCYP6PZ1, PsCYP6PZ5, PsCYP301B1, PsCYP302A1, PsCYP305A22, PsCYP315A1, PsCYP353F1, PsCYP3634A1, and PsCYP3635A2) were selected for quantitative real-time PCR analysis. The results demonstrated marked differences in CYP expression levels in P. solenopsis grown on different host plants. The results will aid the molecular characterization of CYPs and will increase our understanding of CYP expression patterns in P. solenopsis during development and growth on different hosts.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="151" length="10"/>
+        <text>quarantine</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">483260</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="174" length="22"/>
+        <text>Phenacoccus solenopsis</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">483260</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="289" length="13"/>
+        <text>P. solenopsis</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="399" length="29"/>
+        <text>cytochrome P450 monooxygenase</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="430" length="3"/>
+        <text>CYP</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T03:09:23Z</infon>
+        <location offset="485" length="3"/>
+        <text>CYP</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">483260</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="493" length="13"/>
+        <text>P. solenopsis</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">483260</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="552" length="13"/>
+        <text>P. solenopsis</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">4081</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="631" length="6"/>
+        <text>Tomato</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">483260</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="674" length="13"/>
+        <text>P. solenopsis</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="688" length="3"/>
+        <text>CYP</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="773" length="3"/>
+        <text>CYP</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="784" length="9"/>
+        <text>PsCYP4NT1</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="795" length="10"/>
+        <text>PsCYP4G219</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="807" length="9"/>
+        <text>PsCYP6PZ1</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="818" length="9"/>
+        <text>PsCYP6PZ5</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="829" length="10"/>
+        <text>PsCYP301B1</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="841" length="10"/>
+        <text>PsCYP302A1</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="853" length="11"/>
+        <text>PsCYP305A22</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="866" length="10"/>
+        <text>PsCYP315A1</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="878" length="10"/>
+        <text>PsCYP353F1</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="890" length="11"/>
+        <text>PsCYP3634A1</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="907" length="11"/>
+        <text>PsCYP3635A2</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1022" length="3"/>
+        <text>CYP</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">483260</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1047" length="13"/>
+        <text>P. solenopsis</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T03:09:30Z</infon>
+        <location offset="1148" length="3"/>
+        <text>CYP</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1192" length="3"/>
+        <text>CYP</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">483260</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1219" length="13"/>
+        <text>P. solenopsis</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

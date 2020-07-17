@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>20542114</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>A gut-specific chitinase gene essential for regulation of chitin content of peritrophic matrix and growth of Ostrinia nubilalis larvae.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="15" length="9"/>
+        <text>chitinase</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">29057</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="109" length="18"/>
+        <text>Ostrinia nubilalis</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>136</offset>
+      <text>Chitinases belong to a large and diverse family of hydrolytic enzymes that break down glycosidic bonds of chitin. However, very little is known about the function of chitinase genes in regulating the chitin content in peritrophic matrix (PM) of the midgut in insects. We identified a cDNA putatively encoding a chitinase (OnCht) in European corn borer (ECB; Ostrinia nubilalis). The OnCht transcript was predominately found in larval midgut but undetectable in eggs, pupae, or adults. When the larvae were fed on an artificial diet, the OnCht transcript level increased by 4.4-fold but the transcript level of a gut-specific chitin synthase (OnCHS2) gene decreased by 2.5-fold as compared with those of unfed larvae. In contrast, when the larvae were fed with the food and then starved for 24h, the OnCht transcript level decreased by 1.8-fold but the transcript level of OnCHS2 increased by 1.8-fold. Furthermore, there was a negative relationship between OnCht transcript level and chitin content in the midgut. By using a feeding-based RNAi technique, we were able to reduce the OnCht transcript level by 63-64% in the larval midgut. Consequently, these larvae showed significantly increased chitin content (26%) in the PM but decreased larval body weight (54%) as compared with the control larvae fed on the diet containing GFP dsRNA. Therefore, for the first time, we provide strong evidence that OnCht plays an important role in regulating chitin content of the PM and subsequently affecting the growth and development of the ECB larvae.</text>
+      <annotation id="7">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:02:07Z</infon>
+        <location offset="136" length="9"/>
+        <text>Chitinase</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="302" length="9"/>
+        <text>chitinase</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="447" length="9"/>
+        <text>chitinase</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:02:14Z</infon>
+        <location offset="458" length="5"/>
+        <text>OnCht</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">29057</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="494" length="18"/>
+        <text>Ostrinia nubilalis</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:02:17Z</infon>
+        <location offset="519" length="5"/>
+        <text>OnCht</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:02:24Z</infon>
+        <location offset="673" length="5"/>
+        <text>OnCht</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:02:29Z</infon>
+        <location offset="761" length="15"/>
+        <text>chitin synthase</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:02:30Z</infon>
+        <location offset="778" length="6"/>
+        <text>OnCHS2</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:02:33Z</infon>
+        <location offset="935" length="5"/>
+        <text>OnCht</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:02:34Z</infon>
+        <location offset="1008" length="6"/>
+        <text>OnCHS2</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:02:36Z</infon>
+        <location offset="1093" length="5"/>
+        <text>OnCht</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:02:37Z</infon>
+        <location offset="1218" length="5"/>
+        <text>OnCht</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:02:42Z</infon>
+        <location offset="1538" length="5"/>
+        <text>OnCht</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

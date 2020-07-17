@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29154832</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Carboxylesterase genes in pyrethroid resistant house flies, Musca domestica.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="16"/>
+        <text>Carboxylesterase</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">MESH:D011722</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="26" length="10"/>
+        <text>pyrethroid</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7370</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="60" length="15"/>
+        <text>Musca domestica</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>77</offset>
+      <text>Carboxylesterases are one of the major enzyme families involved in the detoxification of pyrethroids. Up-regulation of carboxylesterase genes is thought to be a major component of insecticide resistant mechanisms in insects. Based on the house fly transcriptome and genome database, a total of 39 carboxylesterase genes of different functional clades have been identified in house flies. In this study, eleven of these genes were found to be significantly overexpressed in the resistant ALHF house fly strain compared with susceptible aabys and wild-type CS strains. Eight up-regulated carboxylesterase genes with their expression levels were further induced to a higher level in response to permethrin treatments, indicating that constitutive and inductive overexpression of carboxylesterases are co-responsible for the enhanced detoxification of insecticides. Spatial expression studies revealed these up-regulated genes to be abundantly distributed in fat bodies and genetically mapped on autosome 2 or 3 of house flies, and their expression could be regulated by factors on autosome 1, 2 and 5. Taken together, these results demonstrate that multiple carboxylesterase genes are co-upregulated in resistant house flies, providing further evidence for their involvement in the detoxification of insecticides and development of insecticide resistance.</text>
+      <annotation id="4">
+        <infon key="identifier">MESH:D011722</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="166" length="11"/>
+        <text>pyrethroids</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="196" length="16"/>
+        <text>carboxylesterase</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="374" length="16"/>
+        <text>carboxylesterase</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="663" length="16"/>
+        <text>carboxylesterase</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:D026023</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="769" length="10"/>
+        <text>permethrin</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1232" length="16"/>
+        <text>carboxylesterase</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

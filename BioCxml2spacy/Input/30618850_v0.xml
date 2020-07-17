@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30618850</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Genome-Wide Screening and Functional Analysis Reveal That the Specific microRNA nlu-miR-173 Regulates Molting by Targeting Ftz-F1 in Nilaparvata lugens.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="80" length="11"/>
+        <text>nlu-miR-173</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="123" length="6"/>
+        <text>Ftz-F1</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="133" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>153</offset>
+      <text>Background: Molting is a crucial physiological behavior during arthropod growth. In the past few years, molting as well as chitin biosynthesis triggered by molting, is subject to regulation by miRNAs. However, how many miRNAs are involved in insect molting at the genome-wide level remains unknown. Results: We deeply sequenced four samples obtained from nymphs at the 2nd-3rd and 4th-5th instars, and then identified 61 miRNAs conserved in the Arthropoda and 326 putative novel miRNAs in the brown planthopper Nilaparvata lugens, a fearful pest of rice. A total of 36 mature miRNAs with significant different expression levels at the genome scale during molting, including 19 conserved and 17 putative novel miRNAs were identified. After comparing the expression profiles, we found that most of the targets of 36 miRNAs showing significantly differential expression were involved in energy and hormone pathways. One of the 17 putative novel miRNAs, nlu-miR-173 was chosen for functional study. nlu-miR-173 acts in 20-hydroxyecdysone signaling through its direct target, N. lugens Ftz-F1(NlFtz-F1), a transcription factor. Furthermore, we found that the transcription of nlu-miR-173 was promoted by Broad-Complex (BR-C), suggesting that its involvement in the 20-hydroxyecdysone pathway contributes to proper molting function. Conclusion: We provided a comprehensive resource of miRNAs associated with insect molting and identified a novel miRNA as a potential target for pest control.</text>
+      <annotation id="5">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="664" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1103" length="11"/>
+        <text>nlu-miR-173</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1148" length="11"/>
+        <text>nlu-miR-173</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">MESH:D004441</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1171" length="15"/>
+        <text>hydroxyecdysone</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1224" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1234" length="6"/>
+        <text>Ftz-F1</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1241" length="8"/>
+        <text>NlFtz-F1</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1324" length="11"/>
+        <text>nlu-miR-173</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:09:24Z</infon>
+        <location offset="1352" length="13"/>
+        <text>Broad-Complex</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:09:28Z</infon>
+        <location offset="1367" length="4"/>
+        <text>BR-C</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:D004441</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1416" length="15"/>
+        <text>hydroxyecdysone</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

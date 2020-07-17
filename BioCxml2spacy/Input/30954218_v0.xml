@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30954218</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Transcription factor E93 regulates wing development by directly promoting Dpp signaling in Drosophila.</text>
+      <annotation id="1">
+        <infon key="identifier">44936</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="21" length="3"/>
+        <text>E93</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">33432</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="74" length="3"/>
+        <text>Dpp</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:48:05Z</infon>
+        <location offset="91" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>103</offset>
+      <text>Transcription factor E93 is a steroid hormone ecdysone early response gene and plays crucial roles in both the degradation of larval tissues and the formation of adult organs during insect metamorphosis with the prepupal-pupal-adult transition. However, the molecular mechanism underlying E93 regulation is poorly understood. In this study, we found that specific knockdown of the E93 gene in the Drosophila wing disrupted wing development. Analyzing ChIP-seq signals for E93 in Drosophila wing identified that the decapentaplegic (Dpp) gene was a potential downstream target of E93. ChIP-PCR analysis and dual-luciferase reporter assay confirmed that E93 could bind to the Dpp promoter and enhanced its activity. Furthermore, the expressions of Dpp and other components in the Dpp signaling pathway were upregulated following E93 overexpression in Drosophila S2 cells but were decreased after E93 knockdown in the wing. Moreover, the impairment of the Dpp signaling pathway phenocopied the defects of E93 knockdown on wing development. Taken together, our results suggest that E93 modulates the Dpp signaling pathway to regulate wing development during Drosophila metamorphosis.</text>
+      <annotation id="4">
+        <infon key="identifier">44936</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="124" length="3"/>
+        <text>E93</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">MESH:D013256</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="133" length="7"/>
+        <text>steroid</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">44936</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="392" length="3"/>
+        <text>E93</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">44936</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="484" length="3"/>
+        <text>E93</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:48:13Z</infon>
+        <location offset="500" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">44936</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="575" length="3"/>
+        <text>E93</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:48:14Z</infon>
+        <location offset="582" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="618" length="15"/>
+        <text>decapentaplegic</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">33432</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="635" length="3"/>
+        <text>Dpp</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">44936</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="682" length="3"/>
+        <text>E93</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">44936</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="755" length="3"/>
+        <text>E93</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">33432</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="777" length="3"/>
+        <text>Dpp</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">33432</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="849" length="3"/>
+        <text>Dpp</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">33432</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="881" length="3"/>
+        <text>Dpp</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">44936</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="930" length="3"/>
+        <text>E93</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:48:17Z</infon>
+        <location offset="952" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">44936</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="997" length="3"/>
+        <text>E93</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">33432</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1056" length="3"/>
+        <text>Dpp</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">44936</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1105" length="3"/>
+        <text>E93</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">44936</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1181" length="3"/>
+        <text>E93</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">33432</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1199" length="3"/>
+        <text>Dpp</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:48:22Z</infon>
+        <location offset="1257" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

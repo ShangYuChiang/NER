@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>32132932</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>An Overview of Embryogenesis: External Morphology and Transcriptome Profiling in the Hemipteran Insect &lt;i&gt;Nilaparvata lugens&lt;/i&gt;.</text>
+      <annotation id="1">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="106" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>130</offset>
+      <text>During embryogenesis of insects, the morphological and transcriptional changes are important signatures to obtain a better understanding of insect patterning and evolution. The brown planthopper &lt;i&gt;Nilaparvata lugens&lt;/i&gt; is a serious insect pest of rice plants, but its embryogenesis has not uncovered. Here, we described embryonic development process of the pest and found it belongs to an intermediate-germ mode. The RNA-seq data from different times (6, 30, 96, and 150 h, after egg laying) of embryogenesis were then analyzed, and a total of 10,895 genes were determined as differentially expressed genes (DEGs) based on pairwise comparisons. Afterward, 1,898 genes, differentially expressed in at least two comparisons of adjacent embryonic stages were divided into 10 clusters using K means cluster analysis (KMCA). Eight-gene modules were established using a weighted gene co-expression network analysis (WGCNA). Gene expression patterns in the different embryonic stages were identified by combining the functional enrichments of the stage-specific clusters and modules, which displayed the expression level and reprogramming of multiple developmental genes during embryogenesis. The "hub" genes at each embryonic stage with possible crucial roles were identified. Notably, we found a "center" set of genes that were related to overall membrane functions and might play important roles in the embryogenesis process. After parental RNAi of the &lt;i&gt;MSTRG.3372&lt;/i&gt;, the hub gene, the embryo was observed as abnormal. Furthermore, some homologous genes in classic embryonic development processes and signaling pathways were also involved in embryogenesis of this insect. An improved comprehensive finding of embryogenesis within the &lt;i&gt;N. lugens&lt;/i&gt; reveals better information on genetic and genomic studies of embryonic development and might be a potential target for RNAi-based control of this insect pest.</text>
+      <annotation id="2">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="307" length="17"/>
+        <text>brown planthopper</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="328" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">4530</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="379" length="4"/>
+        <text>rice</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1584" length="10"/>
+        <text>MSTRG.3372</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1869" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

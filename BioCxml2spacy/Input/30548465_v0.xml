@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30548465</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Evolution of the Torso activation cassette, a pathway required for terminal patterning and moulting.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="17" length="5"/>
+        <text>Torso</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>101</offset>
+      <text>Embryonic terminal patterning and moulting are critical developmental processes in insects. In Drosophila and Tribolium both of these processes are regulated by the Torso-activation cassette (TAC). The TAC consists of a common receptor, Torso, ligands Trunk and prothoracicotropic hormone (PTTH), and the spatially restricted protein Torso-like, with combinations of these elements acting mechanistically to activate the receptor in different developmental contexts. In order to trace the evolutionary history of the TAC we determined the presence or absence of TAC components in the genomes of arthropods. Our analyses reveal that Torso, Trunk and PTTH are evolutionarily labile components of the TAC with multiple individual or combined losses occurring in the arthropod lineages leading to and within the insects. These losses are often correlated, with both ligands and receptor missing from the genome of the same species. We determine that the PTTH gene evolved in the common ancestor of Hemiptera and Holometabola, and is missing from the genomes of a number of species with experimentally demonstrated PTTH activity, implying another molecule may be involved in ecdysis in these species. In contrast, the torso-like gene is a common component of pancrustacean genomes.</text>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="196" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="211" length="9"/>
+        <text>Tribolium</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="266" length="5"/>
+        <text>Torso</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="338" length="5"/>
+        <text>Torso</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="353" length="5"/>
+        <text>Trunk</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">33238</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="391" length="4"/>
+        <text>PTTH</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:18:41Z</infon>
+        <location offset="435" length="10"/>
+        <text>Torso-like</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="733" length="5"/>
+        <text>Torso</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="740" length="5"/>
+        <text>Trunk</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">33238</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="750" length="4"/>
+        <text>PTTH</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">33238</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1051" length="4"/>
+        <text>PTTH</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">33238</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1211" length="4"/>
+        <text>PTTH</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:19:00Z</infon>
+        <location offset="1314" length="10"/>
+        <text>torso-like</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

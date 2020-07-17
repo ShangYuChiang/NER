@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30744887</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Changes in the expression of four ABC transporter genes in response to imidacloprid in Bemisia tabaci Q (Hemiptera: Aleyrodidae).</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="34" length="15"/>
+        <text>ABC transporter</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="71" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="87" length="14"/>
+        <text>Bemisia tabaci</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>130</offset>
+      <text>Bemisia tabaci (Gennadius) (Hemiptera: Aleyrodidae), a globally invasive species complex that causes serious damage to field crops, has developed resistance to imidacloprid and many other pesticides. Insect detoxify to pesticides may partially depend on ABC transporters, which contribute to the detoxification of xenobiotics. To determine whether genes in the ABCG subfamily are involved in imidacloprid detoxification in B. tabaci Q, we cloned four ABCG subfamily genes based on the published MED/Q genome and on our previous study of the transcriptional response of ABC transporters in B. tabaci Q adults to imidacloprid. As indicated by the quantification of mRNA levels after a 6-h exposure, the expression level of ABCG3 was 3.3-fold higher in B. tabaci Q adults exposed to 100   g/mL imidacloprid rather than to the buffer control. The expression level of ABCG3 was higher in females than in males but did not significantly differ among eggs or nymphal stages and did not significantly differ among head, thorax, and abdomen tissues of adults. Knockdown of ABCG3 via RNA interference significantly increased the mortality of imidacloprid-treated laboratory and field-collected adults of B. tabaci Q. These results indicate that the ABCG3 gene may be involved in imidacloprid detoxification by B. tabaci Q.</text>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="130" length="14"/>
+        <text>Bemisia tabaci</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="290" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="384" length="15"/>
+        <text>ABC transporter</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:23:46Z</infon>
+        <location offset="491" length="4"/>
+        <text>ABCG</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="522" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">7038</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="553" length="9"/>
+        <text>B. tabaci</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:23:51Z</infon>
+        <location offset="581" length="4"/>
+        <text>ABCG</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:23:56Z</infon>
+        <location offset="699" length="15"/>
+        <text>ABC transporter</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">7038</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="719" length="9"/>
+        <text>B. tabaci</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="741" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="851" length="5"/>
+        <text>ABCG3</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">7038</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="880" length="9"/>
+        <text>B. tabaci</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="921" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="993" length="5"/>
+        <text>ABCG3</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1194" length="5"/>
+        <text>ABCG3</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1262" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">7038</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1324" length="9"/>
+        <text>B. tabaci</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1369" length="5"/>
+        <text>ABCG3</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1399" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">7038</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1430" length="9"/>
+        <text>B. tabaci</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

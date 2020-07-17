@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>28881445</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>The expression of Spodoptera exigua P450 and UGT genes: tissue specificity and response to insecticides.</text>
+      <annotation id="1">
+        <infon key="identifier">7107</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="18" length="17"/>
+        <text>Spodoptera exigua</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="36" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="45" length="3"/>
+        <text>UGT</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>105</offset>
+      <text>Cytochrome P450 and UDP-glucosyltransferase (UGT) as phase I and phase II metabolism enzymes, respectively, play vital roles in the breakdown of endobiotics and xenobiotics. Insects can increase the expression of detoxification enzymes to cope with the stress from xenobiotics including insecticides. However, the molecular mechanisms for insecticide detoxification in Spodoptera exigua remain elusive, and the genes conferring insecticide metabolisms in this species are less well reported. In this study, 68 P450 and 32 UGT genes were identified. Phylogenetic analysis showed gene expansions in CYP3 and CYP4 clans of P450 genes and UGT33 family of this pest. P450 and UGT genes exhibited specific tissue expression patterns. Insecticide treatments in fat body cells of S. exigua revealed that the expression levels of P450 and UGT genes were significantly influenced by challenges of abamectin, lambda-cyhalothrin, chlorantraniliprole, metaflumizone and indoxacarb. Multiple genes for detoxification were affected in expression levels after insecticide exposures. The results demonstrated that lambda-cyhalothrin, chlorantraniliprole, metaflumizone and indoxacarb induced similar responses in the expression of P450 and UGT genes in fat body cells; eight P450 genes and four UGT genes were co-up-regulated significantly, and no or only a few CYP/UGT genes were down-regulated significantly by these four insecticides. However, abamectin triggered a distinct response for P450 and UGT gene expression; more P450 and UGT genes were down-regulated by abamectin than by the other four compounds. In conclusion, P450 and UGT genes from S. exigua were identified, and different responses to abamectin suggest a different mechanism for insecticide detoxification.</text>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="105" length="15"/>
+        <text>Cytochrome P450</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="125" length="23"/>
+        <text>UDP-glucosyltransferase</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="150" length="3"/>
+        <text>UGT</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">7107</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="474" length="17"/>
+        <text>Spodoptera exigua</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="615" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="627" length="3"/>
+        <text>UGT</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="702" length="4"/>
+        <text>CYP3</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="711" length="4"/>
+        <text>CYP4</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="725" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="740" length="5"/>
+        <text>UGT33</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="767" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="776" length="3"/>
+        <text>UGT</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">7107</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="877" length="9"/>
+        <text>S. exigua</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="926" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="935" length="3"/>
+        <text>UGT</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">MESH:C037304</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1003" length="18"/>
+        <text>lambda-cyhalothrin</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">MESH:C517733</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1023" length="19"/>
+        <text>chlorantraniliprole</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:C528570</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1044" length="13"/>
+        <text>metaflumizone</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">MESH:C401104</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1062" length="10"/>
+        <text>indoxacarb</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">MESH:C037304</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1202" length="18"/>
+        <text>lambda-cyhalothrin</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">MESH:C517733</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1222" length="19"/>
+        <text>chlorantraniliprole</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">MESH:C528570</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1243" length="13"/>
+        <text>metaflumizone</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">MESH:C401104</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1261" length="10"/>
+        <text>indoxacarb</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1319" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1328" length="3"/>
+        <text>UGT</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1363" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1383" length="3"/>
+        <text>UGT</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:38:04Z</infon>
+        <location offset="1450" length="3"/>
+        <text>CYP</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1454" length="3"/>
+        <text>UGT</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1579" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1588" length="3"/>
+        <text>UGT</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1614" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1623" length="3"/>
+        <text>UGT</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1715" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1724" length="3"/>
+        <text>UGT</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier">7107</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1739" length="9"/>
+        <text>S. exigua</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

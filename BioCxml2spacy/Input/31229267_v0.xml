@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31229267</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Dysfunction of LSD-1 induces JNK signaling pathway-dependent abnormal development of thorax and apoptosis cell death in Drosophila melanogaster.</text>
+      <annotation id="1">
+        <infon key="identifier">42810</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="15" length="5"/>
+        <text>LSD-1</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">44801</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="29" length="3"/>
+        <text>JNK</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="120" length="23"/>
+        <text>Drosophila melanogaster</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>145</offset>
+      <text>Perilipins are evolutionarily conserved from insects to mammals. Lipid storage droplet-1 (LSD-1) is a member of the lipid droplet s surface-binding protein family and counterpart to mammalian perilipin 1. The role of LSD-1 has already been reported in lipid metabolism of Drosophila. However, the function of this gene during specific tissue development is still under investigation. Here, we found that LSD-1 is expressed in the notum of the wing imaginal disc, and notum-specific knockdown of Lsd-1 by pannir-GAL4 driver leads to split thorax phenotype in adults, suggesting an essential role of LSD-1 in development of Drosophila thorax. As overexpression of JNK homolog, bsk (basket) suppresses Lsd-1 knockdown phenotype, the role of LSD-1 in thorax development was proved to be dependent on the activity of the Drosophila c-Jun N-terminal kinase (JNK). The puckered (puc) expression led to significant decrease in the JNK activity in wing discs of Lsd-1 knockdown flies. In addition, we also detected that depletion of Lsd-1 enhances apoptotic cell death in the wing notum area. Taken together, these data demonstrated that LSD-1 functions in Drosophila thorax development by regulating JNK pathway.</text>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="210" length="23"/>
+        <text>Lipid storage droplet-1</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">42810</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="235" length="5"/>
+        <text>LSD-1</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">9606</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="327" length="9"/>
+        <text>mammalian</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">5346</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="337" length="11"/>
+        <text>perilipin 1</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">42810</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="362" length="5"/>
+        <text>LSD-1</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="417" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">42810</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="549" length="5"/>
+        <text>LSD-1</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">42810</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="640" length="5"/>
+        <text>Lsd-1</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">42810</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="743" length="5"/>
+        <text>LSD-1</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="767" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">44801</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="807" length="3"/>
+        <text>JNK</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">44801</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="820" length="3"/>
+        <text>bsk</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="825" length="6"/>
+        <text>basket</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">42810</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="844" length="5"/>
+        <text>Lsd-1</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">42810</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="883" length="5"/>
+        <text>LSD-1</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="961" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">44801</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="972" length="23"/>
+        <text>c-Jun N-terminal kinase</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">44801</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="997" length="3"/>
+        <text>JNK</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1007" length="8"/>
+        <text>puckered</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1017" length="3"/>
+        <text>puc</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">44801</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1068" length="3"/>
+        <text>JNK</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">42810</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1098" length="5"/>
+        <text>Lsd-1</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">42810</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1169" length="5"/>
+        <text>Lsd-1</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">42810</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1274" length="5"/>
+        <text>LSD-1</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1293" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">44801</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1337" length="3"/>
+        <text>JNK</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

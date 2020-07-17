@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30890324</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Characterization of two copper/zinc superoxide dismutases (Cu/Zn-SODs) from the desert beetle Microdera punctipennis and their activities in protecting E. coli cells against cold.</text>
+      <annotation id="1">
+        <infon key="identifier">MESH:D003300</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="24" length="6"/>
+        <text>copper</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">MESH:D013481</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="31" length="15"/>
+        <text>zinc superoxide</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:32:03Z</infon>
+        <location offset="59" length="9"/>
+        <text>Cu/Zn-SOD</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">1676788</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="94" length="22"/>
+        <text>Microdera punctipennis</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">562</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="152" length="7"/>
+        <text>E. coli</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>180</offset>
+      <text>Superoxide dismutases (SODs) are crucial in scavenging reactive oxygen species (ROS); however, studies regarding SOD functions in insects under cold conditions are rare. In this paper, two novel Cu/Zn-SOD genes in the desert beetle Microdera punctipennis, an extracellular copper/zinc SOD (MpecCu/Zn-SOD) and an intracellular copper/zinc SOD (MpicCu/Zn-SOD), were identified and characterized. The results of quantitative real-time PCR showed that MpecCu/Zn-SOD expression was significantly up-regulated by 4   C exposure for 0.5  h, but MpicCu/Zn-SOD was not. Superoxide anion radical (O2  -) content in beetles under 4   C exposure for 0.5  h showed an initial sharp increase and fluctuated during the cold treatment period, which was consistent with the relative mRNA level of MpecCu/Zn-SOD. The total SOD activity in the beetle was negatively correlated to the O2  - content with a correlation coefficient of -0.437. An E. coli system was employed to study the function of each MpCu/Zn-SOD gene. The fusion proteins Trx-His-MpCu/Zn-SODs were over expressed in E. coli BL21 using pET32a vector, and identified by SDS-PAGE and Western blotting. The transformed bacteria BL21(pET32a-MpecCu/Zn-SOD) and BL21(pET32a-MpicCu/Zn-SOD) showed increased cold tolerance to -4   C as well as increased SOD activity compared to the control BL21(pET32a). The relative conductivity and malondialdehyde content in the two MpCu/Zn-SODs transformed bacteria under -4   C were significantly lower than the control BL21(pET32a). Furthermore, BL21(pET32a-MpecCu/Zn-SOD) had significantly higher SOD activity and cold tolerance than BL21(pET32a-MpicCu/Zn-SOD) under -4   C treatment, and had lower conductivity than BL21(pET32a-MpicCu/Zn-SOD). In conclusion, low temperature led to the accumulation of O2  - in M. punctipennis, which stimulated the expression of extracellular MpCu/Zn-SOD gene and the increase of total SOD activity. E. coli overexpressing Trx-His-MpCu/Zn-SODs increased resistance to cold treatment-induced oxidative stress. Our findings will be helpful in further study of Cu/Zn-SOD genes in insect cold-tolerance.</text>
+      <annotation id="41">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:25:54Z</infon>
+        <location offset="180" length="20"/>
+        <text>Superoxide dismutase</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:26:02Z</infon>
+        <location offset="203" length="3"/>
+        <text>SOD</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">MESH:D010100</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="244" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:26:49Z</infon>
+        <location offset="293" length="3"/>
+        <text>SOD</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="375" length="9"/>
+        <text>Cu/Zn-SOD</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">1676788</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="412" length="22"/>
+        <text>Microdera punctipennis</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">MESH:D003300</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="453" length="6"/>
+        <text>copper</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:27:18Z</infon>
+        <location offset="465" length="3"/>
+        <text>SOD</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="470" length="13"/>
+        <text>MpecCu/Zn-SOD</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">MESH:D003300</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="506" length="6"/>
+        <text>copper</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:27:20Z</infon>
+        <location offset="518" length="3"/>
+        <text>SOD</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="523" length="13"/>
+        <text>MpicCu/Zn-SOD</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="628" length="13"/>
+        <text>MpecCu/Zn-SOD</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="718" length="13"/>
+        <text>MpicCu/Zn-SOD</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">MESH:D013481</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="741" length="10"/>
+        <text>Superoxide</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">MESH:D013481</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="767" length="2"/>
+        <text>O2</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="960" length="13"/>
+        <text>MpecCu/Zn-SOD</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">MESH:D013481</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1045" length="2"/>
+        <text>O2</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">562</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1104" length="7"/>
+        <text>E. coli</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1162" length="11"/>
+        <text>MpCu/Zn-SOD</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:28:05Z</infon>
+        <location offset="1200" length="19"/>
+        <text>Trx-His-MpCu/Zn-SOD</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">511693</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1244" length="12"/>
+        <text>E. coli BL21</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">MESH:C032259</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1296" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:28:36Z</infon>
+        <location offset="1364" length="13"/>
+        <text>MpecCu/Zn-SOD</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:28:39Z</infon>
+        <location offset="1395" length="13"/>
+        <text>MpicCu/Zn-SOD</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">MESH:D008315</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1554" length="15"/>
+        <text>malondialdehyde</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:31:04Z</infon>
+        <location offset="1589" length="11"/>
+        <text>MpCu/Zn-SOD</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:31:09Z</infon>
+        <location offset="1717" length="13"/>
+        <text>MpecCu/Zn-SOD</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:31:12Z</infon>
+        <location offset="1806" length="13"/>
+        <text>MpicCu/Zn-SOD</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:31:18Z</infon>
+        <location offset="1889" length="13"/>
+        <text>MpicCu/Zn-SOD</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">MESH:D013481</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1963" length="2"/>
+        <text>O2</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">1676788</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1972" length="15"/>
+        <text>M. punctipennis</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:31:27Z</infon>
+        <location offset="2038" length="11"/>
+        <text>MpCu/Zn-SOD</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:31:30Z</infon>
+        <location offset="2081" length="3"/>
+        <text>SOD</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">562</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2095" length="7"/>
+        <text>E. coli</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:31:43Z</infon>
+        <location offset="2118" length="19"/>
+        <text>Trx-His-MpCu/Zn-SOD</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:31:53Z</infon>
+        <location offset="2253" length="9"/>
+        <text>Cu/Zn-SOD</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29236776</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>An adenylyl cyclase like-9 gene (NlAC9) influences growth and fecundity in the brown planthopper, Nilaparvata lugens (St l) (Hemiptera: Delphacidae).</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="3" length="23"/>
+        <text>adenylyl cyclase like-9</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="33" length="5"/>
+        <text>NlAC9</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:04:43Z</infon>
+        <location offset="98" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>150</offset>
+      <text>The cAMP/PKA intracellular signaling pathway is launched by adenylyl cyclase (AC) conversion of adenosine triphosphate (ATP) to 3 , 5 -cyclic AMP (cAMP) and cAMP-dependent activation of PKA. Although this pathway is very well known in insect physiology, there is little to no information on it in some very small pest insects, such as the brown planthopper (BPH), Nilaparvata lugens St l. BPH is a destructive pest responsible for tremendous crop losses in rice cropping systems. We are investigating the potentials of novel pest management technologies from RNA interference perspective. Based on analysis of transcriptomic data, the BPH AC like-9 gene (NlAC9) was up-regulated in post-mating females, which led us to pose the hypothesis that NlAC9 is a target gene that would lead to reduced BPH fitness and populations. Targeting NlAC9 led to substantially decreased soluble ovarian protein content, yeast-like symbiont abundance, and vitellogenin gene expression, accompanied with stunted ovarian development and body size. Eggs laid were decreased and oviposition period shortened. Taken together, our findings indicated that NlAC9 exerted pronounced effects on female fecundity, growth and longevity, which strongly supports our hypothesis.</text>
+      <annotation id="5">
+        <infon key="identifier">MESH:D000242</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="154" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:05:02Z</infon>
+        <location offset="210" length="16"/>
+        <text>adenylyl cyclase</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:05:05Z</infon>
+        <location offset="228" length="2"/>
+        <text>AC</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">MESH:D000255</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="246" length="22"/>
+        <text>adenosine triphosphate</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">MESH:D000255</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="270" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">MESH:D000242</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <infon key="error:misaligned:9">295-&gt;297</infon>
+        <location offset="297" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:D000242</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <infon key="error:misaligned:10">305-&gt;307</infon>
+        <location offset="307" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:05:13Z</infon>
+        <location offset="514" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:05:23Z</infon>
+        <location offset="789" length="9"/>
+        <text>AC like-9</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="805" length="5"/>
+        <text>NlAC9</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="894" length="5"/>
+        <text>NlAC9</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">MESH:D006987</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <infon key="error:misaligned:19">934-&gt;936</infon>
+        <location offset="936" length="19"/>
+        <text>reduced BPH fitness</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="983" length="5"/>
+        <text>NlAC9</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:D010049</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <infon key="error:misaligned:21">1026-&gt;1028</infon>
+        <location offset="1028" length="7"/>
+        <text>ovarian</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">56772</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1053" length="19"/>
+        <text>yeast-like symbiont</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1088" length="12"/>
+        <text>vitellogenin</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">MESH:D010049</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <infon key="error:misaligned:24">1141-&gt;1143</infon>
+        <location offset="1143" length="7"/>
+        <text>ovarian</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1281" length="5"/>
+        <text>NlAC9</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

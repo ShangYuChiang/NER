@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>20637213</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>RNA interference of timeless gene does not disrupt circadian locomotor rhythms in the cricket Gryllus bimaculatus.</text>
+      <annotation id="1">
+        <infon key="identifier">33571</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="20" length="8"/>
+        <text>timeless</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="94" length="19"/>
+        <text>Gryllus bimaculatus</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>115</offset>
+      <text>Molecular studies revealed that autoregulatory negative feedback loops consisting of so-called "clock genes" constitute the circadian clock in Drosophila. However, this hypothesis is not fully supported in other insects and is thus to be examined. In the cricket Gryllus bimaculatus, we have previously shown that period (per) plays an essential role in the rhythm generation. In the present study, we cloned cDNA of the clock gene timeless (tim) and investigated its role in the cricket circadian oscillatory mechanism using RNA interference. Molecular structure of the cricket tim has rather high similarity to those of other insect species. Real-time RT-PCR analysis revealed that tim mRNA showed rhythmic expression in both LD and DD similar to that of per, peaking during the (subjective) night. When injected with tim double-stranded RNA (dstim), tim mRNA levels were significantly reduced and its circadian expression rhythm was eliminated. After the dstim treatment, however, adult crickets showed a clear locomotor rhythm in DD, with a free-running period significantly shorter than that of control crickets injected with Discosoma sp. Red2 (DsRed2) dsRNA. These results suggest that in the cricket, tim plays some role in fine-tuning of the free-running period but may not be essential for oscillation of the circadian clock.</text>
+      <annotation id="3">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="258" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="378" length="19"/>
+        <text>Gryllus bimaculatus</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="429" length="6"/>
+        <text>period</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:00:41Z</infon>
+        <location offset="437" length="3"/>
+        <text>per</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">33571</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="547" length="8"/>
+        <text>timeless</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">33571</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="557" length="3"/>
+        <text>tim</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">33571</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="694" length="3"/>
+        <text>tim</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">33571</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="799" length="3"/>
+        <text>tim</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">C536170</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="850" length="2"/>
+        <text>DD</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">33571</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="935" length="3"/>
+        <text>tim</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">33571</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="968" length="3"/>
+        <text>tim</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">C536170</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1149" length="2"/>
+        <text>DD</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1173" length="6"/>
+        <text>period</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:01:42Z</infon>
+        <location offset="1246" length="9"/>
+        <text>Discosoma</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:01:36Z</infon>
+        <location offset="1260" length="4"/>
+        <text>Red2</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">33571</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1324" length="3"/>
+        <text>tim</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1379" length="6"/>
+        <text>period</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

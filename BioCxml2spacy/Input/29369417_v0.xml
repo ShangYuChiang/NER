@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29369417</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Characterization of NlHox3, an essential gene for embryonic development in Nilaparvata lugens.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="20" length="6"/>
+        <text>NlHox3</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="75" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>95</offset>
+      <text>Hox genes encode transcriptional regulatory proteins that control axial patterning in all bilaterians. The brown planthopper (BPH), Nilaparvata lugens (Hemiptera: Delphacidae), is a destructive insect pest of rice plants in Asian countries. During analysis of the N. lugens transcriptome, we identified a Hox3-like gene (NlHox3) that was highly and specifically expressed in the embryonic stage. We performed functional analysis on the gene to identify its roles in embryonic development and its potential use as a target in RNA interference (RNAi) based pest control. The sequence analysis showed that NlHox3 was homologous to the Hox3 gene and was most closely related with zen of Drosophila. There were no significant differences in oviposition between the treated and control females after injecting double-stranded RNA of NlHox3 (dsNlHox3) into newly emerged female adult BPHs; however, there was a significant difference in the hatchability of those eggs laid, which no egg from the treated group hatched normally. Injecting female adult BPHs with dsNlHox3 led to necrosis of these offspring embryos, with eye reversal and undeveloped organs, suggesting that NlHox3 was an essential gene for embryonic development and might be a potential target for RNAi-based control of this insect pest.</text>
+      <annotation id="5">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="227" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="359" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="400" length="9"/>
+        <text>Hox3-like</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="416" length="6"/>
+        <text>NlHox3</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="698" length="6"/>
+        <text>NlHox3</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:45:15Z</infon>
+        <location offset="727" length="4"/>
+        <text>Hox3</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:45:18Z</infon>
+        <location offset="771" length="3"/>
+        <text>zen</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="778" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="922" length="6"/>
+        <text>NlHox3</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">MESH:D009336</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1165" length="8"/>
+        <text>necrosis</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1260" length="6"/>
+        <text>NlHox3</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

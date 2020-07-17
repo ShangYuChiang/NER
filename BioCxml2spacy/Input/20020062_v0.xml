@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>20020062</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Brownie, a gene involved in building complex respiratory devices in insect eggshells.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="7"/>
+        <text>Brownie</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>86</offset>
+      <text>BACKGROUND: Insect eggshells must combine protection for the yolk and embryo with provisions for respiration and for the entry of sperm, which are ensured by aeropyles and micropyles, respectively. Insects which oviposit the eggs in an egg-case have a double problem of respiration as gas exchange then involves two barriers. An example of this situation is found in the cockroach Blattella germanica, where the aeropyle and the micropyle are combined in a complex structure called the sponge-like body. The sponge-like body has been well described morphologically, but nothing is known about how it is built up. METHODOLOGY/PRINCIPAL FINDINGS: In a library designed to find genes expressed during late chorion formation in B. germanica, we isolated the novel sequence Bg30009 (now called Brownie), which was outstanding due to its high copy number. In the present work, we show that Brownie is expressed in the follicle cells localized in the anterior pole of the oocyte in late choriogenesis. RNA interference (RNAi) of Brownie impaired correct formation of the sponge-like body and, as a result, the egg-case was also ill-formed and the eggs were not viable. CONCLUSIONS/SIGNIFICANCE: Results indicate that the novel gene Brownie plays a pivotal role in building up the sponge-like body. Brownie is the first reported gene involved in the construction of complex eggshell respiratory structures.</text>
+      <annotation id="2">
+        <infon key="identifier">6973</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="467" length="19"/>
+        <text>Blattella germanica</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">6973</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="810" length="12"/>
+        <text>B. germanica</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:54:25Z</infon>
+        <location offset="855" length="7"/>
+        <text>Bg30009</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="875" length="7"/>
+        <text>Brownie</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="970" length="7"/>
+        <text>Brownie</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1108" length="7"/>
+        <text>Brownie</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">D003072</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1116" length="50"/>
+        <text>impaired correct formation of the sponge-like body</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1311" length="7"/>
+        <text>Brownie</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1377" length="7"/>
+        <text>Brownie</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

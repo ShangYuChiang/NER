@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30414403</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>WSV181 inhibits JAK/STAT signaling and promotes viral replication in Drosophila.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="6"/>
+        <text>WSV181</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">32080</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="16" length="3"/>
+        <text>JAK</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">42428</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="20" length="4"/>
+        <text>STAT</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="69" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>81</offset>
+      <text>The Janus kinase/signal transducers and activators of transcription (JAK/STAT) pathway plays a critical role in host defense against viral infections. Here, we report the use of the Drosophila model system to investigate the modulation of the JAK/STAT pathway by the white spot syndrome virus (WSSV) protein WSV181. WSV181 overexpression in transgenic flies resulted in the downregulation of STAT92E and STAT92E-targeted genes. This result indicates that WSV181 can suppress JAK/STAT signaling by controlling STAT92E expression. An infection experiment was carried out on transgenic Drosophila infected with Drosophila C virus and on Litopenaeus vannamei injected with recombinant WSV181 and WSSV. The increased viral load and suppressed transcript levels of JAK/STAT pathway components indicate that WSV181 can promote viral proliferation by inhibiting the JAK/STAT pathway. This study provided evidence for the role of WSV181 in viral replication and revealed a new mechanism through which WSSV evades host immunity to maintain persistent infection.</text>
+      <annotation id="5">
+        <infon key="identifier">32080</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="150" length="3"/>
+        <text>JAK</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">42428</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="154" length="4"/>
+        <text>STAT</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">MESH:D014777</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="214" length="16"/>
+        <text>viral infections</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="263" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">32080</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="324" length="3"/>
+        <text>JAK</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">42428</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="328" length="4"/>
+        <text>STAT</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">92652</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="348" length="25"/>
+        <text>white spot syndrome virus</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">92652</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="375" length="4"/>
+        <text>WSSV</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="389" length="6"/>
+        <text>WSV181</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="397" length="6"/>
+        <text>WSV181</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="473" length="7"/>
+        <text>STAT92E</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="485" length="7"/>
+        <text>STAT92E</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="536" length="6"/>
+        <text>WSV181</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">32080</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="556" length="3"/>
+        <text>JAK</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">42428</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="560" length="4"/>
+        <text>STAT</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="590" length="7"/>
+        <text>STAT92E</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:D007239</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="613" length="9"/>
+        <text>infection</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">MESH:D006526</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="664" length="43"/>
+        <text>Drosophila infected with Drosophila C virus</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">6689</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="715" length="20"/>
+        <text>Litopenaeus vannamei</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="762" length="6"/>
+        <text>WSV181</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">92652</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="773" length="4"/>
+        <text>WSSV</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">32080</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="840" length="3"/>
+        <text>JAK</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">42428</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="844" length="4"/>
+        <text>STAT</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="882" length="6"/>
+        <text>WSV181</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">32080</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="939" length="3"/>
+        <text>JAK</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">42428</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="943" length="4"/>
+        <text>STAT</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1002" length="6"/>
+        <text>WSV181</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">92652</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1073" length="4"/>
+        <text>WSSV</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">MESH:D007239</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1122" length="9"/>
+        <text>infection</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

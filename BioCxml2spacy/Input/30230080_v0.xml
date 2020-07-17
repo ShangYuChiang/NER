@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30230080</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>The function of spineless in antenna and wing development of the brown planthopper, Nilaparvata lugens.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="16" length="9"/>
+        <text>spineless</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="65" length="17"/>
+        <text>brown planthopper</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="84" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>104</offset>
+      <text>A wide array of sensilla are distributed on insect antennae, and they play a variety of important roles. Rice planthoppers, destructive pests on rice, have a unique antenna sensilla structure called the  sensory plaque organ . The spineless (ss) gene encodes a bHLH-PAS transcription factor and plays a key role in antenna development. In the current study, a 3029 bp full-length cDNA of the Nilaparvata lugens ss gene (Nlss) was cloned, and it encodes 654 amino acid residues. The highest level of Nlss expression was detected in the thorax of fourth-instar nymphs. Knockdown of Nlss in nymphs led to a decrease in the number and size of plaque organs. Moreover, the flagella of the treated insects were poorly developed, wilted, and even dropped off from the pedicel. Nlss-knockdown also resulted in twisted wings in both long-winged and short-winged brown planthoppers. Y-type olfactometer analyses indicated that antenna defects originating from Nlss depletion resulted in less sensitivity to host volatiles. This study represents the first report of the characteristics and functions of Nlss in N. lugens antenna and wing development and illuminates the function of the plaque organ of N. lugens in host volatile perception.</text>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="335" length="9"/>
+        <text>spineless</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="346" length="2"/>
+        <text>ss</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:35:40Z</infon>
+        <location offset="365" length="8"/>
+        <text>bHLH-PAS</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="496" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="515" length="2"/>
+        <text>ss</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="524" length="4"/>
+        <text>Nlss</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="603" length="4"/>
+        <text>Nlss</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="684" length="4"/>
+        <text>Nlss</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="874" length="4"/>
+        <text>Nlss</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="957" length="18"/>
+        <text>brown planthoppers</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1054" length="4"/>
+        <text>Nlss</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1196" length="4"/>
+        <text>Nlss</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1204" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1295" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30992032</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Downregulation of female doublesex expression by oral-mediated RNA interference reduces number and fitness of Anopheles gambiae adult females.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="25" length="9"/>
+        <text>doublesex</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="110" length="17"/>
+        <text>Anopheles gambiae</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>143</offset>
+      <text>BACKGROUND: Mosquito-borne diseases affect millions worldwide, with malaria alone killing over 400 thousand people per year and affecting hundreds of millions. To date, the best strategy to prevent the disease remains insecticide-based mosquito control. However, insecticide resistance as well as economic and social factors reduce the effectiveness of the current methodologies. Alternative control technologies are in development, including genetic control such as the sterile insect technique (SIT). The SIT is a pivotal tool in integrated agricultural pest management and could be used to improve malaria vector control. To apply the SIT and most other newer technologies against disease transmitting mosquitoes, it is essential that releases are composed of males with minimal female contamination. The removal of females is an essential requirement because released females can themselves contribute towards nuisance biting and disease transmission. Thus, females need to be eliminated from the cohorts prior to release. Manual separation of Anopheles gambiae pupae or adult mosquitoes based on morphology is time consuming, is not feasible on a large scale and has limited the implementation of the SIT technique. The doublesex (dsx) gene is one of the effector switches of sex determination in the process of sex differentiation in insects. Both males and females have specific splicing variants that are expressed across the different life stages. Using RNA interference (RNAi) to reduce expression of the female specific (dsxF) variant of this gene has proven to have detrimental effects to the females in other mosquito species, such as Aedes aegypti. We tested oral RNAi on dsx (AgdsxF) in An. gambiae. METHODS: We studied the expression pattern of the dsx gene in the An. gambiae G3 strain. We knocked down AgdsxF expression in larvae through oral delivery of double stranded RNA (dsRNA) produced by bacteria and observed its effects in adults. RESULTS: Our results show that feeding of AgdsxF dsRNA can effectively reduce (&gt;  66%) the mRNA of female dsx transcript and that there is a concomitant reduction in the number of female larvae that achieve adulthood. Control groups produced 52% (   3.9% SE) of adult males and 48% (   4.0% SE) females, while AgdsxF dsRNA treated groups had 72.1% (   4.0% SE) males vs 27.8% females (   3.3% SE). In addition, the female adults produce fewer progeny, 37.1% (   8.2% SE) less than the controls. The knockdown was sex-specific and had no impact on total numbers of viable male adults, in the male dsx transcripts or male fitness parameters such as longevity or body size. CONCLUSIONS: These findings indicate that RNAi could be used to improve novel mosquito control strategies that require efficient sex separation and male-only release of An. gambiae by targeting sex determination genes such as AgdsxF. The advantages of using RNAi in a controlled setting for mosquito rearing are numerous, as the dose and time of exposure are controlled, and the possibility of off-target effects and the waste of female production would be significantly reduced.</text>
+      <annotation id="3">
+        <infon key="identifier">MESH:D008288</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="211" length="7"/>
+        <text>malaria</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">MESH:D008288</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="744" length="7"/>
+        <text>malaria</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1191" length="17"/>
+        <text>Anopheles gambiae</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1368" length="9"/>
+        <text>doublesex</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1379" length="3"/>
+        <text>dsx</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T20:24:08Z</infon>
+        <location offset="1675" length="4"/>
+        <text>dsxF</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">7159</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1791" length="13"/>
+        <text>Aedes aegypti</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1829" length="3"/>
+        <text>dsx</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1834" length="6"/>
+        <text>AgdsxF</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1845" length="11"/>
+        <text>An. gambiae</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1908" length="3"/>
+        <text>dsx</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1924" length="11"/>
+        <text>An. gambiae</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1963" length="6"/>
+        <text>AgdsxF</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2143" length="6"/>
+        <text>AgdsxF</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2207" length="3"/>
+        <text>dsx</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">None</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2356" length="2"/>
+        <text>SE</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">None</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2392" length="2"/>
+        <text>SE</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2411" length="6"/>
+        <text>AgdsxF</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">None</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2458" length="2"/>
+        <text>SE</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">None</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2494" length="2"/>
+        <text>SE</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">None</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2568" length="2"/>
+        <text>SE</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2697" length="3"/>
+        <text>dsx</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2941" length="11"/>
+        <text>An. gambiae</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2998" length="6"/>
+        <text>AgdsxF</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

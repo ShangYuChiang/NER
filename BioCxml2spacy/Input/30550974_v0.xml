@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30550974</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Function and pharmacology of glutamate-gated chloride channel exon 9 splice variants from the diamondback moth Plutella xylostella.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="29" length="32"/>
+        <text>glutamate-gated chloride channel</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">51655</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="111" length="19"/>
+        <text>Plutella xylostella</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>132</offset>
+      <text>Glutamate-gated chloride channels (GluCls) are found only in invertebrates and mediate fast inhibitory neurotransmission. The structural and functional diversity of GluCls are produced through assembly of multiple subunits and via posttranscriptional alternations. Alternative splicing is the most common way to achieve this in insect GluCls and splicing occurs primarily at exons 3 and 9. As expression pattern and pharmacological properties of exon 9 alternative splices in invertebrate GluCls remain poorly understood, the cDNAs encoding three alternative splice variants (9a, 9b and 9c) of the PxGluCl gene from the diamondback moth Plutella xylostella were constructed and their pharmacological characterizations were examined using electrophysiological studies. Alternative splicing of exon 9 had little to no impact on PxGluCl sensitivity towards the agonist glutamate when subunits were singly or co-expressed in Xenopus oocytes. In contrast, the allosteric modulator abamectin and the chloride channel blocker fipronil had differing effects on PxGluCl splice variants. PxGluCl9c channels were more resistant to abamectin and PxGluCl9b channels were more sensitive to fipronil than other homomeric channels. In addition, heteromeric channels containing different splice variants showed similar sensitivity to abamectin (except for 9c) and reduced sensitivity to fipronil than homomeric channels. These findings suggest that functionally indistinguishable but pharmacologically distinct GluCls could be formed in P. xylostella and that the upregulated constitutive expression of the specific variants may contribute to the evolution of insecticide resistance in P. xylostella and other arthropods.</text>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:16:57Z</infon>
+        <location offset="132" length="32"/>
+        <text>Glutamate-gated chloride channel</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:17:14Z</infon>
+        <location offset="167" length="5"/>
+        <text>GluCl</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:17:20Z</infon>
+        <location offset="297" length="5"/>
+        <text>GluCl</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:17:27Z</infon>
+        <location offset="467" length="5"/>
+        <text>GluCl</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:17:35Z</infon>
+        <location offset="621" length="5"/>
+        <text>GluCl</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="730" length="7"/>
+        <text>PxGluCl</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">51655</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="769" length="19"/>
+        <text>Plutella xylostella</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="958" length="7"/>
+        <text>PxGluCl</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="998" length="9"/>
+        <text>glutamate</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">8355</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1053" length="7"/>
+        <text>Xenopus</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">MESH:D002712</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1126" length="8"/>
+        <text>chloride</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">MESH:C082360</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1151" length="8"/>
+        <text>fipronil</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1185" length="7"/>
+        <text>PxGluCl</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1210" length="9"/>
+        <text>PxGluCl9c</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1266" length="9"/>
+        <text>PxGluCl9b</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">MESH:C082360</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1308" length="8"/>
+        <text>fipronil</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:C082360</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1502" length="8"/>
+        <text>fipronil</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:17:57Z</infon>
+        <location offset="1626" length="5"/>
+        <text>GluCl</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">51655</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1652" length="13"/>
+        <text>P. xylostella</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">51655</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1801" length="13"/>
+        <text>P. xylostella</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

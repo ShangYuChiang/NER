@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>18436642</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Functional specialization among insect chitinase family genes revealed by RNA interference.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="32" length="16"/>
+        <text>insect chitinase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>92</offset>
+      <text>The biological functions of individual members of the large family of chitinase-like proteins from the red flour beetle, Tribolium castaneum (Tc), were examined by using gene-specific RNAi. One chitinase, TcCHT5, was found to be required for pupal-adult molting only. A lethal phenotype was observed when the transcript level of TcCHT5 was down-regulated by injection of TcCHT5-specific dsRNA into larvae. The larvae had metamorphosed into pupae and then to pharate adults but did not complete adult eclosion. Specific knockdown of transcripts for another chitinase, TcCHT10, which has multiple catalytic domains, prevented embryo hatch, larval molting, pupation, and adult metamorphosis, indicating a vital role for TcCHT10 during each of these processes. A third chitinase-like protein, TcCHT7, was required for abdominal contraction and wing/elytra extension immediately after pupation but was dispensable for larval-larval molting, pupation, and adult eclosion. The wing/elytra abnormalities found in TcCHT7-silenced pupae were also manifest in the ensuing adults. A fourth chitinase-like protein, TcIDGF4, exhibited no chitinolytic activity but contributed to adult eclosion. No phenotypic effects were observed after knockdown of transcripts for several other chitinase-like proteins, including imaginal disk growth factor IDGF2. These data indicate functional specialization among insect chitinase family genes, primarily during the molting process, and provide a biological rationale for the presence of a large assortment of chitinase-like proteins.</text>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:24:46Z</infon>
+        <location offset="162" length="14"/>
+        <text>chitinase-like</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="213" length="19"/>
+        <text>Tribolium castaneum</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">641601</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="297" length="6"/>
+        <text>TcCHT5</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">641601</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="421" length="6"/>
+        <text>TcCHT5</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">641601</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="463" length="6"/>
+        <text>TcCHT5</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">652967</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="659" length="7"/>
+        <text>TcCHT10</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:C536351</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="766" length="13"/>
+        <text>metamorphosis</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">652967</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="809" length="7"/>
+        <text>TcCHT10</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:24:54Z</infon>
+        <location offset="857" length="14"/>
+        <text>chitinase-like</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">660881</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="881" length="6"/>
+        <text>TcCHT7</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">660881</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1097" length="6"/>
+        <text>TcCHT7</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:25:05Z</infon>
+        <location offset="1170" length="14"/>
+        <text>chitinase-like</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">655022</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1194" length="7"/>
+        <text>TcIDGF4</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:25:12Z</infon>
+        <location offset="1358" length="14"/>
+        <text>chitinase-like</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">655122</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1421" length="5"/>
+        <text>IDGF2</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1480" length="16"/>
+        <text>insect chitinase</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:25:17Z</infon>
+        <location offset="1626" length="14"/>
+        <text>chitinase-like</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>20026067</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Isolation of diapause-regulated genes from the flesh fly, Sarcophaga crassipalpis by suppressive subtractive hybridization.</text>
+      <annotation id="1">
+        <infon key="identifier">59312</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="58" length="23"/>
+        <text>Sarcophaga crassipalpis</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>124</offset>
+      <text>Subtractive suppressive hybridization (SSH) was used to characterize the diapause transcriptome of the flesh fly Sarcophaga crassipalpis. Through these efforts, we isolated 97 unique clones which were used as probes in northern hybridization to assess their expression during diapause. Of these, 17 were confirmed to be diapause upregulated and 1 was diapause downregulated, while 12 were shown to be unaffected by diapause in this species. The diapause upregulated genes fall into several broad categories including heat shock proteins, heavy metal responsive genes, neuropeptides, structural genes, regulatory elements, and several genes of unknown function. In combination with other large-scale analyses of gene expression during diapause, this study assists in the characterization of the S. crassipalpis diapause transcriptome, and begins to identify common elements involved in diapause across diverse taxa.</text>
+      <annotation id="2">
+        <infon key="identifier">59312</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="237" length="23"/>
+        <text>Sarcophaga crassipalpis</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="641" length="18"/>
+        <text>heat shock protein</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">59312</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="918" length="15"/>
+        <text>S. crassipalpis</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

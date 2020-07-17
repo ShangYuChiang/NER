@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>21370391</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>RNA interference in Nilaparvata lugens (Homoptera: Delphacidae) based on dsRNA ingestion.</text>
+      <annotation id="1">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="20" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>90</offset>
+      <text>BACKGROUND: An efficient and convenient RNA interference (RNAi) technique involving double-stranded RNA (dsRNA) ingestion is useful for gene function studies of non-model insects. RESULTS: Three dsRNAs targeting different sites within a gene encoding vacuolar ATP synthase subunit E (V-ATPase-E, 21E01) were synthesised for RNAi in Nilaparvata lugens. dsRNA was found to be stable in 0.1 g mL(-1) sucrose solution, but unstable in artificial fodder. Therefore, dsRNAs were orally delivered into N. lugens in 0.1 g mL(-1) sucrose solution. RNAi was induced by all three of the dsRNAs at 0.05  g  L(-1) in N. lugens. Time dynamics analysis of gene silencing indicated that significant suppression of the target gene began as early as 2 days after ingestion of ds2-21E01 and ds3-21E01. However, significant repressive effects were recorded up to 10 days after exposure to ds1-21E01. The maximum reduction in target gene mRNA was observed after 10 days of treatment, with suppression ratios induced by ds1-21E01, ds2-21E01 and ds3-21E01 of 41, 55 and 48% respectively. CONCLUSION: An efficient and convenient RNAi technique involving dsRNA ingestion has been successfully developed for N. lugens. This will be a useful tool for further functional genomic investigation in this organism.</text>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="341" length="31"/>
+        <text>vacuolar ATP synthase subunit E</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="374" length="10"/>
+        <text>V-ATPase-E</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:55:34Z</infon>
+        <location offset="386" length="5"/>
+        <text>21E01</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="422" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">MESH:D013395</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="487" length="7"/>
+        <text>sucrose</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="585" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">MESH:D013395</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="611" length="7"/>
+        <text>sucrose</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="694" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1272" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

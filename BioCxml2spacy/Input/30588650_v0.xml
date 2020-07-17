@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30588650</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>RNA interference-mediated knockdown of eye coloration genes in the western tarnished plant bug (Lygus hesperus Knight).</text>
+      <annotation id="1">
+        <infon key="identifier">50650</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="75" length="19"/>
+        <text>tarnished plant bug</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">30085</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="96" length="14"/>
+        <text>Lygus hesperus</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>120</offset>
+      <text>Insect eye coloration arises from the accumulation of various pigments. A number of genes that function in the biosynthesis (vermilion, cinnabar, and cardinal) and importation (karmoisin, white, scarlet, and brown) of these pigments, and their precursors, have been identified in diverse species and used as markers for transgenesis and gene editing. To examine their suitability as visible markers in Lygus hesperus Knight (western tarnished plant bug), transcriptomic data were screened for sequences exhibiting homology with the Drosophila melanogaster proteins. Complete open reading frames encoding putative homologs for all seven genes were identified. Bioinformatic-based sequence and phylogenetic analyses supported initial annotations as eye coloration genes. Consistent with their proposed role, each of the genes was expressed in adult heads as well as throughout nymphal and adult development. Adult eyes of those injected with double-stranded RNAs (dsRNAs) for karmoisin, vermilion, cinnabar, cardinal, and scarlet were characterized by a red band along the medial margin extending from the rostral terminus to the antenna. In contrast, eyes of insects injected with dsRNAs for both white and brown were a uniform light brown. White knockdown also produced cuticular and behavioral defects. Based on its expression profile and robust visible phenotype, cardinal would likely prove to be the most suitable marker for developing gene editing methods in Lygus species.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="245" length="9"/>
+        <text>vermilion</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="256" length="8"/>
+        <text>cinnabar</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="270" length="8"/>
+        <text>cardinal</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="297" length="9"/>
+        <text>karmoisin</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="308" length="5"/>
+        <text>white</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="315" length="7"/>
+        <text>scarlet</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="328" length="5"/>
+        <text>brown</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">30085</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="522" length="14"/>
+        <text>Lygus hesperus</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="652" length="23"/>
+        <text>Drosophila melanogaster</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1094" length="9"/>
+        <text>karmoisin</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1105" length="9"/>
+        <text>vermilion</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1116" length="8"/>
+        <text>cinnabar</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1126" length="8"/>
+        <text>cardinal</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1140" length="7"/>
+        <text>scarlet</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1316" length="5"/>
+        <text>white</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1326" length="5"/>
+        <text>brown</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1353" length="5"/>
+        <text>brown</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1360" length="5"/>
+        <text>White</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">MESH:D001523</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1404" length="18"/>
+        <text>behavioral defects</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1486" length="8"/>
+        <text>cardinal</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

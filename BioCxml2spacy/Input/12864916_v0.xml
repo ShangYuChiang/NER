@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>12864916</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Structure and evolution of the luciferin-regenerating enzyme (LRE) gene from the firefly Photinus pyralis.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="31" length="29"/>
+        <text>luciferin-regenerating enzyme</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:27:43Z</infon>
+        <location offset="62" length="3"/>
+        <text>LRE</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="89" length="16"/>
+        <text>Photinus pyralis</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>107</offset>
+      <text>To study the structural features of genes for the luciferin-regenerating enzyme (LRE), the entire gene along with 524 bp of upstream sequence was determined from Photinus pyralis (Coleoptera: Lampyridae). The LRE gene revealed an open reading frame composed of five exons divided by four introns ranging in size from 47 to 904 bp. The deduced LRE amino acid sequence showed identity to senescence marker protein-30 (SMP30) from a number of insects and mammals including four putative SMP30 sequences from Anopheles gambiae. Gene structure comparisons showed some intron/exon site conservation with A. gambiae and mammalian SMP30 proteins but not Drosophila. LRE and luciferase sequence comparisons revealed two conserved putative luciferin-binding sites. The evolution of LRE was discussed in relation to its function.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="157" length="29"/>
+        <text>luciferin-regenerating enzyme</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:27:46Z</infon>
+        <location offset="188" length="3"/>
+        <text>LRE</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="269" length="16"/>
+        <text>Photinus pyralis</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:27:48Z</infon>
+        <location offset="316" length="3"/>
+        <text>LRE</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:27:50Z</infon>
+        <location offset="450" length="3"/>
+        <text>LRE</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">CHEBI:33704</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="454" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="493" length="28"/>
+        <text>senescence marker protein-30</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">9104</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="523" length="5"/>
+        <text>SMP30</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">9104</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="591" length="5"/>
+        <text>SMP30</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="612" length="17"/>
+        <text>Anopheles gambiae</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:28:09Z</infon>
+        <location offset="705" length="10"/>
+        <text>A. gambiae</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">9104</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="730" length="5"/>
+        <text>SMP30</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="753" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:28:01Z</infon>
+        <location offset="765" length="3"/>
+        <text>LRE</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:28:02Z</infon>
+        <location offset="773" length="10"/>
+        <text>luciferase</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">CHEBI:25078</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="837" length="9"/>
+        <text>luciferin</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:28:06Z</infon>
+        <location offset="879" length="3"/>
+        <text>LRE</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

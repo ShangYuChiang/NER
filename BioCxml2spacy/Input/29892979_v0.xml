@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29892979</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Germline expression of the hunchback orthologues in the asexual viviparous aphids: a conserved feature within the Aphididae.</text>
+      <annotation id="1">
+        <infon key="identifier">100169388</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="27" length="9"/>
+        <text>hunchback</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>125</offset>
+      <text>In animals, differentiation of germline from soma usually takes place during embryogenesis. Genes and their products that are preferentially expressed in the embryonic germ cells are regarded as candidates for maintaining germline fate or promoting germline identity. In Drosophila, for example, the protein encoded by the germline gene vasa is specifically restricted to the germ cells, while products of the gap gene hunchback (hb), a somatic gene, are preferentially expressed in the neuroblasts. In this study, we report the expression of both messenger RNA and protein encoded by Aphb, an hb orthologue in the asexual viviparous pea aphid Acyrthosiphon pisum, in germ cells as well as in neuroblasts. We infer that expression of Aphb messenger RNA in the germ cells during the formation of germaria is required for the anterior localization of Aphb in the protruding oocytes. Germarial expression and anterior localization of ApKruppel was also identified but, unlike Aphb, its expression was not detected in the migrating germ cells. Very similar patterns of hb expression were also identified in the green peach aphid Myzus persicae, suggesting that germline expression of hb is conserved within the Aphididae. To date, this pattern of hb germline expression has not been reported in other insects.</text>
+      <annotation id="2">
+        <infon key="identifier">41032</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="544" length="9"/>
+        <text>hunchback</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">41032</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="555" length="2"/>
+        <text>hb</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="710" length="4"/>
+        <text>Aphb</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">100169388</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="719" length="2"/>
+        <text>hb</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7029</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="759" length="9"/>
+        <text>pea aphid</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">7029</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="769" length="19"/>
+        <text>Acyrthosiphon pisum</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="859" length="4"/>
+        <text>Aphb</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="974" length="4"/>
+        <text>Aphb</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1056" length="9"/>
+        <text>ApKruppel</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1098" length="4"/>
+        <text>Aphb</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1190" length="2"/>
+        <text>hb</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">13164</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1232" length="17"/>
+        <text>green peach aphid</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">13164</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1250" length="14"/>
+        <text>Myzus persicae</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1305" length="2"/>
+        <text>hb</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">100169388</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1368" length="2"/>
+        <text>hb</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

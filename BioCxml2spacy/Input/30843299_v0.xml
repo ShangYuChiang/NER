@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30843299</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Hydrocarbons catalysed by TmCYP4G122 and TmCYP4G123 in Tenebrio molitor modulate the olfactory response of the parasitoid Scleroderma guani.</text>
+      <annotation id="1">
+        <infon key="identifier">MESH:D006838</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="12"/>
+        <text>Hydrocarbons</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="26" length="10"/>
+        <text>TmCYP4G122</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="41" length="10"/>
+        <text>TmCYP4G123</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">7067</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="55" length="16"/>
+        <text>Tenebrio molitor</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">380176</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="122" length="17"/>
+        <text>Scleroderma guani</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>141</offset>
+      <text>Hydrocarbons (HCs) present on the epicuticle of terrestrial insects are not only used to reduce water loss but are also used as chemical signals. The cytochrome p450 CYP4G gene is essential for HC biosynthesis in some insects. However, its function in Tenebrio molitor is unknown. Moreover, it is not yet known whether CYP4G of a host can modulate the searching behaviours of its parasitoid. Here, we explore the function of the TmCYP4G122 and CYP4G123 genes in T. molitor. The TmCYP4G122 and CYP4G123 transcripts could be detected in all developmental stages. Their expression was higher in the fat body and abdominal cuticle than in the gut. Their transcript levels in mature larvae under desiccation stress [relative humidity (RH) &lt; 5%] was significantly higher than that in the control (RH = 70%). Injection of dsCYP4G122 and dsCYP4G123 caused a reduction in HC biosynthesis and was associated with increased susceptibility to desiccation. Individuals of the parasitoid Scleroderma guani that emerged from mealworm pupae showed host preference for normal pupae whereas S. guani that emerged from pupae lacking CYP4G122 or/and CYP4G123 lost this searching preference. The current results confirm that CYP4G122 and CYP4G123 regulate the biosynthesis of HCs and modulate the olfactory response of its parasitoid S. guani.</text>
+      <annotation id="6">
+        <infon key="identifier">MESH:D006838</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="141" length="12"/>
+        <text>Hydrocarbons</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:04:30Z</infon>
+        <location offset="291" length="15"/>
+        <text>cytochrome p450</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="307" length="5"/>
+        <text>CYP4G</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">7067</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="393" length="16"/>
+        <text>Tenebrio molitor</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="460" length="5"/>
+        <text>CYP4G</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="570" length="10"/>
+        <text>TmCYP4G122</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="585" length="8"/>
+        <text>CYP4G123</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">7067</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="603" length="10"/>
+        <text>T. molitor</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="619" length="10"/>
+        <text>TmCYP4G122</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="634" length="8"/>
+        <text>CYP4G123</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">MESH:C536201</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1004" length="15"/>
+        <text>HC biosynthesis</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">380176QT</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1115" length="17"/>
+        <text>Scleroderma guani</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">380176</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1214" length="8"/>
+        <text>S. guani</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1255" length="8"/>
+        <text>CYP4G122</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1271" length="8"/>
+        <text>CYP4G123</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1345" length="8"/>
+        <text>CYP4G122</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1358" length="8"/>
+        <text>CYP4G123</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">380176</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1454" length="8"/>
+        <text>S. guani</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

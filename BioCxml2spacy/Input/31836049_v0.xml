@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31836049</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Knockdown of NADPH-cytochrome P450 reductase and CYP6MS1 increases the susceptibility of Sitophilus zeamais to terpinen-4-ol.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="13" length="31"/>
+        <text>NADPH-cytochrome P450 reductase</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="49" length="7"/>
+        <text>CYP6MS1</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7047</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="89" length="18"/>
+        <text>Sitophilus zeamais</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">MESH:C014606</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="111" length="13"/>
+        <text>terpinen-4-ol</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>126</offset>
+      <text>Terpinen-4-ol showed highly insecticidal activity to stored-grain pest Sitophilus zeamais, and cytochrome P450s were strongly induced in response to terpinen-4-ol fumigation. Understanding of the function of P450 enzyme system in the susceptibility to terpinen-4-ol in S. zeamais will benefit the potential application of terpinen-4-ol in controlling stored-grain pests. In the present study, the synergist piperonyl butoxide increased the toxicity of terpinen-4-ol to S. zeamais, with a synergism ratio of 3.5-fold. Two isoforms of NADPH-cytochrome P450 reductase (SzCPR) were identified, with the difference at the N-terminal. SzCPR contained an N-terminal membrane anchor, FMN, FAD, and NADP binding domains. Expression levels of SzCPR were upregulated by tea tree oil (TTO) and its main constituent terpinen-4-ol under different concentrations and time periods. RNAi was generated for S. zeamais by feeding adults dsRNA and the knockdown of SzCPR increased the susceptibility of S. zeamais to terpinen-4-ol, with higher mortality of adults than control under terpinen-4-ol fumigation. Further RNAi analysis showed that P450 gene CYP6MS1 mediated the susceptibility of S. zeamais to terpinen-4-ol. These results revealed that cytochrome P450 enzyme system, especially CYP6MS1 participated in the susceptibility of S. zeamais to terpinen-4-ol. The findings provided a foundation to clarify the metabolic mechanisms of terpinen-4-ol in stored-grain pests.</text>
+      <annotation id="5">
+        <infon key="identifier">MESH:C014606</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="126" length="13"/>
+        <text>Terpinen-4-ol</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7047</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="197" length="18"/>
+        <text>Sitophilus zeamais</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="221" length="15"/>
+        <text>cytochrome P450</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">MESH:C014606</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="275" length="13"/>
+        <text>terpinen-4-ol</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T03:04:26Z</infon>
+        <location offset="334" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">MESH:C014606</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="378" length="13"/>
+        <text>terpinen-4-ol</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">7047</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="395" length="10"/>
+        <text>S. zeamais</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">MESH:C014606</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="448" length="13"/>
+        <text>terpinen-4-ol</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">MESH:D010882</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="533" length="18"/>
+        <text>piperonyl butoxide</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">MESH:D064420</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="566" length="8"/>
+        <text>toxicity</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:C014606</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="578" length="13"/>
+        <text>terpinen-4-ol</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">7047</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="595" length="10"/>
+        <text>S. zeamais</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="659" length="31"/>
+        <text>NADPH-cytochrome P450 reductase</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="692" length="5"/>
+        <text>SzCPR</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">MESH:D009584</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="743" length="1"/>
+        <text>N</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="755" length="5"/>
+        <text>SzCPR</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">MESH:D009584</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="774" length="1"/>
+        <text>N</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:D005182</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="807" length="3"/>
+        <text>FAD</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">MESH:D009249</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="816" length="4"/>
+        <text>NADP</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="859" length="5"/>
+        <text>SzCPR</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">164405</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="885" length="8"/>
+        <text>tea tree</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">MESH:C014606</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="929" length="13"/>
+        <text>terpinen-4-ol</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">7047</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1015" length="10"/>
+        <text>S. zeamais</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1071" length="5"/>
+        <text>SzCPR</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">7047</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1109" length="10"/>
+        <text>S. zeamais</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">MESH:C014606</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1123" length="13"/>
+        <text>terpinen-4-ol</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">MESH:C014606</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1189" length="13"/>
+        <text>terpinen-4-ol</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T03:04:45Z</infon>
+        <location offset="1249" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1259" length="7"/>
+        <text>CYP6MS1</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">7047</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1298" length="10"/>
+        <text>S. zeamais</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">MESH:C014606</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1312" length="13"/>
+        <text>terpinen-4-ol</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1355" length="15"/>
+        <text>cytochrome P450</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1397" length="7"/>
+        <text>CYP6MS1</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">7047</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1443" length="10"/>
+        <text>S. zeamais</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">MESH:C014606</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1457" length="13"/>
+        <text>terpinen-4-ol</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier">MESH:C014606</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1546" length="13"/>
+        <text>terpinen-4-ol</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

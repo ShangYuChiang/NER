@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29600519</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Transgenic soybean plants expressing Spb18S dsRNA exhibit enhanced resistance to the soybean pod borer Leguminivora glycinivorella (Lepidoptera: Olethreutidae).</text>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:45:10Z</infon>
+        <location offset="37" length="6"/>
+        <text>Spb18S</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">1035111</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="103" length="27"/>
+        <text>Leguminivora glycinivorella</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>161</offset>
+      <text>The soybean pod borer [SPB; Leguminivora glycinivorella (Mats.) Obraztsov] is a major soybean pest in northeastern Asia. A useful method for addressing this problem is the generation of transgenic plants producing double-stranded RNA (dsRNA) that target essential insect genes. In this study, we confirmed that 18S ribosomal RNA is critical for SPB development. Downregulated Spb18S expression induced by dsRNA injection increased larval mortality rates and resulted in early pupation. We also assessed whether Spb18S is silenced in SPB larvae fed on transgenic soybean expressing Spb18S dsRNA. Transgenic plants downregulated Spb18S expression levels and second-instar larval survival rates. Moreover, such plants were less damaged by SPB larvae than control plants under field conditions.</text>
+      <annotation id="5">
+        <infon key="identifier">1035111</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="189" length="27"/>
+        <text>Leguminivora glycinivorella</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="472" length="17"/>
+        <text>18S ribosomal RNA</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="537" length="6"/>
+        <text>Spb18S</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="672" length="6"/>
+        <text>Spb18S</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:45:28Z</infon>
+        <location offset="742" length="6"/>
+        <text>Spb18S</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="788" length="6"/>
+        <text>Spb18S</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

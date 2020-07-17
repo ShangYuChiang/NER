@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30593917</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Bmo-miR-79 downregulates the expression of BmEm4 in the silkworm, Bombyx mori.</text>
+      <annotation id="1">
+        <infon key="identifier">102466928</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="10"/>
+        <text>Bmo-miR-79</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:13:37Z</infon>
+        <location offset="43" length="5"/>
+        <text>BmEm4</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="66" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>79</offset>
+      <text>MicroRNA is an important regulation factor in insect development and metamorphosis. It has been reported that E(spl)m4 is a miRNA-targeted gene, as well as the target of the Notch signaling pathway in Drosophila. The expression of E(spl)m4 can be regulated by microRNA and further affect the neural development of Drosophila. Here, we found that BmEm4, an ortholog of E(spl)m4 from Bombyx mori, was the target gene of bmo-miR-79, with target sites containing the Brd and K boxes of the BmEm4_3 UTR, which was validated by the dual luciferase reporter (DLR) assay. Furthermore, bmo-miR-79 mimics can inhibit the expression of BmEm4 in BmN cells after transfection, and bmo-miR-79 can also inhibit the expression of BmEm4 in different developmental stages of Bombyx mori at a posttranscriptional level, to different degrees. The EMSA test further showed that bmo-miR-79 could bind to BmAGO2, which is the Bombyx mori argonaute2 protein, suggesting that bmo-miR-79 might regulate the expression of BmEm4 by forming miRISC complexes with BmAGO2. Taken together, bmo-miR-79 could regulate the expression of BmEm4 mediated by BmAGO2 and further affect its function in the silkworm Bombyx mori.</text>
+      <annotation id="4">
+        <infon key="identifier">MESH:C536351</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="148" length="13"/>
+        <text>metamorphosis</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">43157</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="189" length="8"/>
+        <text>E(spl)m4</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:13:50Z</infon>
+        <location offset="253" length="5"/>
+        <text>Notch</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">43157</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="310" length="8"/>
+        <text>E(spl)m4</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:13:54Z</infon>
+        <location offset="425" length="5"/>
+        <text>BmEm4</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">43157</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="447" length="8"/>
+        <text>E(spl)m4</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="461" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">102466928</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="497" length="10"/>
+        <text>bmo-miR-79</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:14:09Z</infon>
+        <location offset="565" length="7"/>
+        <text>BmEm4_3</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">102466928</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="656" length="10"/>
+        <text>bmo-miR-79</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:14:13Z</infon>
+        <location offset="704" length="5"/>
+        <text>BmEm4</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">102466928</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="747" length="10"/>
+        <text>bmo-miR-79</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:14:20Z</infon>
+        <location offset="793" length="5"/>
+        <text>BmEm4</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="836" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">102466928</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="936" length="10"/>
+        <text>bmo-miR-79</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">692544</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="961" length="6"/>
+        <text>BmAGO2</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="982" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">692544</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="994" length="10"/>
+        <text>argonaute2</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">102466928</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1030" length="10"/>
+        <text>bmo-miR-79</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:14:25Z</infon>
+        <location offset="1074" length="5"/>
+        <text>BmEm4</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">692544</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1113" length="6"/>
+        <text>BmAGO2</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">102466928</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1137" length="10"/>
+        <text>bmo-miR-79</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:14:31Z</infon>
+        <location offset="1181" length="5"/>
+        <text>BmEm4</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">692544</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1199" length="6"/>
+        <text>BmAGO2</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1254" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

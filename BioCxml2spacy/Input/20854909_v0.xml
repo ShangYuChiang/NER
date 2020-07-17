@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>20854909</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Functional characterization of cis-acting elements mediating flavone-inducible expression of CYP321A1.</text>
+      <annotation id="1">
+        <infon key="identifier">C043562</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="61" length="7"/>
+        <text>flavone</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="93" length="8"/>
+        <text>CYP321A1</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>103</offset>
+      <text>How plant allelochemicals elicit herbivore counterdefense genes remains largely unknown. To define the cis-acting elements for flavone inducibility of the allelochemical-metabolizing CYP321A1 from Helicoverpa zea, functions of varying length of CYP321A1 promoter are examined in H. zea fatbody cells. Progressive 3  deletions reveal presence of positive elements in the 5  untranslated region (UTR). Progressive 5  deletions map out regions of one essential element, four enhancers, and two silencers. Further progressive 5 deletions localize the essential element to a 36-bp region from -109 to -74. This essential element, designated as xenobiotic response element to flavone (XRE-Fla), contains a 5  AT-only TAAT inverted repeat, a GCT mirror repeat and a 3  antioxidant response element-like element. Internal deletions and substitution mutations show that the TAAT repeat is only necessary for the maximal flavone inducibility, whereas the other two components are necessary for the basal and flavone-induced expression of CYP321A1. Electrophoresis mobility shift assays demonstrate that XRE-Fla specifically binds to H. zea fatbody cell nuclear extracts and flavone treatment increases the nuclear concentrations of the yet-to-be characterized transcription factors binding to XRE-Fla. Taken together, CYP321A1 expression is regulated primarily by XRE-Fla and secondarily by other cis elements scattered in its promoter and 5  UTR.</text>
+      <annotation id="3">
+        <infon key="identifier">C043562</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="230" length="7"/>
+        <text>flavone</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="286" length="8"/>
+        <text>CYP321A1</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">7113</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="300" length="15"/>
+        <text>Helicoverpa zea</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="348" length="8"/>
+        <text>CYP321A1</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:56:58Z</infon>
+        <location offset="382" length="6"/>
+        <text>H. zea</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">C043562</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="773" length="7"/>
+        <text>flavone</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">C043562</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1014" length="7"/>
+        <text>flavone</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">C043562</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1101" length="7"/>
+        <text>flavone</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1131" length="8"/>
+        <text>CYP321A1</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">C043562</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1267" length="7"/>
+        <text>flavone</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1411" length="8"/>
+        <text>CYP321A1</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

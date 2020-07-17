@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30904400</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Use of tyrosine hydroxylase RNAi to study Megoura viciae (Hemiptera: Aphididae) sequestration of its host s l-DOPA for body melanism.</text>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:17:22Z</infon>
+        <location offset="7" length="20"/>
+        <text>tyrosine hydroxylase</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">112273</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="42" length="14"/>
+        <text>Megoura viciae</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>134</offset>
+      <text>Melanism in insects is important for their physical protection, immunoreactions, and sclerotization. The vetch aphid, Megoura viciae (Buckton), has relatively strong tanning in its prothorax, head, antennae, cornicles, and legs. It was hypothesized that M. viciae may sequester the high level of l-DOPA in its host Vicia faba to help in its melanization process for ecological adaptation. To confirm this hypothesis, the amount of l-DOPA in M. viciae was modified and quantified. We first generated a Trifolium repens (clover, low l-DOPA containing) host to cut off the extra l-DOPA intake by M. viciae. The rate-limiting tyrosine hydroxylase gene of M. viciae (MV-TH) was then cloned and analyzed. To further reduce the l-DOPA level in the insect, RNAi was used to downregulate the transcriptional level of MV-TH. Our results confirmed that M. viciae could indeed sequester l-DOPA in its body, and its ample storage of this amino acid could be the reason for the strong tanning of its body. M. viciae reared on T. repens could upregulate its MV-TH to enhance l-DOPA biosynthesis and thus maintain a high level of l-DOPA. The MV-TH repression by RNAi lasted for about 3  days, successfully decreasing the l-DOPA level. Aside from a slight decrease in exuvia tanning, no other obvious change in body appearance was detected in the RNAi-treated insect. Although M. viciae can obtain most of its l-DOPA directly from its original host, its internal l-DOPA synthetase is still functional, especially when extra l-DOPA is removed from the diet. This capability to enhance its shield ensures the ecological adaptation of this insect.</text>
+      <annotation id="4">
+        <infon key="identifier">112273</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="239" length="11"/>
+        <text>vetch aphid</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">112273</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="252" length="14"/>
+        <text>Megoura viciae</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">112273</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="388" length="9"/>
+        <text>M. viciae</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">3906</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="449" length="10"/>
+        <text>Vicia faba</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">112273</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="575" length="9"/>
+        <text>M. viciae</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">112273</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="727" length="9"/>
+        <text>M. viciae</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:14:33Z</infon>
+        <location offset="756" length="20"/>
+        <text>tyrosine hydroxylase</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">112273</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="785" length="9"/>
+        <text>M. viciae</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="796" length="5"/>
+        <text>MV-TH</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="942" length="5"/>
+        <text>MV-TH</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">112273</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="976" length="9"/>
+        <text>M. viciae</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">112273</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1126" length="9"/>
+        <text>M. viciae</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">3899</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1146" length="9"/>
+        <text>T. repens</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1177" length="5"/>
+        <text>MV-TH</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1260" length="5"/>
+        <text>MV-TH</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">112273</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1494" length="9"/>
+        <text>M. viciae</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:21:18Z</infon>
+        <location offset="1580" length="17"/>
+        <text>l-DOPA synthetase</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

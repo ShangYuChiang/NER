@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>20005950</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Native subunit composition of two insect nicotinic receptor subtypes with differing affinities for the insecticide imidacloprid.</text>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:10:03Z</infon>
+        <location offset="41" length="18"/>
+        <text>nicotinic receptor</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="115" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>129</offset>
+      <text>Neonicotinoid insecticides, such as imidacloprid, are selective agonists of insect nicotinic acetylcholine receptors (nAChRs) and are used extensively to control a variety of insect pest species. The brown planthopper (Nilaparvata lugens), an insect pest of rice crops throughout Asia, is an important target species for control with neonicotinoid insecticides such as imidacloprid. Studies with nAChRs purified from N. lugens have identified two [(3)H]imidacloprid binding sites with different affinities (K(d) = 3.5 +/- 0.6 pM and 1.5 +/- 0.2 nM). Co-immunoprecipitation studies with native preparations of N. lugens nAChRs, using subunit-selective antisera, have demonstrated the co-assembly of Nlalpha1, Nlalpha2 and Nlbeta1 subunits into one receptor complex and of Nlalpha3, Nlalpha8 and Nlbeta1 into another. Immunodepletion of Nlalpha1 or Nlalpha2 subunits resulted in the selective loss of the lower affinity imidacloprid binding site, whereas immunodepletion of Nlalpha3 or Nlalpha8 caused the selective loss of the high-affinity site. Immunodepletion of Nlbeta1 resulted in a complete absence of specific imidacloprid binding. In contrast, immunodepletion with antibodies selective for other N. lugens nAChR subunits (Nlalpha4, Nlalpha6, Nlalpha7 and Nlbeta2) had no significant effect on imidacloprid binding. Taken together, these data suggest that nAChRs containing Nlalpha1, Nlalpha2 and Nlbeta1 constitute the lower affinity binding site, whereas nAChRs containing Nlalpha3, Nlalpha8 and Nlbeta1 constitute the higher affinity binding site for imidacloprid in N. lugens.</text>
+      <annotation id="3">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="165" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:10:13Z</infon>
+        <location offset="212" length="32"/>
+        <text>nicotinic acetylcholine receptor</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:10:11Z</infon>
+        <location offset="247" length="5"/>
+        <text>nAChR</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="348" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="498" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:10:27Z</infon>
+        <location offset="525" length="5"/>
+        <text>nAChR</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="546" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="576" length="18"/>
+        <text>[(3)H]imidacloprid</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="738" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:10:31Z</infon>
+        <location offset="748" length="5"/>
+        <text>nAChR</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1047" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1245" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1332" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:10:49Z</infon>
+        <location offset="1342" length="5"/>
+        <text>nAChR</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1429" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:10:55Z</infon>
+        <location offset="1491" length="5"/>
+        <text>nAChR</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:10:58Z</infon>
+        <location offset="1592" length="5"/>
+        <text>nAChR</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1689" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1705" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

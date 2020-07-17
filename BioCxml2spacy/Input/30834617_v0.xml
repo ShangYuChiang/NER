@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30834617</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Functional characterization of ultraspiracle in Leptinotarsa decemlineata using RNA interference assay.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="31" length="13"/>
+        <text>ultraspiracle</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7539</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="48" length="25"/>
+        <text>Leptinotarsa decemlineata</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>104</offset>
+      <text>A heterodimer of ultraspiracle (USP) and ecdysone receptor (EcR) mediates 20-hydroxyecdysone (20E) signalling cascade to regulate insect moulting and metamorphosis. However, at least two questions remain to be addressed in terms of the molecular importance of USP in insect species. First, is USP involved in both regulation of ecdysteroidogenesis and mediation of 20E signalling in non-drosophilid insects, as in Drosophila melanogaster? Second, does USP play any role in larval metamorphosis except as the partner of heterodimeric receptor to activate the downstream 20E signalling genes? In this paper, we found that RNA interference (RNAi) of LdUSP in the final (fourth) instar larvae reduced the messenger RNA levels of four ecdysteroidogenesis genes (Ldspo, Ldphm, Lddib and Ldsad) and 20E titre, and repressed the expression of five 20E signal genes (EcRA, HR3, HR4, E74 and E75) in Leptinotarsa decemlineata. The LdUSP RNAi larvae remained as prepupae, with developing antennae, legs and discs of forewings and hindwings. Dietary supplement with 20E restored the expression of the five 20E signal genes, but only partially alleviated the decreased pupation rate in LdUSP RNAi beetles. Knockdown of LdUSP at the penultimate (third) instar larvae did not affect third-fourth instar moulting. However, silencing LdUSP caused similar but less severe impairments on pupation. Accordingly, we propose that USP is undoubtedly necessary for ecdysteroidogenesis, for mediation of 20E signalling and for initiation of metamorphosis in L. decemlineata.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="121" length="13"/>
+        <text>ultraspiracle</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">31165</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="136" length="3"/>
+        <text>USP</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="145" length="17"/>
+        <text>ecdysone receptor</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="164" length="3"/>
+        <text>EcR</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">MESH:D004441</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="178" length="18"/>
+        <text>20-hydroxyecdysone</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">MESH:C536351</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="254" length="13"/>
+        <text>metamorphosis</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">31165</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="364" length="3"/>
+        <text>USP</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">31165</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="397" length="3"/>
+        <text>USP</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="518" length="23"/>
+        <text>Drosophila melanogaster</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">31165</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="556" length="3"/>
+        <text>USP</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">MESH:C536351</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="584" length="13"/>
+        <text>metamorphosis</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="751" length="5"/>
+        <text>LdUSP</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="861" length="5"/>
+        <text>Ldspo</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="868" length="5"/>
+        <text>Ldphm</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="875" length="5"/>
+        <text>Lddib</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="885" length="5"/>
+        <text>Ldsad</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:47:08Z</infon>
+        <location offset="962" length="4"/>
+        <text>EcRA</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:47:10Z</infon>
+        <location offset="968" length="3"/>
+        <text>HR3</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:47:11Z</infon>
+        <location offset="973" length="3"/>
+        <text>HR4</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:47:12Z</infon>
+        <location offset="978" length="3"/>
+        <text>E74</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:47:13Z</infon>
+        <location offset="986" length="3"/>
+        <text>E75</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">7539</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="994" length="25"/>
+        <text>Leptinotarsa decemlineata</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1025" length="5"/>
+        <text>LdUSP</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1277" length="5"/>
+        <text>LdUSP</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1310" length="5"/>
+        <text>LdUSP</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1421" length="5"/>
+        <text>LdUSP</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">31165</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1512" length="3"/>
+        <text>USP</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">MESH:C536351</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1606" length="27"/>
+        <text>initiation of metamorphosis</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">7539</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1637" length="15"/>
+        <text>L. decemlineata</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

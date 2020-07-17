@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29285882</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Systemic RNAi of V-ATPase subunit B causes molting defect and developmental abnormalities in Periplaneta fuliginosa.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="17" length="18"/>
+        <text>V-ATPase subunit B</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="93" length="22"/>
+        <text>Periplaneta fuliginosa</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>117</offset>
+      <text>The vacuolar (H+ )-ATPases (V-ATPases) are ATP-driven proton pumps with multiple functions in many organisms. In this study, we performed structural and functional analysis of vha55 gene that encodes V-ATPase subunit B in the smokybrown cockroach Periplaneta fuliginosa (Blattodea). We observed a high homology score of the deduced amino acid sequences between 10 species in seven orders. RNAi of the vha55 gene in P. fuliginosa caused nymphal/nymphal molting defects with incomplete shedding of old cuticles, growth inhibition, as well as bent and wrinkled cuticles of thoraxes and abdominal segments. Since growth inhibition caused by vha55 RNAi did not interfere in the commencement of cockroach molting, molting timing and body growth might be controlled by independent mechanism. Our study suggested V-ATPases might be a good candidate molecule for evolutionary and developmental studies of insect molting.</text>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:01:20Z</infon>
+        <location offset="121" length="21"/>
+        <text>vacuolar (H+ )-ATPase</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:01:26Z</infon>
+        <location offset="145" length="8"/>
+        <text>V-ATPase</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">MESH:D000255</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="160" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="293" length="5"/>
+        <text>vha55</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="317" length="18"/>
+        <text>V-ATPase subunit B</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">36977</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="364" length="22"/>
+        <text>Periplaneta fuliginosa</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="518" length="5"/>
+        <text>vha55</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">36977</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="532" length="13"/>
+        <text>P. fuliginosa</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="754" length="5"/>
+        <text>vha55</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="922" length="9"/>
+        <text>V-ATPases</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

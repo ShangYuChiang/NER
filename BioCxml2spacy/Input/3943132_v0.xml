@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>3943132</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Translational and transcriptional control elements in the untranslated leader of the heat-shock gene hsp22.</text>
+      <annotation id="1">
+        <infon key="identifier">3772576</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="101" length="5"/>
+        <text>hsp22</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>108</offset>
+      <text>Downstream of the transcription start site in the Drosophila heat-shock gene hsp22, we have identified a region that is necessary for efficient transcription, and also for selective translation during heat shock. We assayed the expression of mutated genes after P-factor-mediated insertion into the genome. Deletions within the first 26 nucleotides block the preferential translation of hsp22 mRNA at high temperature. The rate of transcription is also decreased, though transcription is still heat-inducible. Leaving this region intact, up to 86% of the leader can be deleted without affecting translation or transcription. The functional region coincides with a region of sequence homology between the heat-shock genes. Only partial homology is found to a conserved sequence, ATCAGTTCT, found at the very 5  end of other insect genes.</text>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="158" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">3772576</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="185" length="5"/>
+        <text>hsp22</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">3772576</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="495" length="5"/>
+        <text>hsp22</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

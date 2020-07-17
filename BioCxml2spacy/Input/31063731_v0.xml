@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31063731</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Egf-like gene is essential for cuticle metabolism in the brown planthopper.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="8"/>
+        <text>Egf-like</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>76</offset>
+      <text>Using the mass spectrometry analysis of cuticle casts of brown planthopper (BPH, Nilaparvata lugens) and transcriptome analysis of BPH tissues, we identified a gigantic gene (50,922  bp, 16,973 aa) tentatively called Nlegf-like. Multiple transcripts were found. Nlegf-like encodes an integral membrane protein of 16,973 amino acid residues with 260 EGF-like repeats and 16 Ca2+-binding EGF repeats type (cbEGFs) in the extracellular portion. Nlegf-like was highly expressed in the integument and tended to peak at the middle stage or late stage of each nymph instar. Phylogenetic analysis showed this gene is conserved in many other insects. Different double-stranded RNA-mediated RNA interference targeting eight different regions of the Nlegf-like gene resulted in abnormal cuticle formation or molting and lethal phenotypes. Transmission electron microscopy revealed that the newly formed endocuticle was significantly thinner for RNAi-treated BPHs with phenotype of contracted abdomen, or the old cuticle could not be digested sufficiently for those with phenotype of slender body shape or died with molting difficulty when compared with the control group. We suggest that the Nlegf-like is crucial for metabolism of the cuticle in BPH molting.</text>
+      <annotation id="14">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:42:40Z</infon>
+        <location offset="157" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="293" length="10"/>
+        <text>Nlegf-like</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="338" length="10"/>
+        <text>Nlegf-like</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="425" length="8"/>
+        <text>EGF-like</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:D002118</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="449" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="518" length="10"/>
+        <text>Nlegf-like</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="815" length="10"/>
+        <text>Nlegf-like</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1257" length="10"/>
+        <text>Nlegf-like</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

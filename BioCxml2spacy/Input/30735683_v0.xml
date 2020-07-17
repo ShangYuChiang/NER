@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30735683</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Domain structure and expression along the midgut and carcass of peritrophins and cuticle proteins analogous to peritrophins in insects with and without peritrophic membrane.</text>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:27:59Z</infon>
+        <location offset="64" length="11"/>
+        <text>peritrophin</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:28:04Z</infon>
+        <location offset="81" length="15"/>
+        <text>cuticle protein</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:28:01Z</infon>
+        <location offset="111" length="11"/>
+        <text>peritrophin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>174</offset>
+      <text>Most insects have a peritrophic membrane (matrix) (PM) surrounding the food bolus. This structure, similarly to the cuticle, is mainly composed of chitin and proteins. The main proteins forming PM are known as peritrophins (PMP), whereas some of the cuticle proteins are the cuticle proteins analogous to peritrophins (CPAP). Both proteins are composed of one or more chitin binding peritrophin-A domain (CBD) and no other recognized domain. Furthermore, insects containing PM usually have two chitin synthase (CS) genes, one mainly expressed in carcass and the other in midgut. In this work we identified PMP, CPAP and CS genes in the genome of insects from the Polyneoptera, Paraneoptera and Holometabola cohorts and analyzed their expression profile in different species from each group. In agreement with the absence of PM, we observed less CBD-containing proteins and only one CS gene in the genome of Paraneoptera species, except for the Phthiraptera Pediculus humanus. The lack of PM in Paraneoptera species was also confirmed by the micrographs of the midgut of two Hemiptera species, Dysdercus peruvianus and Mahanarva fimbriolata which agreed with the RNA-seq data of both species. Our analyses also highlighted a higher number of CBD-containing proteins in Holometabola in relation to the earlier divergent Polyneoptera group, especially regarding the genes composed of more than three CBDs, which are usually associated to PM formation. Finally, we observed a high number of CBD-containing proteins being expressed in both midgut and carcass tissues of several species, which we named as ubiquitous-CBD-containing proteins (UCBP), as their function is unclear. We hypothesized that these proteins can be involved in both cuticle and PM formation or that they can be involved in immune response and/or tracheolae formation.</text>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:28:22Z</infon>
+        <location offset="384" length="11"/>
+        <text>peritrophin</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:29:43Z</infon>
+        <location offset="398" length="3"/>
+        <text>PMP</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:28:31Z</infon>
+        <location offset="424" length="15"/>
+        <text>cuticle protein</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:28:49Z</infon>
+        <location offset="449" length="15"/>
+        <text>cuticle protein</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:28:51Z</infon>
+        <location offset="493" length="4"/>
+        <text>CPAP</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:29:26Z</infon>
+        <location offset="668" length="15"/>
+        <text>chitin synthase</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:29:47Z</infon>
+        <location offset="685" length="2"/>
+        <text>CS</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:29:45Z</infon>
+        <location offset="780" length="3"/>
+        <text>PMP</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:29:46Z</infon>
+        <location offset="785" length="4"/>
+        <text>CPAP</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:29:50Z</infon>
+        <location offset="794" length="2"/>
+        <text>CS</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:31:11Z</infon>
+        <location offset="1019" length="22"/>
+        <text>CBD-containing protein</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:30:20Z</infon>
+        <location offset="1056" length="2"/>
+        <text>CS</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">121225</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1131" length="17"/>
+        <text>Pediculus humanus</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">685034</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1267" length="20"/>
+        <text>Dysdercus peruvianus</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">672148</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1292" length="21"/>
+        <text>Mahanarva fimbriolata</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:30:48Z</infon>
+        <location offset="1415" length="22"/>
+        <text>CBD-containing protein</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:30:51Z</infon>
+        <location offset="1661" length="22"/>
+        <text>CBD-containing protein</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:31:01Z</infon>
+        <location offset="1774" length="33"/>
+        <text>ubiquitous-CBD-containing protein</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:31:02Z</infon>
+        <location offset="1810" length="4"/>
+        <text>UCBP</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

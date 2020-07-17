@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>20193689</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Characterization of a trehalose-6-phosphate synthase gene from Spodoptera exigua and its function identification through RNA interference.</text>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:54:55Z</infon>
+        <location offset="22" length="30"/>
+        <text>trehalose-6-phosphate synthase</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7107</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="63" length="17"/>
+        <text>Spodoptera exigua</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>139</offset>
+      <text>Trehalose is an important disaccharide and a key regulation factor for the development of many organisms, including plants, bacteria, fungi and insects. In order to study the trehalose synthesis pathway, a cDNA for a trehalose-6-phosphate synthase from Spodoptera exigua (SeTPS) was cloned which contained an open reading frame of 2481 nucleotides encoding a protein of 826 amino acids with a predicted molecular weight of 92.65kDa. The SeTPS genome has 12 exons and 11 introns. Northern blot and RT-PCR analyses showed that SeTPS mRNA was expressed in the fat body and in the ovary. Competitive RT-PCR revealed that SeTPS mRNA was expressed in the fat body at different developmental stages and was present at a high level in day 1 S. exigua pupae. The concentrations of trehalose and glucose in the hemolymph were determined by HPLC and showed that they varied at different developmental stages and were negatively correlated to each other. The survival rates of the insects injected with dsRNA corresponding to SeTPS gene reached 53.95%, 49.06%, 34.86% and 33.24% for 36, 48, 60 and 204h post-injection respectively which were significantly lower than those of the insects in three control groups. These findings provide new data on the tissue distribution, expression patterns and potential function of the trehalose-6-phosphate synthase gene.</text>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:55:05Z</infon>
+        <location offset="356" length="30"/>
+        <text>trehalose-6-phosphate synthase</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">7107</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="392" length="17"/>
+        <text>Spodoptera exigua</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:55:10Z</infon>
+        <location offset="411" length="5"/>
+        <text>SeTPS</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">CHEBI:33709</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="513" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:55:20Z</infon>
+        <location offset="576" length="5"/>
+        <text>SeTPS</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:55:24Z</infon>
+        <location offset="664" length="5"/>
+        <text>SeTPS</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:55:37Z</infon>
+        <location offset="756" length="5"/>
+        <text>SeTPS</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7107</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="872" length="9"/>
+        <text>S. exigua</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">D014199</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="911" length="9"/>
+        <text>trehalose</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">D005947</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="925" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:55:46Z</infon>
+        <location offset="1153" length="5"/>
+        <text>SeTPS</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:55:51Z</infon>
+        <location offset="1450" length="30"/>
+        <text>trehalose-6-phosphate synthase</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

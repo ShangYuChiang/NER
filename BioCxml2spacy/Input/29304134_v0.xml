@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29304134</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Identification of chemosensory genes from the antennal transcriptome of Indian meal moth Plodia interpunctella.</text>
+      <annotation id="2">
+        <infon key="identifier">58824</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="89" length="21"/>
+        <text>Plodia interpunctella</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>112</offset>
+      <text>Olfaction plays an indispensable role in mediating insect behavior, such as locating host plants, mating partners, and avoidance of toxins and predators. Olfactory-related proteins are required for olfactory perception of insects. However, very few olfactory-related genes have been reported in Plodia interpunctella up to now. In the present study, we sequenced the antennae transcriptome of P. interpunctella using the next-generation sequencing technology, and identified 117 candidate olfactory-related genes, including 29 odorant-binding proteins (OBPs), 15 chemosensory proteins (CSPs), three sensory neuron membrane proteins (SNMPs), 47 odorant receptors (ORs), 14 ionotropic receptors (IRs) and nine gustatory receptors (GRs). Further analysis of qRT-PCR revealed that nine OBPs, three CSPs, two SNMPs, nine ORs and two GRs were specifically expressed in the male antennae, whereas eight OBPs, six CSPs, one SNMP, 16 ORs, two GRs and seven IRs significantly expressed in the female antennae. Taken together, our results provided useful information for further functional studies on insect genes related to recognition of pheromone and odorant, which might be meaningful targets for pest management.</text>
+      <annotation id="3">
+        <infon key="identifier">58824</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="407" length="21"/>
+        <text>Plodia interpunctella</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">58824</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="505" length="17"/>
+        <text>P. interpunctella</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:48:58Z</infon>
+        <location offset="639" length="23"/>
+        <text>odorant-binding protein</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:48:59Z</infon>
+        <location offset="665" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:49:07Z</infon>
+        <location offset="675" length="20"/>
+        <text>chemosensory protein</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:49:02Z</infon>
+        <location offset="698" length="3"/>
+        <text>CSP</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:49:18Z</infon>
+        <location offset="711" length="31"/>
+        <text>sensory neuron membrane protein</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:49:04Z</infon>
+        <location offset="745" length="4"/>
+        <text>SNMP</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:49:33Z</infon>
+        <location offset="756" length="16"/>
+        <text>odorant receptor</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:49:35Z</infon>
+        <location offset="775" length="2"/>
+        <text>OR</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:49:38Z</infon>
+        <location offset="784" length="19"/>
+        <text>ionotropic receptor</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:49:40Z</infon>
+        <location offset="806" length="2"/>
+        <text>IR</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:49:45Z</infon>
+        <location offset="820" length="18"/>
+        <text>gustatory receptor</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:49:46Z</infon>
+        <location offset="841" length="2"/>
+        <text>GR</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:49:49Z</infon>
+        <location offset="894" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:49:51Z</infon>
+        <location offset="906" length="3"/>
+        <text>CSP</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:49:54Z</infon>
+        <location offset="916" length="4"/>
+        <text>SNMP</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:49:56Z</infon>
+        <location offset="928" length="2"/>
+        <text>OR</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:50:04Z</infon>
+        <location offset="940" length="2"/>
+        <text>GR</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:49:58Z</infon>
+        <location offset="1008" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:50:00Z</infon>
+        <location offset="1018" length="3"/>
+        <text>CSP</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:50:02Z</infon>
+        <location offset="1028" length="4"/>
+        <text>SNMP</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:50:05Z</infon>
+        <location offset="1037" length="2"/>
+        <text>OR</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:50:07Z</infon>
+        <location offset="1046" length="2"/>
+        <text>GR</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:50:09Z</infon>
+        <location offset="1060" length="2"/>
+        <text>IR</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">D010675</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1241" length="9"/>
+        <text>pheromone</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

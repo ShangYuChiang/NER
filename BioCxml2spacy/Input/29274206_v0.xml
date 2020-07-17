@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29274206</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Comparative analysis of C-type lectin domain proteins in the ghost moth, Thitarodes xiaojinensis (Lepidoptera: Hepialidae).</text>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:02:48Z</infon>
+        <location offset="24" length="28"/>
+        <text>C-type lectin domain protein</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">1589740</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="73" length="23"/>
+        <text>Thitarodes xiaojinensis</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>124</offset>
+      <text>Insects have a large family of C-type lectins involved in cell adhesion, pathogen recognition and activation of immune responses. In this study, 32 transcripts encoding C-type lectin domain proteins (CTLDPs) were identified from the Thitarodes xiaojinensis transcriptome. According to their domain structures, six CTLDPs with one carbohydrate-recognition domain (CRD) were classified into the CTL-S subfamily. The other 23 CTLDPs with two CRDs were grouped into the immulectin (IML) subfamily. The remaining three with extra regulatory domains were sorted into the CTL-X subfamily. Phylogenetic analysis showed that CTL-S and CTL-X members from different insects could form orthologous groups. In contrast, no T. xiaojinensis IML orthologues were found in other insects. Remarkable lineage-specific expansion in this subfamily was observed reflecting that these CTLDPs, as important receptors, have evolved diversified members in response to a variety of microbes. Prediction of binding ligands revealed that T. xiaojinensis, a cold-adapted species, conserved the ability of CRDs to combine with Ca2+ to keep its receptors from freezing. Comparative analysis of induction of CTLDP genes after different immune challenges indicated that IMLs might play critical roles in immune defenses. This study examined T. xiaojinensis CTLDPs and provides a basis for further studies of their characteristics.</text>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:02:58Z</infon>
+        <location offset="293" length="28"/>
+        <text>C-type lectin domain protein</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:03:01Z</infon>
+        <location offset="324" length="5"/>
+        <text>CTLDP</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">1589740</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="357" length="23"/>
+        <text>Thitarodes xiaojinensis</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:03:08Z</infon>
+        <location offset="438" length="5"/>
+        <text>CTLDP</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">MESH:D002241</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="454" length="12"/>
+        <text>carbohydrate</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">OMIM:120970</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="487" length="3"/>
+        <text>CRD</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:03:26Z</infon>
+        <location offset="517" length="5"/>
+        <text>CTL-S</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:03:12Z</infon>
+        <location offset="547" length="5"/>
+        <text>CTLDP</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:03:28Z</infon>
+        <location offset="689" length="5"/>
+        <text>CTL-X</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:03:30Z</infon>
+        <location offset="740" length="5"/>
+        <text>CTL-S</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:03:31Z</infon>
+        <location offset="750" length="5"/>
+        <text>CTL-X</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="834" length="15"/>
+        <text>T. xiaojinensis</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:03:44Z</infon>
+        <location offset="850" length="3"/>
+        <text>IML</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:03:47Z</infon>
+        <location offset="986" length="5"/>
+        <text>CTLDP</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">1589740</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1133" length="15"/>
+        <text>T. xiaojinensis</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:03:52Z</infon>
+        <location offset="1199" length="3"/>
+        <text>CRD</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:D002118</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1220" length="4"/>
+        <text>Ca2+</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:03:55Z</infon>
+        <location offset="1299" length="5"/>
+        <text>CTLDP</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:03:57Z</infon>
+        <location offset="1360" length="3"/>
+        <text>IML</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1431" length="15"/>
+        <text>T. xiaojinensis</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:03:59Z</infon>
+        <location offset="1447" length="5"/>
+        <text>CTLDP</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

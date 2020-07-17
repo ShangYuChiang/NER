@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29287788</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>timeless2 plays an important role in reproduction and circadian rhythms in the cricket Gryllus bimaculatus.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="9"/>
+        <text>timeless2</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">6999</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="87" length="19"/>
+        <text>Gryllus bimaculatus</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>108</offset>
+      <text>The timeless2 (tim2) gene is an insect orthologue of the mammalian clock gene Timeless (mTim). Although its functional role has been extensively studied in mammals, little is known regarding its role in insects. In the present study, we obtained tim2 cDNA (Gb tim2) from the cricket Gryllus bimaculatus and characterized its functional role in embryonic development, egg production, and circadian rhythms. Gb tim2 gave rise to a 1432 amino acid protein, and showed approximately 65% homology to that of Drosophila melanogaster. When treated with parental Gb tim2&lt;sup&gt;RNAi&lt;/sup&gt;, less than 2% of the treated eggs hatched. On the other hand, control eggs treated with DsRed2&lt;sup&gt;RNAi&lt;/sup&gt;demonstrated a hatching rate of 70%. In most of the Gb tim2&lt;sup&gt;RNAi&lt;/sup&gt;treated embryos, development was arrested in early stages. Egg production in ovaries of adult virgin females treated with Gb tim2&lt;sup&gt;RNAi&lt;/sup&gt;was significantly reduced. In addition, while Gb tim2&lt;sup&gt;RNAi&lt;/sup&gt;crickets exhibited clear locomotor rhythm synchronized with light cycles, their light-on peak was weaker than that of control crickets. Under constant darkness, the activity rhythm of Gb tim2&lt;sup&gt;RNAi&lt;/sup&gt;crickets was often split into two components running with different periods. Molecular analysis revealed that Gb tim2&lt;sup&gt;RNAi&lt;/sup&gt;treatment downregulated mRNA levels of Gb per and Gb Clk, and enhanced Gb cyc expression rhythm; no distinct effect was found on Gb tim expression levels. The change in Gb per, Gb Clk and Gb cyc levels may underlie the altered behavioral rhythms in Gb tim2&lt;sup&gt;RNAi&lt;/sup&gt;crickets. Both Gb Clk&lt;sup&gt;RNAi&lt;/sup&gt;and Gb cyc&lt;sup&gt;RNAi&lt;/sup&gt;downregulated Gb tim2 expression, which suggested that transcription of Gb tim2 is mediated by Gb CLK and Gb CYC through E-box. These results suggested that Gb tim2 may be involved in both reproduction and circadian rhythm regulation in crickets.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="112" length="9"/>
+        <text>timeless2</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">41615</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="123" length="4"/>
+        <text>tim2</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">8914</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="186" length="8"/>
+        <text>Timeless</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">107698</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="196" length="4"/>
+        <text>mTim</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">41615</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="354" length="4"/>
+        <text>tim2</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">41615</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="368" length="4"/>
+        <text>tim2</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">6999</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="391" length="19"/>
+        <text>Gryllus bimaculatus</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">41615</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="517" length="4"/>
+        <text>tim2</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="611" length="23"/>
+        <text>Drosophila melanogaster</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:55:40Z</infon>
+        <location offset="666" length="4"/>
+        <text>tim2</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:55:52Z</infon>
+        <location offset="850" length="4"/>
+        <text>tim2</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">MESH:D010051</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <infon key="error:misaligned:13">942-&gt;946</infon>
+        <location offset="946" length="7"/>
+        <text>ovaries</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:55:56Z</infon>
+        <location offset="994" length="4"/>
+        <text>tim2</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:55:57Z</infon>
+        <location offset="1062" length="4"/>
+        <text>tim2</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:56:01Z</infon>
+        <location offset="1268" length="4"/>
+        <text>tim2</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:56:03Z</infon>
+        <location offset="1400" length="4"/>
+        <text>tim2</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:56:10Z</infon>
+        <location offset="1461" length="3"/>
+        <text>per</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:56:12Z</infon>
+        <location offset="1472" length="3"/>
+        <text>Clk</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:56:13Z</infon>
+        <location offset="1493" length="3"/>
+        <text>cyc</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">107698</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1551" length="3"/>
+        <text>tim</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:56:15Z</infon>
+        <location offset="1591" length="3"/>
+        <text>per</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:56:16Z</infon>
+        <location offset="1599" length="3"/>
+        <text>Clk</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:56:17Z</infon>
+        <location offset="1610" length="3"/>
+        <text>cyc</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:56:19Z</infon>
+        <location offset="1671" length="4"/>
+        <text>tim2</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:56:22Z</infon>
+        <location offset="1708" length="3"/>
+        <text>Clk</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:56:23Z</infon>
+        <location offset="1733" length="3"/>
+        <text>cyc</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">41615</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1768" length="4"/>
+        <text>tim2</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">41615</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1826" length="4"/>
+        <text>tim2</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:56:27Z</infon>
+        <location offset="1849" length="3"/>
+        <text>CLK</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:56:28Z</infon>
+        <location offset="1860" length="3"/>
+        <text>CYC</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T12:56:36Z</infon>
+        <location offset="1872" length="5"/>
+        <text>E-box</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">41615</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1911" length="4"/>
+        <text>tim2</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

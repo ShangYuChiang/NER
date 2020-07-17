@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29929571</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Molecular characterization of prophenoloxidase-1 (PPO1) and the inhibitory effect of kojic acid on phenoloxidase (PO) activity and on the development of Zeugodacus tau (Walker) (Diptera: Tephritidae).</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="30" length="18"/>
+        <text>prophenoloxidase-1</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="50" length="4"/>
+        <text>PPO1</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">MESH:C011890</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="85" length="10"/>
+        <text>kojic acid</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">137263</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="153" length="14"/>
+        <text>Zeugodacus tau</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>201</offset>
+      <text>Phenoloxidase (PO) plays a key role in melanin biosynthesis during insect development. Here, we isolated the 2310-bp full-length cDNA of PPO1 from Zeugodacus tau, a destructive horticultural pest. qRT-polymerase chain reaction showed that the ZtPPO1 transcripts were highly expressed during larval-prepupal transition and in the haemolymph. When the larvae were fed a 1.66% kojic acid (KA)-containing diet, the levels of the ZtPPO1 transcripts significantly increased by 2.79- and 3.39-fold in the whole larvae and cuticles, respectively, while the corresponding PO activity was significantly reduced; in addition, the larval and pupal durations were significantly prolonged; pupal weights were lowered; and abnormal phenotypes were observed. An in vitro inhibition experiment indicated that KA was an effective competitive inhibitor of PO in Z. tau. Additionally, the functional analysis showed that 20E could significantly up-regulate the expression of ZtPPO1, induce lower pupal weight, and advance pupation. Knockdown of the ZtPPO1 gene by RNAi significantly decreased mRNA levels after 24 h and led to low pupation rates and incomplete pupae with abnormal phenotypes during the larval-pupal interim period. These results proved that PO is important for the normal growth of Z. tau and that KA can disrupt the development of this pest insect.</text>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="338" length="4"/>
+        <text>PPO1</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">137263</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="348" length="14"/>
+        <text>Zeugodacus tau</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="444" length="6"/>
+        <text>ZtPPO1</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">MESH:C011890</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="575" length="10"/>
+        <text>kojic acid</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="626" length="6"/>
+        <text>ZtPPO1</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1044" length="6"/>
+        <text>Z. tau</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1156" length="6"/>
+        <text>ZtPPO1</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1230" length="6"/>
+        <text>ZtPPO1</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1480" length="6"/>
+        <text>Z. tau</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

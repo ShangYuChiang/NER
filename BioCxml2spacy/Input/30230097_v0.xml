@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30230097</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Multiple functions of miR-8-3p in the development and metamorphosis of the red flour beetle, Tribolium castaneum.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="22" length="8"/>
+        <text>miR-8-3p</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="93" length="19"/>
+        <text>Tribolium castaneum</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>114</offset>
+      <text>The microRNA miR-8-3p is conserved among insects and closely involved in development and immunity, but its functions in vivo are unexplored in the red flour beetle, Tribolium castaneum. Here, we show that miR-8-3p was highly expressed in late larva and early adult stages, as determined by quantitative real-time PCR. It was enriched in the fat body and cuticle in late larval tissues and abundant in the head and cuticle in early adult tissues, indicating this microRNA plays important roles during T. castaneum development. Specific inhibition of miR-8-3p in late larvae led to metamorphosis defects in the development of wings, eyes, legs and embryo. Moreover, a series of genes related to organism development were identified as miR-8-3p targets by computational prediction and microRNA-messenger RNA interaction validation, including Wingless, Eyg, Fpps and Sema-1a. These genes were critical for the regulation of the larva-to-adult transition. Eyg, as a functional target of miR-8-3p, participates in eye development, which was further confirmed by luciferase assay and loss-of-function analyses. In brief, miR-8-3p is broadly involved in the development of wings, eyes and legs through its target genes and has extensive regulatory roles during T. castaneum development.</text>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="127" length="8"/>
+        <text>miR-8-3p</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="279" length="19"/>
+        <text>Tribolium castaneum</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="319" length="8"/>
+        <text>miR-8-3p</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="614" length="12"/>
+        <text>T. castaneum</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="663" length="8"/>
+        <text>miR-8-3p</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:C536351</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="694" length="21"/>
+        <text>metamorphosis defects</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="847" length="8"/>
+        <text>miR-8-3p</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="953" length="8"/>
+        <text>Wingless</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">661318</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="963" length="3"/>
+        <text>Eyg</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">661272</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="968" length="4"/>
+        <text>Fpps</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">656016</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="977" length="7"/>
+        <text>Sema-1a</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">661318</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1065" length="3"/>
+        <text>Eyg</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1096" length="8"/>
+        <text>miR-8-3p</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1228" length="8"/>
+        <text>miR-8-3p</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1367" length="12"/>
+        <text>T. castaneum</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

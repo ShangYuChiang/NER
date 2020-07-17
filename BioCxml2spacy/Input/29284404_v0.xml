@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29284404</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Multiple functions of CREB-binding protein during postembryonic development: identification of target genes.</text>
+      <annotation id="1">
+        <infon key="identifier">664565</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="22" length="20"/>
+        <text>CREB-binding protein</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>109</offset>
+      <text>BACKGROUND: Juvenile hormones (JH) and ecdysteroids control postembryonic development in insects. They serve as valuable targets for pest management. Hence, understanding the molecular mechanisms of their action is of crucial importance. CREB-binding protein (CBP) is a universal transcriptional co-regulator. It controls the expression of several genes including those from hormone signaling pathways through co-activation of many transcription factors. However, the role of CBP during postembryonic development in insects is not well understood. Therefore, we have studied the role of CBP in postembryonic development in Tribolium, a model coleopteran insect. RESULTS: CBP is ubiquitously expressed in the red flour beetle, Tribolium castaneum. RNA interference (RNAi) mediated knockdown of CBP resulted in a decrease in JH induction of Kr-h1 gene expression in Tribolium larvae and led to a block in their development. Moreover, the injection of CBP double-stranded RNA (dsRNA) showed lethal phenotypes within 8 days of injection. RNA-seq and subsequent differential gene expression analysis identified CBP target genes in Tribolium. Knockdown of CBP caused a decrease in the expression of 1306 genes coding for transcription factors and other proteins associated with growth and development. Depletion of CBP impaired the expression of several JH response genes (e.g., Kr-h1, Hairy, early trypsin) and ecdysone response genes (EcR, E74, E75, and broad complex). Further, GO enrichment analyses of the downregulated genes showed enrichment in different functions including developmental processes, pigmentation, anatomical structure development, regulation of biological and cellular processes, etc. CONCLUSION: These data suggest diverse but crucial roles for CBP during postembryonic development in the coleopteran model insect, Tribolium. It can serve as a target for RNAi mediated pest management of this stored product pest.</text>
+      <annotation id="2">
+        <infon key="identifier">MESH:D026461</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="148" length="12"/>
+        <text>ecdysteroids</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">664565</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="347" length="20"/>
+        <text>CREB-binding protein</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">664565</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="369" length="3"/>
+        <text>CBP</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">664565</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="585" length="3"/>
+        <text>CBP</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">664565</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="696" length="3"/>
+        <text>CBP</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="732" length="9"/>
+        <text>Tribolium</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">664565</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="780" length="3"/>
+        <text>CBP</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="817" length="16"/>
+        <text>red flour beetle</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="835" length="19"/>
+        <text>Tribolium castaneum</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">664565</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="902" length="3"/>
+        <text>CBP</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">659787</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="948" length="5"/>
+        <text>Kr-h1</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="973" length="9"/>
+        <text>Tribolium</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">664565</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1058" length="3"/>
+        <text>CBP</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">664565</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1215" length="3"/>
+        <text>CBP</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1235" length="9"/>
+        <text>Tribolium</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">664565</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1259" length="3"/>
+        <text>CBP</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">664565</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1418" length="3"/>
+        <text>CBP</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">659787</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1482" length="5"/>
+        <text>Kr-h1</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1489" length="5"/>
+        <text>Hairy</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1496" length="13"/>
+        <text>early trypsin</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">MESH:D004440</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1515" length="8"/>
+        <text>ecdysone</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:02:14Z</infon>
+        <location offset="1540" length="3"/>
+        <text>EcR</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:02:15Z</infon>
+        <location offset="1545" length="3"/>
+        <text>E74</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:02:16Z</infon>
+        <location offset="1550" length="3"/>
+        <text>E75</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:02:18Z</infon>
+        <location offset="1559" length="13"/>
+        <text>broad complex</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">MESH:D010859</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1710" length="12"/>
+        <text>pigmentation</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">664565</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1873" length="3"/>
+        <text>CBP</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1943" length="9"/>
+        <text>Tribolium</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

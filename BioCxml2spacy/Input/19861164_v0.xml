@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>19861164</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>BmCAP, a silkmoth gene encoding multiple protein isoforms characterized by SoHo and SH3 domains: expression analysis during ovarian follicular development.</text>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:51:51Z</infon>
+        <location offset="0" length="5"/>
+        <text>BmCAP</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:48:11Z</infon>
+        <location offset="9" length="8"/>
+        <text>silkmoth</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>156</offset>
+      <text>CAP/ArgBP2/vinexin family proteins, adaptor proteins characterized by three SH3 domains at their C-termini and a SoHo domain towards their N-termini, are known to regulate cell adhesion, cytoskeletal organization, and growth factor signaling. Here we present the isolation and ovarian expression of the BmCAP gene which encodes CAP/ArgBP2/vinexin family proteins in the silkmoth, Bombyx mori. Screening for full-length cDNA clones identified three mRNA isoforms, BmCAP-A1, BmCAP-A2 and BmCAP-B, which show expression throughout ovarian follicular development. Using an antibody raised against a unique region between the SoHo and SH3 domains, BmCAP-A protein isoforms were identified that show specific expression in different compartments of the ovarian follicles. Immunofluorescence staining of the cells of the follicular epithelium establishes a dynamic pattern of BmCAP-A protein localization during choriogenesis. During early choriogenesis, BmCAP-A has a diffuse localization in the cytoplasm but could also be found concentrated at the apical and basal sides at the cell-cell junctions. During late choriogenesis, the diffuse cytoplasmic staining of BmCAP-A disappears while the staining pattern at the apical side resembles a blueprint for the eggshell surface structure. We suggest that BmCAP-A isoforms have important functions during ovarian development, which involve not only the traditional roles in actin organization or cell-cell adhesion but also the regulation of secretion of chorion proteins and the sculpting of the chorion surface.</text>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:51:56Z</infon>
+        <location offset="156" length="3"/>
+        <text>CAP</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:51:57Z</infon>
+        <location offset="160" length="6"/>
+        <text>ArgBP2</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:51:59Z</infon>
+        <location offset="167" length="7"/>
+        <text>vinexin</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:52:30Z</infon>
+        <location offset="459" length="5"/>
+        <text>BmCAP</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:52:03Z</infon>
+        <location offset="484" length="3"/>
+        <text>CAP</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:52:04Z</infon>
+        <location offset="488" length="6"/>
+        <text>ArgBP2</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:52:06Z</infon>
+        <location offset="495" length="7"/>
+        <text>vinexin</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="536" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:52:12Z</infon>
+        <location offset="619" length="8"/>
+        <text>BmCAP-A1</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:52:14Z</infon>
+        <location offset="629" length="8"/>
+        <text>BmCAP-A2</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:52:17Z</infon>
+        <location offset="642" length="7"/>
+        <text>BmCAP-B</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">100174831</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="799" length="7"/>
+        <text>BmCAP-A</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">100174831</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1025" length="7"/>
+        <text>BmCAP-A</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">100174831</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1104" length="7"/>
+        <text>BmCAP-A</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">100174831</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1314" length="7"/>
+        <text>BmCAP-A</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">100174831</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1453" length="7"/>
+        <text>BmCAP-A</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

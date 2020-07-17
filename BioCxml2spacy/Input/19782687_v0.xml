@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>19782687</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Heat shock proteins contribute to mosquito dehydration tolerance.</text>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:41:53Z</infon>
+        <location offset="0" length="18"/>
+        <text>Heat shock protein</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="identifier">D003681</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="43" length="21"/>
+        <text>dehydration tolerance</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>66</offset>
+      <text>This study examines the responses of heat shock protein transcripts, Hsp70 and Hsp90, to dehydration stress in three mosquito species, Aedes aegypti, Anopheles gambiae and Culex pipiens. We first defined the water balance attributes of adult females of each species, monitored expression of the hsp transcripts in response to dehydration, and then knocked down expression of the transcripts using RNA interference (RNAi) to evaluate potential functions of the Hsps in maintenance of water balance. Fully hydrated females of all three species contained nearly the same amount of water (66-68%), but water loss rates differed among the species, with A. aegypti having the lowest water loss rate (2.6%/h), followed by C. pipiens (3.3%/h), and A. gambiae (5.1%/h). In all three species water could be replaced only by drinking water (or blood). Both A. aegypti and C. pipiens tolerated a loss of 36% of their body water, but A. gambiae was more vulnerable to water loss, tolerating a loss of only 29% of its body water. Dehydration elicited expression of hsp70 in all three species, but only C. pipiens continued to express this transcript during rehydration. Hsp90 was constitutively expressed and expression levels remained fairly constant during dehydration and rehydration, except expression was not noted during rehydration of C. pipiens. Injection of dsRNA to knock down expression of hsp70 (83% reduction) and hsp90 (46% reduction) in A. aegypti did not alter water content or water loss rates, but the dehydration tolerance was lower. Instead of surviving a 36% water loss, females were able to survive only a 28% water loss in response to RNAi directed against hsp70 and a 26% water loss when RNAi was directed against hsp90. These results indicate a critical function for these Hsps in mosquito dehydration tolerance.</text>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="103" length="18"/>
+        <text>heat shock protein</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="135" length="5"/>
+        <text>Hsp70</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="145" length="5"/>
+        <text>Hsp90</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">D003681</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="155" length="18"/>
+        <text>dehydration stress</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7159</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="201" length="13"/>
+        <text>Aedes aegypti</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="216" length="17"/>
+        <text>Anopheles gambiae</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">7175</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="238" length="13"/>
+        <text>Culex pipiens</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">D003681</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="392" length="11"/>
+        <text>dehydration</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">D003681</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="664" length="10"/>
+        <text>water loss</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:42:18Z</infon>
+        <location offset="714" length="10"/>
+        <text>A. aegypti</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">7175</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="781" length="10"/>
+        <text>C. pipiens</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:42:30Z</infon>
+        <location offset="806" length="10"/>
+        <text>A. gambiae</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:44:17Z</infon>
+        <location offset="912" length="10"/>
+        <text>A. aegypti</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">7175</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="927" length="10"/>
+        <text>C. pipiens</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:43:55Z</infon>
+        <location offset="987" length="10"/>
+        <text>A. gambiae</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1117" length="5"/>
+        <text>hsp70</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">7175</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1154" length="10"/>
+        <text>C. pipiens</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1222" length="5"/>
+        <text>Hsp90</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">D003681</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1311" length="11"/>
+        <text>dehydration</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">7175</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1394" length="10"/>
+        <text>C. pipiens</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1453" length="5"/>
+        <text>hsp70</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1479" length="5"/>
+        <text>hsp90</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:43:38Z</infon>
+        <location offset="1504" length="10"/>
+        <text>A. aegypti</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">D003681</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1572" length="11"/>
+        <text>dehydration</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1732" length="5"/>
+        <text>hsp70</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">D003681</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1748" length="10"/>
+        <text>water loss</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1790" length="5"/>
+        <text>hsp90</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">D003681</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1867" length="21"/>
+        <text>dehydration tolerance</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>19900550</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>RNAi of ace1 and ace2 in Blattella germanica reveals their differential contribution to acetylcholinesterase activity and sensitivity to insecticides.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="8" length="4"/>
+        <text>ace1</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="17" length="4"/>
+        <text>ace2</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">6973</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="25" length="19"/>
+        <text>Blattella germanica</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>151</offset>
+      <text>Cyclorrhapha insect genomes contain a single acetylcholinesterase (AChE) gene while other insects contain at least two ace genes (ace1 and ace2). In this study we tested the hypothesis that the two ace paralogous from Blattella germanica have different contributions to AChE activity, using RNA interference (RNAi) to knockdown each one individually. Paralogous-specific depletion of Bgace transcripts was evident in ganglia of injected cockroaches, although the effects at the protein level were less pronounced. Using spectrophotometric and zymogram measurements, we obtained evidence that BgAChE1 represents 65-75% of the total AChE activity in nerve tissue demonstrating that ace1 encodes a predominant AChE. A significant increase in sensitivity of Bgace1-interfered cockroaches was observed after 48 h of exposure to chlorpyrifos. In contrast, Bgace2 knockdown had a negligible effect on mortality to this organophosphate. These results point out a key role, qualitative and/or quantitative, of AChE1 as target of organophosphate insecticides in this species. Silencing the expression of Bgace1 but not Bgace2 also produced an increased mortality in insects when synergized with lambda-cyhalothrin, a situation which resembles the synergistic effects observed between organophosphates and pyrethroids. Gene silencing of ace genes by RNAi offers an exciting approach for examining a possible functional differentiation in ace paralogous.</text>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:14:44Z</infon>
+        <location offset="196" length="20"/>
+        <text>acetylcholinesterase</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:14:45Z</infon>
+        <location offset="218" length="4"/>
+        <text>AChE</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:14:48Z</infon>
+        <location offset="270" length="3"/>
+        <text>ace</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="281" length="4"/>
+        <text>ace1</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="290" length="4"/>
+        <text>ace2</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">6973</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="369" length="19"/>
+        <text>Blattella germanica</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:14:51Z</infon>
+        <location offset="421" length="4"/>
+        <text>AChE</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:14:56Z</infon>
+        <location offset="535" length="5"/>
+        <text>Bgace</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:15:04Z</infon>
+        <location offset="743" length="7"/>
+        <text>BgAChE1</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:15:06Z</infon>
+        <location offset="782" length="4"/>
+        <text>AChE</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="831" length="4"/>
+        <text>ace1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:15:07Z</infon>
+        <location offset="858" length="4"/>
+        <text>AChE</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:15:08Z</infon>
+        <location offset="905" length="6"/>
+        <text>Bgace1</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">D004390</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="974" length="12"/>
+        <text>chlorpyrifos</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:15:12Z</infon>
+        <location offset="1001" length="6"/>
+        <text>Bgace2</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1063" length="15"/>
+        <text>organophosphate</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:15:14Z</infon>
+        <location offset="1152" length="5"/>
+        <text>AChE1</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1171" length="15"/>
+        <text>organophosphate</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:15:15Z</infon>
+        <location offset="1245" length="6"/>
+        <text>Bgace1</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:15:16Z</infon>
+        <location offset="1260" length="6"/>
+        <text>Bgace2</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">C037304</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1336" length="18"/>
+        <text>lambda-cyhalothrin</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">D010755</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1425" length="16"/>
+        <text>organophosphates</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">D011722</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1446" length="11"/>
+        <text>pyrethroids</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:15:19Z</infon>
+        <location offset="1477" length="3"/>
+        <text>ace</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31519242</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Physiological functions of a methuselah-like G protein coupled receptor in Lymantria dispar Linnaeus.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="29" length="42"/>
+        <text>methuselah-like G protein coupled receptor</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="75" length="16"/>
+        <text>Lymantria dispar</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>102</offset>
+      <text>Insect G protein coupled receptors (GPCRs) have been identified as a highly attractive target for new generation insecticides discovery due to their critical physiological functions. However, few insect GPCRs have been functionally characterized. Here, we cloned the full length of a methuselah-like GPCR gene (Ldmthl1) from the Asian gypsy moth, Lymantria dispar. We then characterized the secondary and tertiary structures of Ldmthl1. We also predicted the global structure of this insect GPCR protein which is composed of three major domains. RNA interference of Ldmthl1 resulted in a reduction of gypsy moths  resistance to deltamethrin and suppressed expression of downstream stress-associated genes, such as P450s, glutathione S transferases, and heat shock proteins. The function of Ldmthl1 was further investigated using transgenic lines of Drosophila melanogaster. Drosophila with overexpression of Ldmthl1 showed significantly longer lifespan than control flies. Taken together, our studies revealed that the physiological functions of Ldmthl1 in L. dispar are associated with longevity and resistance to insecticide stresses. Potentially, Ldmthl1 can be used as a target for new insecticide discovery in order to manage this notorious forest pest.</text>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:44:51Z</infon>
+        <location offset="109" length="26"/>
+        <text>G protein coupled receptor</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:44:57Z</infon>
+        <location offset="138" length="4"/>
+        <text>GPCR</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:45:03Z</infon>
+        <location offset="305" length="4"/>
+        <text>GPCR</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="386" length="20"/>
+        <text>methuselah-like GPCR</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="413" length="7"/>
+        <text>Ldmthl1</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">13123</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="449" length="16"/>
+        <text>Lymantria dispar</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="530" length="7"/>
+        <text>Ldmthl1</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="593" length="4"/>
+        <text>GPCR</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="668" length="7"/>
+        <text>Ldmthl1</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:C017180</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="730" length="12"/>
+        <text>deltamethrin</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:45:41Z</infon>
+        <location offset="816" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:45:31Z</infon>
+        <location offset="823" length="25"/>
+        <text>glutathione S transferase</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:45:36Z</infon>
+        <location offset="855" length="18"/>
+        <text>heat shock protein</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="892" length="7"/>
+        <text>Ldmthl1</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="951" length="23"/>
+        <text>Drosophila melanogaster</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="976" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1010" length="7"/>
+        <text>Ldmthl1</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1148" length="7"/>
+        <text>Ldmthl1</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">13123</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1159" length="9"/>
+        <text>L. dispar</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1252" length="7"/>
+        <text>Ldmthl1</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

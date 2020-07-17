@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30740870</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Genome-wide gene expression profiling reveals that cuticle alterations and P450 detoxification are associated with deltamethrin and DDT resistance in Anopheles arabiensis populations from Ethiopia.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="75" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">MESH:C017180</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="115" length="12"/>
+        <text>deltamethrin</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">MESH:D003634</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="132" length="3"/>
+        <text>DDT</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">7173</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="150" length="20"/>
+        <text>Anopheles arabiensis</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>198</offset>
+      <text>BACKGROUND: Vector control is the main intervention in malaria control and elimination strategies. However, the development of insecticide resistance is one of the major challenges for controlling malaria vectors. Anopheles arabiensis populations in Ethiopia showed resistance against both DDT and the pyrethroid deltamethrin. Although an L1014F target-site resistance mutation was present in the voltage gated sodium channel of investigated populations, the levels of resistance indicated the presence of additional resistance mechanisms. In this study, we used genome-wide transcriptome profiling by RNAseq to assess differentially expressed genes between three deltamethrin and DDT resistant An. arabiensis field populations - Asendabo, Chewaka and Tolay - and two susceptible strains - Sekoru and Mozambique. RESULTS: Both RNAseq analysis and RT-qPCR showed that a glutathione-S-transferase, gstd3, and a cytochrome P450 monooxygenase, cyp6p4, were significantly overexpressed in the group of resistant populations compared to the susceptible strains, suggesting that the enzymes they encode play a key role in metabolic resistance against deltamethrin or DDT. Furthermore, a gene ontology enrichment analysis showed that expression changes of cuticle related genes were strongly associated with insecticide resistance. Although this did not translate in increased thickness of the procuticle, a higher cuticular hydrocarbon content was observed in a resistant population. CONCLUSION: Our transcriptome sequencing of deltamethrin and DDT resistant An. arabiensis populations from Ethiopia suggests non-target site resistance mechanisms and paves the way for further investigation of the role of cuticle composition in insecticide resistance of malaria vectors.  2019 Society of Chemical Industry.</text>
+      <annotation id="5">
+        <infon key="identifier">MESH:D008288</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="253" length="7"/>
+        <text>malaria</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">MESH:D008288</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="395" length="7"/>
+        <text>malaria</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">7173</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="412" length="20"/>
+        <text>Anopheles arabiensis</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">MESH:D003634</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="488" length="3"/>
+        <text>DDT</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">MESH:D011722</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="500" length="23"/>
+        <text>pyrethroid deltamethrin</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:D012964</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="609" length="6"/>
+        <text>sodium</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">MESH:C017180</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="862" length="12"/>
+        <text>deltamethrin</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">MESH:D003634</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="879" length="3"/>
+        <text>DDT</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">7173</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="893" length="14"/>
+        <text>An. arabiensis</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1067" length="25"/>
+        <text>glutathione-S-transferase</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1094" length="5"/>
+        <text>gstd3</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1107" length="29"/>
+        <text>cytochrome P450 monooxygenase</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1138" length="6"/>
+        <text>cyp6p4</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">MESH:C017180</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1342" length="12"/>
+        <text>deltamethrin</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">MESH:D003634</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1358" length="3"/>
+        <text>DDT</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">MESH:D006838</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1615" length="11"/>
+        <text>hydrocarbon</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:C017180</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1719" length="12"/>
+        <text>deltamethrin</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">MESH:D003634</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1736" length="3"/>
+        <text>DDT</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">7173</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1750" length="14"/>
+        <text>An. arabiensis</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">MESH:D008288</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1946" length="15"/>
+        <text>malaria vectors</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>12421412</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>CYP6B cytochrome p450 monooxygenases from Papilio canadensis and Papilio glaucus: potential contributions of sequence divergence to host plant associations.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="5"/>
+        <text>CYP6B</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="6" length="15"/>
+        <text>cytochrome p450</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="42" length="18"/>
+        <text>Papilio canadensis</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">45779</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="65" length="15"/>
+        <text>Papilio glaucus</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>157</offset>
+      <text>Two groups of furanocoumarin-inducible cytochrome p450 genes, the CYP6B4 group and the CYP6B17 group, characterized in two closely related tiger swallowtails, Papilio glaucus and Papilio canadensis, are induced to different extents, with generally higher levels of CYP6B transcripts in P. glaucus. To investigate the evolutionary history of these CYP6B genes in the context of their association with furanocoumarin detoxification, we isolated thirteen CYP6B genes from these species. Each of these genes contains an intron at a conserved position (1334 nucleotides from the translation start site), which varies in length due to three insertion/deletions. The proximal 5  end flanking sequence from the transcription initiation site is highly conserved (91-98% nt identity). The sequence 5  to -640 is significantly variable due largely to the presence of three insertion/deletions. The sequence at the 3  end of this region contains a putative xenobiotic response element to xanthotoxin (XRE-xan), important for basal and xanthotoxin-inducible transcription of the P. polyxenes CYP6B1v3 gene, and multiple elements known to regulate vertebrate phase I and II promoters, including an XRE-AhR (Xenobiotic Response Element to Aryl hydrocarbon Receptor), an OCT-1 element (octamer protein binding site), an ARE (Antioxidant Response Element), an EcRE (Ecdysone Response Element), and an imperfect PXR (Pregnane X Receptor) responsive element (PRE). Our analyses of CYP6B genes in these two species indicate that these genes are in an early stage of divergence and that differential exposure of these two species to chemically distinct host plants resulting from geographical isolation has had functional impacts not only on the coding regions of these genes but also on their promoter regions. Thus, changes in p450 regulation as well as catalytic activity may play a role in the evolution of host plant associations in herbivorous insects.</text>
+      <annotation id="5">
+        <infon key="identifier">CHEBI:24128</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="171" length="14"/>
+        <text>furanocoumarin</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="196" length="15"/>
+        <text>cytochrome p450</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="223" length="6"/>
+        <text>CYP6B4</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="244" length="7"/>
+        <text>CYP6B17</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">45779</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="316" length="15"/>
+        <text>Papilio glaucus</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="336" length="18"/>
+        <text>Papilio canadensis</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="422" length="5"/>
+        <text>CYP6B</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">45779</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="443" length="10"/>
+        <text>P. glaucus</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="504" length="5"/>
+        <text>CYP6B</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">CHEBI:24128</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="557" length="14"/>
+        <text>furanocoumarin</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="609" length="5"/>
+        <text>CYP6B</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">D008730</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1180" length="11"/>
+        <text>xanthotoxin</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:32:42Z</infon>
+        <location offset="1223" length="12"/>
+        <text>P. polyxenes</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1236" length="8"/>
+        <text>CYP6B1v3</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">CHEBI:8386</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1556" length="8"/>
+        <text>Pregnane</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1619" length="5"/>
+        <text>CYP6B</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:33:45Z</infon>
+        <location offset="1965" length="4"/>
+        <text>p450</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

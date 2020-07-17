@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>20728536</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Expression of a doublesex homologue is altered in sexual mosaics of Ostrinia scapulalis moths infected with Wolbachia.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="16" length="9"/>
+        <text>doublesex</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="68" length="19"/>
+        <text>Ostrinia scapulalis</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="108" length="9"/>
+        <text>Wolbachia</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>119</offset>
+      <text>A homologue of the sex-determining gene doublesex, Osdsx, was identified in the adzuki bean borer Ostrinia scapulalis. Three isoforms of the Osdsx transcript (Osdsx(M), Osdsx(FL) and Osdsx(FS)) differing in length were found. Osdsx(M) was specifically found in males, and contained an 852-bp ORF encoding a protein of 284 amino acids. Osdsx(FL) and Osdsx(FS) were found in females, and had the same 813-bp ORF encoding a protein of 271 amino acids. The Osdsx gene was inferred to have six exons and five introns. The variation in the transcript could be explained by the alternative splicing of Osdsx: Osdsx(M) was formed by the splicing of exons 1, 2, 5 and 6, Osdsx(FS) by the splicing of exons 1-4 and 6, and Osdsx(FL) by the splicing of exons 1-6. RT-PCR analysis indicated that Osdsx was transcribed in a sex-specific manner in all somatic tissues examined, regardless of developmental stage. In Wolbachia-induced sexual mosaics of O. scapulalis, which are genetically male, the female-specific isoform of Osdsx (Osdsx(FL)) was shown to be expressed in addition to the male-specific isoform (Osdsx(M)). This finding provides the first evidence that Wolbachia manipulates the sex of its host by interfering either with the sex-specific splicing of Osdsx itself or with another upstream sex determination process.</text>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="159" length="9"/>
+        <text>doublesex</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:57:20Z</infon>
+        <location offset="170" length="5"/>
+        <text>Osdsx</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="217" length="19"/>
+        <text>Ostrinia scapulalis</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:57:23Z</infon>
+        <location offset="260" length="5"/>
+        <text>Osdsx</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:57:31Z</infon>
+        <location offset="278" length="8"/>
+        <text>Osdsx(M)</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:57:38Z</infon>
+        <location offset="288" length="9"/>
+        <text>Osdsx(FL)</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:57:40Z</infon>
+        <location offset="302" length="9"/>
+        <text>Osdsx(FS)</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:57:42Z</infon>
+        <location offset="345" length="8"/>
+        <text>Osdsx(M)</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">CHEBI:33709</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="441" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:57:47Z</infon>
+        <location offset="454" length="9"/>
+        <text>Osdsx(FL)</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:57:48Z</infon>
+        <location offset="468" length="9"/>
+        <text>Osdsx(FS)</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">CHEBI:33709</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="555" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:57:52Z</infon>
+        <location offset="572" length="5"/>
+        <text>Osdsx</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:57:58Z</infon>
+        <location offset="714" length="5"/>
+        <text>Osdsx</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:57:59Z</infon>
+        <location offset="721" length="8"/>
+        <text>Osdsx(M)</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:58:01Z</infon>
+        <location offset="781" length="9"/>
+        <text>Osdsx(FS)</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:58:04Z</infon>
+        <location offset="831" length="9"/>
+        <text>Osdsx(FL)</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:58:06Z</infon>
+        <location offset="902" length="5"/>
+        <text>Osdsx</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1020" length="9"/>
+        <text>Wolbachia</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:58:28Z</infon>
+        <location offset="1056" length="13"/>
+        <text>O. scapulalis</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:58:09Z</infon>
+        <location offset="1130" length="5"/>
+        <text>Osdsx</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:58:11Z</infon>
+        <location offset="1137" length="9"/>
+        <text>Osdsx(FL)</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:58:13Z</infon>
+        <location offset="1216" length="8"/>
+        <text>Osdsx(M)</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1273" length="9"/>
+        <text>Wolbachia</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:58:14Z</infon>
+        <location offset="1371" length="5"/>
+        <text>Osdsx</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

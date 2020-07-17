@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30947109</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Over expression of bmo-miR-2819 suppresses BmNPV replication by regulating the BmNPV ie-1 gene in Bombyx mori.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="19" length="12"/>
+        <text>bmo-miR-2819</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">271108</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="43" length="5"/>
+        <text>BmNPV</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">271108</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="79" length="5"/>
+        <text>BmNPV</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">1488755</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="85" length="4"/>
+        <text>ie-1</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="98" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>111</offset>
+      <text>Bombyx mori nucleopolyhedrovirus (BmNPV) is a major pathogen that threatens the growth and sustainability of the sericulture industry. Accumulating studies in recent years suggest that insect viruses infection can change the host microRNAs (miRNAs) expression profile and both cellular and viral miRNAs play roles in host-pathogen interactions. Until now, the functional analysis of miRNA encoded by silkworm for host-virus interaction is limited. In this study, we validate the down-regulation of bmo-miR-2819 upon BmNPV infection by qRT-PCR and confirm the BmNPV immediately early 1 gene, ie-1 is one of the targets for bmo-miR-2819 based on the results of dual luciferase report assay. Overexpression of bmo-miR-2819 can significantly decline the abundance of IE-1 protein level in BmNPV-infected silkworm larvae. Further, the expression level of polyhedrin gene and VP39 protein of BmNPV in the infected larvae after applying bmo-miR-2819 mimics was significantly decreased comparing with that of larvae with mimic control. Our results suggest that overexpression of bmo-miR-2819 could suppress BmNPV replication by down-regulating the expression of BmNPV ie-1 gene, which demonstrate that cellular miRNAs could affect virus infection by regulating the expression of virus genes.</text>
+      <annotation id="6">
+        <infon key="identifier">271108</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="111" length="32"/>
+        <text>Bombyx mori nucleopolyhedrovirus</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">271108</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="145" length="5"/>
+        <text>BmNPV</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="511" length="8"/>
+        <text>silkworm</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="609" length="12"/>
+        <text>bmo-miR-2819</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">271108</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="627" length="5"/>
+        <text>BmNPV</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">271108</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="670" length="5"/>
+        <text>BmNPV</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:07:34Z</infon>
+        <location offset="688" length="7"/>
+        <text>early 1</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">1488755</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="702" length="4"/>
+        <text>ie-1</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="733" length="12"/>
+        <text>bmo-miR-2819</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="818" length="12"/>
+        <text>bmo-miR-2819</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">1488755</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="874" length="4"/>
+        <text>IE-1</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">271108</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="896" length="5"/>
+        <text>BmNPV</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="911" length="8"/>
+        <text>silkworm</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="961" length="10"/>
+        <text>polyhedrin</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">1488704</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="981" length="4"/>
+        <text>VP39</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">271108</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="997" length="5"/>
+        <text>BmNPV</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1041" length="12"/>
+        <text>bmo-miR-2819</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1182" length="12"/>
+        <text>bmo-miR-2819</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">271108</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1210" length="5"/>
+        <text>BmNPV</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">271108</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1265" length="5"/>
+        <text>BmNPV</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">1488755</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1271" length="4"/>
+        <text>ie-1</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

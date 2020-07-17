@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>11277405</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Maelstrom is required to position the MTOC in stage 2-6 Drosophila oocytes.</text>
+      <annotation id="1">
+        <infon key="identifier">40489</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="9"/>
+        <text>Maelstrom</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="56" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>76</offset>
+      <text>The factors that determine intracellular polarity are largely unknown. In Drosophila oocytes one of the earliest polar events is the positioning of the microtubule-organizing center (MTOC). Here we present data that are consistent with the hypothesis that maelstrom is required for posterior positioning of the MTOC.</text>
+      <annotation id="3">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="150" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">40489</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="332" length="9"/>
+        <text>maelstrom</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

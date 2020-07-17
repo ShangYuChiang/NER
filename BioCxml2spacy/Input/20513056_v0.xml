@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>20513056</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Molecular cloning, genomic structure, and genetic mapping of two Rdl-orthologous genes of GABA receptors in the diamondback moth, Plutella xylostella.</text>
+      <annotation id="1">
+        <infon key="identifier">39054</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="65" length="3"/>
+        <text>Rdl</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">51655</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="130" length="19"/>
+        <text>Plutella xylostella</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>151</offset>
+      <text>The Resistance to dieldrin (Rdl) gene encodes a subunit of the insect gamma-aminobutyric acid (GABA) receptor. Cyclodiene resistance in many insects is associated with replacement of a single amino acid (alanine at position 302) with either a serine or a glycine in the Rdl gene. Two Rdl-orthologous genes of GABA receptors (PxGABARalpha1 and PxGABARalpha2) were cloned and sequenced from a susceptible strain (Roth) of Plutella xylostella. PxGABARalpha1 and PxGABARalpha2 showed 84% and 77% identity with the Rdl gene of Drosophila melanogaster at an amino acid level, respectively. The coding regions of PxGABARalpha1 and PxGABARalpha2 both comprise ten exons, with two alternative RNA-splicing forms in exon 3 of both genes. At the orthologous position of alanine-302 in D. melanogaster Rdl, PxGABARalpha1 has a conserved alanine at position 282. PxGABARalpha2 has a serine instead of an alanine at the equivalent position. With two informative DNA markers, both PxGABARalpha1 and PxGABARalpha2 were mapped onto the Z chromosome of P. xylostella.</text>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:56:26Z</infon>
+        <location offset="155" length="22"/>
+        <text>Resistance to dieldrin</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">39054</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="179" length="3"/>
+        <text>Rdl</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="262" length="10"/>
+        <text>Cyclodiene</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">CHEBI:33704</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="343" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">CHEBI:16449</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="355" length="7"/>
+        <text>alanine</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">CHEBI:17822</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="394" length="6"/>
+        <text>serine</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">CHEBI:57305</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="406" length="7"/>
+        <text>glycine</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">39054</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="421" length="3"/>
+        <text>Rdl</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">39054</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="435" length="3"/>
+        <text>Rdl</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:57:27Z</infon>
+        <location offset="460" length="14"/>
+        <text>GABA receptors</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:57:30Z</infon>
+        <location offset="476" length="13"/>
+        <text>PxGABARalpha1</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:57:32Z</infon>
+        <location offset="494" length="13"/>
+        <text>PxGABARalpha2</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">51655</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="571" length="19"/>
+        <text>Plutella xylostella</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:57:38Z</infon>
+        <location offset="592" length="13"/>
+        <text>PxGABARalpha1</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:57:41Z</infon>
+        <location offset="610" length="13"/>
+        <text>PxGABARalpha2</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">39054</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="661" length="3"/>
+        <text>Rdl</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="673" length="23"/>
+        <text>Drosophila melanogaster</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">CHEBI:33704</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="703" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:57:47Z</infon>
+        <location offset="757" length="13"/>
+        <text>PxGABARalpha1</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:57:49Z</infon>
+        <location offset="775" length="13"/>
+        <text>PxGABARalpha2</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">CHEBI:16449</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="910" length="7"/>
+        <text>alanine</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="925" length="15"/>
+        <text>D. melanogaster</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">39054</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="941" length="3"/>
+        <text>Rdl</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:57:54Z</infon>
+        <location offset="946" length="13"/>
+        <text>PxGABARalpha1</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">CHEBI:16449</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="976" length="7"/>
+        <text>alanine</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:57:57Z</infon>
+        <location offset="1001" length="13"/>
+        <text>PxGABARalpha2</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">CHEBI:17822</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1021" length="6"/>
+        <text>serine</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">CHEBI:16449</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1042" length="7"/>
+        <text>alanine</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:58:01Z</infon>
+        <location offset="1117" length="13"/>
+        <text>PxGABARalpha1</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:58:03Z</infon>
+        <location offset="1135" length="13"/>
+        <text>PxGABARalpha2</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">51655</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1186" length="13"/>
+        <text>P. xylostella</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

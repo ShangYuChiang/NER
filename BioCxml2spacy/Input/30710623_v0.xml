@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30710623</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>CRISPR/Cas9-mediated knockout of both the PxABCC2 and PxABCC3 genes confers high-level resistance to Bacillus thuringiensis Cry1Ac toxin in the diamondback moth, Plutella xylostella (L.).</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="42" length="7"/>
+        <text>PxABCC2</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="54" length="7"/>
+        <text>PxABCC3</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:02:38Z</infon>
+        <location offset="101" length="22"/>
+        <text>Bacillus thuringiensis</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:02:16Z</infon>
+        <location offset="124" length="6"/>
+        <text>Cry1Ac</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:02:29Z</infon>
+        <location offset="162" length="19"/>
+        <text>Plutella xylostella</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>188</offset>
+      <text>Rapid evolution of resistance by insect pests severely jeopardizes the sustainable utilization of biopesticides and transgenic crops that produce insecticidal crystal proteins derived from the entomopathogenic bacterium Bacillus thuringiensis (Bt). Recently, high levels of resistance to Bt Cry1 toxins have been reported to be genetically linked to the mutation or down-regulation of ABC transporter subfamily C genes ABCC2 and ABCC3 in seven lepidopteran insects, including Plutella xylostella (L.). To further determine the causal relationship between alterations in the PxABCC2 and PxABCC3 genes and Cry1Ac resistance in P. xylostella, the novel CRISPR/Cas9 genome engineering system was utilized to successfully construct two knockout strains: the ABCC2KO strain is homozygous for a 4-bp deletion in exon 3 of the PxABCC2 gene, and the ABCC3KO strain is homozygous for a 5-bp deletion in exon 3 of the PxABCC3 gene, both of which can produce only truncated ABCC proteins. Bioassay results indicated that high levels of resistance to the Cry1Ac protoxin were observed in both the ABCC2KO (724-fold) and ABCC3KO (413-fold) strains compared to the original susceptible DBM1Ac-S strain. Subsequently, dominance degree and genetic complementation tests demonstrated that Cry1Ac resistance in both the knockout strains was incompletely recessive, and Cry1Ac resistance alleles were located in the classic BtR-1 resistance locus that harbored the PxABCC2 and PxABCC3 genes, similar to the near-isogenic resistant NIL-R strain. Moreover, qualitative toxin binding assays revealed that the binding of the Cry1Ac toxin to midgut brush border membrane vesicles (BBMVs) in both knockout strains was dramatically reduced compared to that in the susceptible DBM1Ac-S strain. In summary, our CRISPR/Cas9-mediated genome editing study presents, for the first time, in vivo reverse genetics evidence for both the ABCC2 and ABCC3 proteins as midgut functional receptors for Bt Cry1 toxins in insects, which provides new insight into the pivotal roles of both the ABCC2 and ABCC3 proteins in the complex molecular mechanism of insect resistance to Bt Cry1 toxins.</text>
+      <annotation id="39">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:02:45Z</infon>
+        <location offset="408" length="22"/>
+        <text>Bacillus thuringiensis</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:00:24Z</infon>
+        <location offset="573" length="15"/>
+        <text>ABC transporter</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="607" length="5"/>
+        <text>ABCC2</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="617" length="5"/>
+        <text>ABCC3</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:02:52Z</infon>
+        <location offset="664" length="19"/>
+        <text>Plutella xylostella</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="762" length="7"/>
+        <text>PxABCC2</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="774" length="7"/>
+        <text>PxABCC3</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:01:16Z</infon>
+        <location offset="792" length="6"/>
+        <text>Cry1Ac</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:02:49Z</infon>
+        <location offset="813" length="13"/>
+        <text>P. xylostella</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1007" length="7"/>
+        <text>PxABCC2</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1095" length="7"/>
+        <text>PxABCC3</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:00:57Z</infon>
+        <location offset="1150" length="4"/>
+        <text>ABCC</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">MESH:C561523</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1359" length="6"/>
+        <text>DBM1Ac</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:01:22Z</infon>
+        <location offset="1459" length="6"/>
+        <text>Cry1Ac</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:01:24Z</infon>
+        <location offset="1538" length="6"/>
+        <text>Cry1Ac</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:01:31Z</infon>
+        <location offset="1592" length="5"/>
+        <text>BtR-1</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1633" length="7"/>
+        <text>PxABCC2</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1645" length="7"/>
+        <text>PxABCC3</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:01:39Z</infon>
+        <location offset="1789" length="6"/>
+        <text>Cry1Ac</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">MESH:C561523</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1937" length="6"/>
+        <text>DBM1Ac</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2089" length="5"/>
+        <text>ABCC2</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2099" length="5"/>
+        <text>ABCC3</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:01:46Z</infon>
+        <location offset="2152" length="4"/>
+        <text>Cry1</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2238" length="5"/>
+        <text>ABCC2</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2248" length="5"/>
+        <text>ABCC3</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:01:48Z</infon>
+        <location offset="2325" length="4"/>
+        <text>Cry1</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>26903874</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Silencing of CYP6 and APN Genes Affects the Growth and Development of Rice Yellow Stem Borer, Scirpophaga incertulas.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="13" length="4"/>
+        <text>CYP6</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="22" length="3"/>
+        <text>APN</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">72366</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="94" length="22"/>
+        <text>Scirpophaga incertulas</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>118</offset>
+      <text>UNASSIGNED: RNAi is a powerful tool to target the insect genes involved in host-pest interactions. Key insect genes are the choice for silencing to achieve pest derived resistance where resistance genes are not available in gene pool of host plant. In this study, an attempt was made to determine the effect of dsRNA designed from two genes Cytochrome P450 derivative (CYP6) and Aminopeptidase N (APN) of rice yellow stem borer (YSB) on growth and development of insect. The bioassays involved injection of chemically synthesized 5  FAM labeled 21-nt dsRNA into rice cut stems and allowing the larvae to feed on these stems which resulted in increased mortality and observed growth and development changes in larval length and weight compared with its untreated control at 12-15 days after treatment. These results were further supported by observing the reduction in transcripts expression of these genes in treated larvae. Fluorescence detection in treated larvae also proved that dsRNA was readily taken by larvae when fed on dsRNA treated stems. These results from the present study clearly show that YSB larvae fed on dsRNA designed from Cytochrome P450 and Aminopeptidase N has detrimental effect on larval growth and development. These genes can be deployed to develop YSB resistance in rice using RNAi approach.</text>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="459" length="15"/>
+        <text>Cytochrome P450</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="487" length="4"/>
+        <text>CYP6</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="497" length="16"/>
+        <text>Aminopeptidase N</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="515" length="3"/>
+        <text>APN</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1261" length="15"/>
+        <text>Cytochrome P450</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1281" length="16"/>
+        <text>Aminopeptidase N</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

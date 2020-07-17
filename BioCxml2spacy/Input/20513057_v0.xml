@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>20513057</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Identification of two piwi genes and their expression profile in honeybee, Apis mellifera.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="22" length="4"/>
+        <text>piwi</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:03:10Z</infon>
+        <location offset="75" length="14"/>
+        <text>Apis mellifera</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>91</offset>
+      <text>Piwi genes play an important role in regulating spermatogenesis and oogenesis because they participate in the biogenesis of piRNAs, a new class of noncoding RNAs. However, these genes are not well understood in most insects. To understand the function of piwi genes in honeybee reproduction, we amplified two full-length piwi-like genes, Am-aub and Am-ago3. Both the cloned Am-aub and Am-ago3 genes contained typical PAZ and PIWI domains and active catalytic motifs "Asp-Asp-Asp/His/Glu/Lys," suggesting that the two piwi-like genes possessed slicer activity. We examined the expression levels of Am-aub and Am-ago3 in workers, queens, drones, and female larvae by quantitative PCR. Am-aub was more abundant than Am-ago3 in all the tested samples. Both Am-aub and Am-ago3 were highly expressed in drones but not in workers and queens. The significant finding was that the larval food stream influenced the expression of Piwi genes in adult honeybees. This helps to understand the nutritional control of reproductive status in honeybees at the molecular level.</text>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="91" length="4"/>
+        <text>Piwi</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="346" length="4"/>
+        <text>piwi</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="412" length="4"/>
+        <text>piwi</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:58:45Z</infon>
+        <location offset="429" length="6"/>
+        <text>Am-aub</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:58:47Z</infon>
+        <location offset="440" length="7"/>
+        <text>Am-ago3</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:58:50Z</infon>
+        <location offset="465" length="6"/>
+        <text>Am-aub</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:58:52Z</infon>
+        <location offset="476" length="7"/>
+        <text>Am-ago3</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="516" length="4"/>
+        <text>PIWI</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="558" length="11"/>
+        <text>Asp-Asp-Asp</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">CHEBI:18237</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="574" length="3"/>
+        <text>Glu</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="608" length="4"/>
+        <text>piwi</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:59:15Z</infon>
+        <location offset="688" length="6"/>
+        <text>Am-aub</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:59:17Z</infon>
+        <location offset="699" length="7"/>
+        <text>Am-ago3</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:59:30Z</infon>
+        <location offset="774" length="6"/>
+        <text>Am-aub</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:59:33Z</infon>
+        <location offset="804" length="7"/>
+        <text>Am-ago3</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:59:36Z</infon>
+        <location offset="844" length="6"/>
+        <text>Am-aub</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:59:38Z</infon>
+        <location offset="855" length="7"/>
+        <text>Am-ago3</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1011" length="4"/>
+        <text>Piwi</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>26185058</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Silencing a sugar transporter gene reduces growth and fecundity in the brown planthopper, Nilaparvata lugens (St l) (Hemiptera: Delphacidae).</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="12" length="17"/>
+        <text>sugar transporter</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:51:32Z</infon>
+        <location offset="90" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>142</offset>
+      <text>UNASSIGNED: The brown planthopper (BPH), Nilaparvata lugens, sugar transporter gene 6 (Nlst6) is a facilitative glucose/fructose transporter (often called a passive carrier) expressed in midgut that mediates sugar transport from the midgut lumen to hemolymph. The influence of down regulating expression of sugar transporter genes on insect growth, development, and fecundity is unknown. Nonetheless, it is reasonable to suspect that transporter-mediated uptake of dietary sugar is essential to the biology of phloem-feeding insects. Based on this reasoning, we posed the hypothesis that silencing, or reducing expression, of a BPH sugar transporter gene would be deleterious to the insects. To test our hypothesis, we examined the effects of Nlst6 knockdown on BPH biology. Reducing expression of Nlst6 led to profound effects on BPHs. It significantly prolonged the pre-oviposition period, shortened the oviposition period, decreased the number of eggs deposited and reduced body weight, compared to controls. Nlst6 knockdown also significantly decreased fat body and ovarian (particularly vitellogenin) protein content as well as vitellogenin gene expression. Experimental BPHs accumulated less fat body glucose compared to controls. We infer that Nlst6 acts in BPH growth and fecundity, and has potential as a novel target gene for control of phloem-feeding pest insects.</text>
+      <annotation id="24">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:51:34Z</infon>
+        <location offset="183" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="203" length="24"/>
+        <text>sugar transporter gene 6</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="229" length="5"/>
+        <text>Nlst6</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">MESH:D005947</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="254" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:52:01Z</infon>
+        <location offset="262" length="20"/>
+        <text>fructose transporter</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:51:54Z</infon>
+        <location offset="449" length="17"/>
+        <text>sugar transporter</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:52:13Z</infon>
+        <location offset="774" length="17"/>
+        <text>sugar transporter</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="885" length="5"/>
+        <text>Nlst6</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="940" length="5"/>
+        <text>Nlst6</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1154" length="5"/>
+        <text>Nlst6</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">MESH:D010049</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1212" length="7"/>
+        <text>ovarian</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:52:18Z</infon>
+        <location offset="1234" length="12"/>
+        <text>vitellogenin</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:D005947</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1349" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1393" length="5"/>
+        <text>Nlst6</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

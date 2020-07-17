@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30857628</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Insecticides induce the co-expression of glutathione S-transferases through ROS/CncC pathway in Spodoptera exigua.</text>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:40:12Z</infon>
+        <location offset="41" length="25"/>
+        <text>glutathione S-transferase</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7107</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="96" length="17"/>
+        <text>Spodoptera exigua</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>115</offset>
+      <text>Glutathione S-transferases (GSTs) are a family of multifunctional enzymes that are involved in detoxification of electrophilic toxic compounds. Although the co-induced expression of GST genes by insecticides in insects has been documented in recent years, the underlying regulatory mechanisms are not understood. In this study, a total of thirty-one cytosolic S. exigua GSTs (SeGSTs) was cloned and identified. The bioinformatics and gene expression patterns were also analyzed. Out of them, SeGSTe9, SeGSTs6, SeGSTe1, SeGSTe6, SeGSTe8, SeGSTe14, and SeGSTd1 were significantly co-expressed following exposure to three insecticides (lambda-cyhalothrin, chlorpyrifos and chlorantraniliprole). The analysis of upstream sequences revealed that all of these seven SeGSTs harbored CncC/Maf binding site. The luciferase reporter assay showed that the pGL3-SeGST promoter construct exhibited a significant increase in luciferase activities after exposure to insecticides, and mutation of CncC/Maf binding site diminish the induction effect. These data indicate that CncC/Maf pathway regulates the co-expression of GST genes in response to different insecticides in S. exigua. Insecticides significantly enhanced the ROS content and treatment with the ROS inhibitor N-acetylcysteine (NAC) decreased the insecticide-induced luciferase activities of the PGL3-GSTe6 promoter construct, but not the CncC-mutated construct. These results indicate that ROS mediates GST gene expression after exposure to insecticides through CncC/Maf pathway. Overall, these data show that insecticides induce the co-expression of glutathione S-transferases through the ROS/CncC pathway in S. exigua.</text>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:40:21Z</infon>
+        <location offset="115" length="25"/>
+        <text>Glutathione S-transferase</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:40:27Z</infon>
+        <location offset="143" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="297" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7107</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="475" length="9"/>
+        <text>S. exigua</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:40:37Z</infon>
+        <location offset="485" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:40:42Z</infon>
+        <location offset="491" length="5"/>
+        <text>SeGST</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="607" length="7"/>
+        <text>SeGSTe9</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="616" length="7"/>
+        <text>SeGSTs6</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="625" length="7"/>
+        <text>SeGSTe1</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="634" length="7"/>
+        <text>SeGSTe6</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="643" length="7"/>
+        <text>SeGSTe8</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="652" length="8"/>
+        <text>SeGSTe14</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="666" length="7"/>
+        <text>SeGSTd1</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">MESH:C037304</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="748" length="18"/>
+        <text>lambda-cyhalothrin</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">MESH:D004390</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="768" length="12"/>
+        <text>chlorpyrifos</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">MESH:C517733</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="785" length="19"/>
+        <text>chlorantraniliprole</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:43:57Z</infon>
+        <location offset="875" length="5"/>
+        <text>SeGST</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1222" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">7107</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1273" length="9"/>
+        <text>S. exigua</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">MESH:D000111</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1373" length="16"/>
+        <text>N-acetylcysteine</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">MESH:C086501</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1391" length="3"/>
+        <text>NAC</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1567" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:44:37Z</infon>
+        <location offset="1715" length="25"/>
+        <text>glutathione S-transferase</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">7107</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1774" length="9"/>
+        <text>S. exigua</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

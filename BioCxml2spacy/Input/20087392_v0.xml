@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>20087392</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>The cys-loop ligand-gated ion channel gene superfamily of the parasitoid wasp, Nasonia vitripennis.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="4" length="33"/>
+        <text>cys-loop ligand-gated ion channel</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7425</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="79" length="19"/>
+        <text>Nasonia vitripennis</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>100</offset>
+      <text>Members of the cys-loop ligand-gated ion channel (cysLGIC) superfamily mediate chemical neurotransmission and are studied extensively as potential targets of drugs used to treat neurological disorders, such as Alzheimer s disease. Insect cys-loop LGICs also have central roles in the nervous system and are targets of highly successful insecticides. Here, we describe the cysLGIC superfamily of the parasitoid wasp, Nasonia vitripennis, which is emerging as a highly useful model organism and is deployed as a biological control of insect pests. The wasp superfamily consists of 26 genes, which is the largest insect cysLGIC superfamily characterized, whereas Drosophila melanogaster, Apis mellifera and Tribolium castaneum have 23, 21 and 24, respectively. As with Apis, Drosophila and Tribolium, Nasonia possesses ion channels predicted to be gated by acetylcholine, gamma-amino butyric acid, glutamate and histamine, as well as orthologues of the Drosophila pH-sensitive chloride channel (pHCl), CG8916 and CG12344. Similar to other insects, wasp cysLGIC diversity is broadened by alternative splicing and RNA A-to-I editing, which may also serve to generate species-specific receptor isoforms. These findings on N. vitripennis enhance our understanding of cysLGIC functional genomics and provide a useful basis for the study of their function in the wasp model, as well as for the development of improved insecticides that spare a major beneficial insect species.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="115" length="33"/>
+        <text>cys-loop ligand-gated ion channel</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="150" length="7"/>
+        <text>cysLGIC</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">D009422</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="278" length="22"/>
+        <text>neurological disorders</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">D000544</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="310" length="19"/>
+        <text>Alzheimer's disease</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="338" length="13"/>
+        <text>cys-loop LGIC</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="472" length="7"/>
+        <text>cysLGIC</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">7425</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="516" length="19"/>
+        <text>Nasonia vitripennis</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="717" length="7"/>
+        <text>cysLGIC</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="760" length="23"/>
+        <text>Drosophila melanogaster</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">7460</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="785" length="14"/>
+        <text>Apis mellifera</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="804" length="19"/>
+        <text>Tribolium castaneum</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="872" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="887" length="9"/>
+        <text>Tribolium</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">7425</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="898" length="7"/>
+        <text>Nasonia</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">D000109</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="954" length="13"/>
+        <text>acetylcholine</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">C483477</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="969" length="24"/>
+        <text>gamma-amino butyric acid</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="995" length="9"/>
+        <text>glutamate</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">D006632</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1009" length="9"/>
+        <text>histamine</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1050" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">39730</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1061" length="29"/>
+        <text>pH-sensitive chloride channel</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">39730</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1092" length="4"/>
+        <text>pHCl</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1099" length="6"/>
+        <text>CG8916</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1110" length="7"/>
+        <text>CG12344</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1150" length="7"/>
+        <text>cysLGIC</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">7425</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1316" length="14"/>
+        <text>N. vitripennis</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1360" length="7"/>
+        <text>cysLGIC</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

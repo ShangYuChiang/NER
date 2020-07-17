@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>27883266</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Silencing of ecdysone receptor, insect intestinal mucin and sericotropin genes by bacterially produced double-stranded RNA affects larval growth and development in Plutella xylostella and Helicoverpa armigera.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="13" length="17"/>
+        <text>ecdysone receptor</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="50" length="5"/>
+        <text>mucin</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="60" length="12"/>
+        <text>sericotropin</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">51655</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="164" length="19"/>
+        <text>Plutella xylostella</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">29058</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="188" length="20"/>
+        <text>Helicoverpa armigera</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>210</offset>
+      <text>RNA interference mediated gene silencing, which is triggered by double-stranded RNA (dsRNA), has become a important tool for functional genomics studies in various systems, including insects. Bacterially produced dsRNA employs the use of a bacterial strain lacking in RNaseIII activity and harbouring a vector with dual T7 promoter sites, which allow the production of intact dsRNA molecules. Here, we report an assessment of the functional relevance of the ecdysone receptor, insect intestinal mucin and sericotropin genes through silencing by dsRNA in two lepidopteran insect pests, Helicoverpa armigera and Plutella xylostella, both of which cause serious crop losses. Oral feeding of dsRNA led to significant reduction in transcripts of the target insect genes, which caused significant larval mortality with various moulting anomalies and an overall developmental delay. We also found a significant decrease in reproductive potential in female moths, with a drop in egg laying and compromised egg hatching from treated larvae as compared to controls. dsRNA was stable in the insect gut and was efficiently processed into small interfering RNAs (siRNAs), thus accounting for the phenotypes observed in the present work. The study revealed the importance of these genes in core insect processes, which are essential for insect development and survival.</text>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="668" length="17"/>
+        <text>ecdysone receptor</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="705" length="5"/>
+        <text>mucin</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="715" length="12"/>
+        <text>sericotropin</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">29058</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="795" length="20"/>
+        <text>Helicoverpa armigera</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">51655</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="820" length="19"/>
+        <text>Plutella xylostella</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">D000014</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1040" length="9"/>
+        <text>anomalies</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

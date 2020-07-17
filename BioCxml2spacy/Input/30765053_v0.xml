@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30765053</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>UDP-Glycosyltransferases are involved in imidacloprid resistance in the Asian citrus psyllid, Diaphorina citri (Hemiptera: Lividae).</text>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:22:10Z</infon>
+        <location offset="0" length="23"/>
+        <text>UDP-Glycosyltransferase</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="41" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">121845</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="72" length="20"/>
+        <text>Asian citrus psyllid</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">121845</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="94" length="16"/>
+        <text>Diaphorina citri</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>133</offset>
+      <text>UDP-glycosyltransferases (UGTs), as phase II detoxification enzymes, are widely distributed within living organisms and play vital roles in the biotransformation of endobiotics and xenobiotics in insects. Insects increase the expression of detoxification enzymes to cope with the stress of xenobiotics, including insecticides. However, the roles of UGTs in insecticide resistance are still seldom reported. In this study, two UGT inhibitors, namely, 5-nitrouracil and sulfinpyrazone, were found to synergistically increase the toxicity of imidacloprid in the resistant population of Diaphorina citri. Based on transcriptome data, a total of 17 putative UGTs were identified. Quantitative real-time PCR showed that fourteen of the 17 UGT genes were overexpressed in the resistant population relative to the susceptible population. Using RNA interference technology to knockdown six UGT genes, the results suggested that silencing the selected UGT375A1, UGT383A1, UGT383B1, and UGT384A1 genes dramatically increased the toxicity of imidacloprid in the resistant population. However, silencing the UGT362B1 and UGT379A1 genes did not result in a significant increase in the toxicity of imidacloprid in the resistant population. These findings revealed that some upregulated UGT genes were involved in imidacloprid resistance in D. citri. These results shed some light upon and further our understanding of the mechanisms of insecticide resistance in insects.</text>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:21:12Z</infon>
+        <location offset="133" length="23"/>
+        <text>UDP-glycosyltransferase</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:21:01Z</infon>
+        <location offset="159" length="3"/>
+        <text>UGT</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:21:06Z</infon>
+        <location offset="482" length="3"/>
+        <text>UGT</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="559" length="3"/>
+        <text>UGT</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">MESH:C057449</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="583" length="13"/>
+        <text>5-nitrouracil</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:D013442</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="601" length="14"/>
+        <text>sulfinpyrazone</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">MESH:D064420</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="660" length="8"/>
+        <text>toxicity</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="672" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">121845</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="716" length="16"/>
+        <text>Diaphorina citri</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:21:30Z</infon>
+        <location offset="786" length="3"/>
+        <text>UGT</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="866" length="3"/>
+        <text>UGT</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1014" length="3"/>
+        <text>UGT</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1075" length="8"/>
+        <text>UGT375A1</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1085" length="8"/>
+        <text>UGT383A1</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1095" length="8"/>
+        <text>UGT383B1</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1109" length="8"/>
+        <text>UGT384A1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:D064420</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1151" length="8"/>
+        <text>toxicity</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1163" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1228" length="8"/>
+        <text>UGT362B1</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1241" length="8"/>
+        <text>UGT379A1</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">MESH:D064420</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1304" length="8"/>
+        <text>toxicity</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1316" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1404" length="3"/>
+        <text>UGT</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1431" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">121845</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1458" length="8"/>
+        <text>D. citri</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>27885784</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>MicroRNA and dsRNA targeting chitin synthase A reveal a great potential for pest management of the hemipteran insect Nilaparvata lugens.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="29" length="17"/>
+        <text>chitin synthase A</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="117" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>137</offset>
+      <text>BACKGROUND: Two RNA silencing pathways in insects are known to exist that are mediated by short interfering RNAs (siRNAs) and microRNAs (miRNAs), which have been hypothesised to be promising methods for insect pest control. However, a comparison between miRNA and siRNA in pest control is still unavailable, particularly in targeting chitin synthase gene A (CHSA). RESULTS: The dsRNA for Nilaparvata lugens CHSA (dsNlCHSA) and the microR-2703 (miR-2703) mimic targeting NlCHSA delivered via feeding affected the development of nymphs, reduced their chitin content and led to lethal phenotypes. The protein level of NlCHSA was downregulated after female adults were injected with dsNlCHSA or the miR-2703 mimic, but there were no significant differences in vitellogenin (NlVg) expression or in total oviposition relative to the control group. However, 90.68 and 46.13% of the eggs laid by the females injected with dsNlCHSA and miR-2703 mimic were unable to hatch, respectively. In addition, a second-generation miRNA and RNAi effect on N. lugens was observed. CONCLUSION: Ingested miR-2703 seems to be a good option for killing N. lugens nymphs, while NlCHSA may be a promising target for RNAi-based pest management. These findings provide important evidence for applications of small non-coding RNAs (snRNAs) in insect pest management.  2016 Society of Chemical Industry.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="495" length="4"/>
+        <text>CHSA</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="525" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="544" length="4"/>
+        <text>CHSA</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="568" length="11"/>
+        <text>microR-2703</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="581" length="8"/>
+        <text>miR-2703</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="607" length="6"/>
+        <text>NlCHSA</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="752" length="6"/>
+        <text>NlCHSA</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="832" length="8"/>
+        <text>miR-2703</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:40:59Z</infon>
+        <location offset="893" length="12"/>
+        <text>vitellogenin</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:40:59Z</infon>
+        <location offset="907" length="4"/>
+        <text>NlVg</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1064" length="8"/>
+        <text>miR-2703</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1173" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1218" length="8"/>
+        <text>miR-2703</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1265" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1289" length="6"/>
+        <text>NlCHSA</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

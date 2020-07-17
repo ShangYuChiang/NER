@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31981304</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>RNA interference of tyrosine hydroxylase caused rapid mortality by impairing cuticle formation in Nilaparvata lugens (Hemiptera: Delphacidae).</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="20" length="20"/>
+        <text>tyrosine hydroxylase</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="98" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>143</offset>
+      <text>BACKGROUND: The application of RNA interference (RNAi) technique in controlling agricultural insect pests has been receiving much attention since the discovery of RNAi. The brown planthopper (BPH) Nilaparvata lugens, a notorious pest of rice, has evolved a high level of resistance to many kinds of insecticides. Tyrosine hydroxylase (Th) is an indispensable survival gene in holometabolous insects, playing key roles in cuticle tanning and immunity. In this study, we investigated whether Th could be used as a potential target in controlling N. lugens. RESULTS: Here, we demonstrated that NlTh had a periodical expression pattern during molting with the highest level observed in epidermis. Dysfunction of NlTH by dsNlTh microinjection or 3-IT feeding similarly caused rapid death of N. lugens. Compared with dsGFP control BPHs, dsNlTh injected BPHs (i) had cuticle pigmentation and sclerotizaton defects; (ii) had less endocuticle lamella in tergum integument; (iii) showed higher mortality during the molting process as a result of defective cuticle shedding; (iv) showed feeding disorders indicated by a low number of probe wound dots on rice; (v) had more vulnerable cuticle. CONCLUSION: This study demonstrated that TH orthologues play a conservative and crucial role for exocuticle tanning in both holometabolous and hemimetabolous insects, and NlTh could be targeted for RNAi-mediated BPH control. The rapid lethal phenotype of NlTH dysfunction BPHs partly induced by cuticle formation defects.  2020 Society of Chemical Industry.</text>
+      <annotation id="3">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="316" length="17"/>
+        <text>brown planthopper</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="335" length="3"/>
+        <text>BPH</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="340" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">4530</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="380" length="4"/>
+        <text>rice</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="456" length="20"/>
+        <text>Tyrosine hydroxylase</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="478" length="2"/>
+        <text>Th</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="633" length="2"/>
+        <text>Th</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="687" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="734" length="4"/>
+        <text>NlTh</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="851" length="4"/>
+        <text>NlTH</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="929" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:48:16Z</infon>
+        <location offset="976" length="4"/>
+        <text>NlTh</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:D010859</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <infon key="error:misaligned:14">1008-&gt;1011</infon>
+        <location offset="1011" length="38"/>
+        <text>pigmentation and sclerotizaton defects</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">4530</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1286" length="4"/>
+        <text>rice</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1366" length="2"/>
+        <text>TH</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1496" length="4"/>
+        <text>NlTh</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1537" length="3"/>
+        <text>BPH</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1580" length="4"/>
+        <text>NlTH</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

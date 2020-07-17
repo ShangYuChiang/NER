@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30688002</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>CRISPR/Cas9-mediated ebony knockout results in puparium melanism in Spodoptera litura.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="21" length="5"/>
+        <text>ebony</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">69820</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="68" length="17"/>
+        <text>Spodoptera litura</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>87</offset>
+      <text>Insect body pigmentation and coloration are critical to adaption to the environment. To explore the mechanisms that drive pigmentation, we used the clustered regularly interspaced short palindromic repeats (CRISPR)/CRISPR-associated protein 9 (Cas9) genome editing system to target the ebony gene in the non-model insect Spodoptera litura. Ebony is crucial to melanin synthesis in insects. By directly injecting Cas9 messenger RNA and ebony-specific guide RNAs into S. litura embryos, we successfully induced a typical ebony-deficient phenotype of deep coloration of the puparium and induction of melanin formation during the pupal stage. Polymerase chain reaction-based genotype analysis demonstrated that various mutations had occurred at the sites targeted in ebony. Our study clearly demonstrates the function of ebony in the puparium coloration and also provides a potentially useful marker gene for functional studies in S. litura as well as other lepidopteran pests.</text>
+      <annotation id="3">
+        <infon key="identifier">MESH:D010859</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="99" length="12"/>
+        <text>pigmentation</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">MESH:D010859</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="209" length="12"/>
+        <text>pigmentation</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="373" length="5"/>
+        <text>ebony</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">69820</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="408" length="17"/>
+        <text>Spodoptera litura</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="427" length="5"/>
+        <text>Ebony</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="522" length="5"/>
+        <text>ebony</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">69820</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="553" length="9"/>
+        <text>S. litura</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">6239</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="563" length="7"/>
+        <text>embryos</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">None</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="606" length="15"/>
+        <text>ebony-deficient</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="850" length="5"/>
+        <text>ebony</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="904" length="5"/>
+        <text>ebony</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">69820</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1014" length="9"/>
+        <text>S. litura</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

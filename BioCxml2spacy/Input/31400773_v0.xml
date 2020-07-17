@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31400773</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Copper-induced H2O2 accumulation confers larval tolerance to xanthotoxin by modulating CYP6B50 expression in Spodoptera litura.</text>
+      <annotation id="1">
+        <infon key="identifier">MESH:D003300</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="6"/>
+        <text>Copper</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">MESH:D014867</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="15" length="4"/>
+        <text>H2O2</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">MESH:D008730</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="61" length="11"/>
+        <text>xanthotoxin</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="87" length="7"/>
+        <text>CYP6B50</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">69820</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="109" length="17"/>
+        <text>Spodoptera litura</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>128</offset>
+      <text>In the plant-insect arms race, plants synthesize toxic compounds to defend against herbivorous insects, whereas insects employ cytochrome P450 monooxygenases (P450s) to detoxify these phytotoxins. As ubiquitous environmental contaminants, heavy metals can be easily absorbed by plants and further accumulated in herbivorous insects through the food chains, resulting in tangible consequences for plant-insect interactions. However, whether heavy metals can influence P450 activities and thereby cause further effects on larval tolerance to phytotoxins remains unknown. In this study, we shown that prior exposure to copper (Cu) enhanced larval tolerance to xanthotoxin in Spodoptera litura, a major polyphagous pest of agriculture. P450 activities were induced in larvae exposed to Cu or xanthotoxin, and a midgut specific expressed P450 gene, CYP6B50 was cross-induced after exposure to these two toxic xenobiotics. Knocking down CYP6B50 by RNA interference (RNAi) rendered the larvae more sensitive to xanthotoxin. As defense against oxidative stress following metal exposure has been demonstrated to affect insecticide resistance, the reactive oxygen species (ROS) generation and antioxidant enzyme activities were assessed. Cu exposure caused the accumulation of hydrogen peroxide (H2O2) and enhanced the activities of superoxide dismutase (SOD) and peroxidase (POD) in larval midgut. In addition, two antioxidant response elements (AREs) were identified from the CYP6B50 promoter, indicating that Cu-induced CYP6B50 expression may be related to the ROS burst. Application of ROS scavenger N-acetylcysteine (NAC) effectively suppressed CYP6B50 expression, inhibited P450 activities and impaired larval tolerance to xanthotoxin that had been induced by Cu. These results indicate that the increase in CYP6B50 expression regulated by Cu-induced H2O2 generation contributed to the enhancement of larval tolerance to xanthotoxin in S. litura. Ingestion of heavy metals from their host plants can inadvertently boost the counter-defense system of herbivorous insects to protect themselves against plant defensive toxins.</text>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="255" length="29"/>
+        <text>cytochrome P450 monooxygenase</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="287" length="5"/>
+        <text>P450s</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="595" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">MESH:D003300</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="744" length="6"/>
+        <text>copper</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:D003300</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="752" length="2"/>
+        <text>Cu</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">MESH:D008730</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="785" length="11"/>
+        <text>xanthotoxin</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">69820</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="800" length="17"/>
+        <text>Spodoptera litura</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="860" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:D003300</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="910" length="2"/>
+        <text>Cu</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">MESH:D008730</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="916" length="11"/>
+        <text>xanthotoxin</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="961" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="972" length="7"/>
+        <text>CYP6B50</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1059" length="7"/>
+        <text>CYP6B50</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">MESH:D008730</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1132" length="11"/>
+        <text>xanthotoxin</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">MESH:D010100</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1275" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:D003300</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1356" length="2"/>
+        <text>Cu</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">MESH:D006861</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1395" length="17"/>
+        <text>hydrogen peroxide</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">MESH:D014867</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1414" length="4"/>
+        <text>H2O2</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">MESH:D013481</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1451" length="10"/>
+        <text>superoxide</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1596" length="7"/>
+        <text>CYP6B50</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">MESH:D003300</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1630" length="2"/>
+        <text>Cu</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1641" length="7"/>
+        <text>CYP6B50</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">MESH:D000111</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1722" length="16"/>
+        <text>N-acetylcysteine</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">MESH:C086501</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1740" length="3"/>
+        <text>NAC</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1768" length="7"/>
+        <text>CYP6B50</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1798" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">MESH:D018149</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1818" length="25"/>
+        <text>impaired larval tolerance</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">MESH:D008730</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1847" length="11"/>
+        <text>xanthotoxin</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">MESH:D003300</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1884" length="2"/>
+        <text>Cu</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1932" length="7"/>
+        <text>CYP6B50</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">MESH:D003300</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1964" length="2"/>
+        <text>Cu</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">MESH:D014867</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1975" length="4"/>
+        <text>H2O2</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier">MESH:D008730</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2045" length="11"/>
+        <text>xanthotoxin</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">69820</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2060" length="9"/>
+        <text>S. litura</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

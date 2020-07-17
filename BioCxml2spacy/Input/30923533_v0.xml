@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30923533</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>RNA Interference in the Tobacco Hornworm, Manduca sexta, Using Plastid-Encoded Long Double-Stranded RNA.</text>
+      <annotation id="1">
+        <infon key="identifier">7130</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="24" length="16"/>
+        <text>Tobacco Hornworm</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7130</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="42" length="13"/>
+        <text>Manduca sexta</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>105</offset>
+      <text>RNA interference (RNAi) is a promising method for controlling pest insects by silencing the expression of vital insect genes to interfere with development and physiology; however, certain insect Orders are resistant to this process. In this study, we set out to test the ability of in planta-expressed dsRNA synthesized within the plastids to silence gene expression in an insect recalcitrant to RNAi, the lepidopteran species, Manduca sexta (tobacco hornworm). Using the Manduca vacuolar-type H+ ATPase subunit A (v-ATPaseA) gene as the target, we first evaluated RNAi efficiency of two dsRNA products of different lengths by directly feeding the in vitro-synthesized dsRNAs to M. sexta larvae. We found that a long dsRNA of 2222 bp was the most effective in inducing lethality and silencing the v-ATPaseA gene, when delivered orally in a water droplet. We further transformed the plastid genome of the M. sexta host plant, Nicotiana tabacum, to produce this long dsRNA in its plastids and performed bioassays with M. sexta larvae on the transplastomic plants. In the tested insects, the plastid-derived dsRNA had no effect on larval survival and no statistically significant effect on expression of the v-ATPaseA gene was observed. Comparison of the absolute quantities of the dsRNA present in transplastomic leaf tissue for v-ATPaseA and a control gene, GFP, of a shorter size, revealed a lower concentration for the long dsRNA product compared to the short control product. We suggest that stability and length of the dsRNA may have influenced the quantities produced in the plastids, resulting in inefficient RNAi in the tested insects. Our results imply that many factors dictate the effectiveness of in planta RNAi, including a likely trade-off effect as increasing the dsRNA product length may be countered by a reduction in the amount of dsRNA produced and accumulated in the plastids.</text>
+      <annotation id="3">
+        <infon key="identifier">7130</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="533" length="13"/>
+        <text>Manduca sexta</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">7130</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="548" length="16"/>
+        <text>tobacco hornworm</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">7130</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="577" length="7"/>
+        <text>Manduca</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="585" length="33"/>
+        <text>vacuolar-type H+ ATPase subunit A</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="620" length="9"/>
+        <text>v-ATPaseA</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">7130</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="784" length="8"/>
+        <text>M. sexta</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:09:27Z</infon>
+        <location offset="902" length="9"/>
+        <text>v-ATPaseA</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">7130</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1009" length="8"/>
+        <text>M. sexta</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">4097</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1030" length="17"/>
+        <text>Nicotiana tabacum</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">7130</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1121" length="8"/>
+        <text>M. sexta</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:09:43Z</infon>
+        <location offset="1310" length="9"/>
+        <text>v-ATPaseA</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:09:47Z</infon>
+        <location offset="1432" length="9"/>
+        <text>v-ATPaseA</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:10:21Z</infon>
+        <location offset="1462" length="3"/>
+        <text>GFP</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

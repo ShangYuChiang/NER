@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30922828</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>The limpet transcription factors of Triatoma infestans regulate the response to fungal infection and modulate the expression pattern of defensin genes.</text>
+      <annotation id="1">
+        <infon key="identifier">6465</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="4" length="6"/>
+        <text>limpet</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">30076</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="36" length="18"/>
+        <text>Triatoma infestans</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">MESH:D009181</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="80" length="16"/>
+        <text>fungal infection</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="136" length="8"/>
+        <text>defensin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>152</offset>
+      <text>As part of the innate humoral response to microbial attack, insects activate the expression of antimicrobial peptides (AMP). Understanding the regulatory mechanisms of this response in the Chagas disease vector Triatoma infestans is important since biological control strategies against pyrethroid-resistant insect populations were recently addressed by using the entomopathogenic fungus Beauveria bassiana. By bioinformatics, gene expression, and silencing techniques in T. infestans nymphs, we achieved sequence and functional characterization of two variants of the limpet transcription factor (Tilimpet) and studied their role as regulators of the AMP expression, particularly defensins, in fungus-infected insects. We found that Tilimpet variants may act differentially since they have divergent sequences and different relative expression ratios, suggesting that Tilimpet-2 could be the main regulator of the higher expressed defensins and Tilimpet-1 might play a complementary or more general role. Also, the six defensins (Tidef-1 to Tidef-6) exhibited different expression levels in fungus-infected nymphs, consistent with their phylogenetic clustering. This study aims to contribute to a better understanding of T. infestans immune response in which limpet is involved, after challenge by B. bassiana infection.</text>
+      <annotation id="5">
+        <infon key="identifier">MESH:D000249</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="271" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="363" length="18"/>
+        <text>Triatoma infestans</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">MESH:D011722</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="439" length="10"/>
+        <text>pyrethroid</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">176275</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="540" length="18"/>
+        <text>Beauveria bassiana</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">30076</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="624" length="12"/>
+        <text>T. infestans</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="721" length="6"/>
+        <text>limpet</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="750" length="8"/>
+        <text>Tilimpet</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">MESH:D000249</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="804" length="3"/>
+        <text>AMP</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="833" length="9"/>
+        <text>defensins</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:D009181</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="847" length="15"/>
+        <text>fungus-infected</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="886" length="8"/>
+        <text>Tilimpet</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:11:54Z</infon>
+        <location offset="1021" length="10"/>
+        <text>Tilimpet-2</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">MESH:D023082</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1084" length="9"/>
+        <text>defensins</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:12:00Z</infon>
+        <location offset="1098" length="10"/>
+        <text>Tilimpet-1</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1172" length="9"/>
+        <text>defensins</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1183" length="7"/>
+        <text>Tidef-1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1194" length="7"/>
+        <text>Tidef-6</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">MESH:D009181</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1244" length="15"/>
+        <text>fungus-infected</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">30076</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1374" length="12"/>
+        <text>T. infestans</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1412" length="6"/>
+        <text>limpet</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">176275</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1451" length="11"/>
+        <text>B. bassiana</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>28980406</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Characterization and functional analysis of hsp18.3 gene in the red flour beetle, Tribolium castaneum.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="44" length="7"/>
+        <text>hsp18.3</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="82" length="19"/>
+        <text>Tribolium castaneum</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>103</offset>
+      <text>Small heat shock proteins (sHSPs) are diverse and mainly function as molecular chaperones to protect organisms and cells from various stresses. In this study, hsp18.3, one Tribolium castaneum species-specific shsp, has been identified. Quantitative real-time polymerase chain reaction illustrated that Tchsp18.3 is expressed in all developmental stages, and is highly expressed at early pupal and late adult stages, while it is highly expressed in ovary and fat body at the adult period. Moreover, it was up-regulated 4532  396-fold in response to enhanced heat stress but not to cold stress; meanwhile the lifespan of adults in ds-Tchsp18.3 group reduced by 15.8% from control group under starvation. Laval RNA interference (RNAi) of Tchsp18.3 caused 86.1%  4.5% arrested pupal eclosion and revealed that Tchsp18.3 played an important role in insect development. In addition, parental RNAi of Tchsp18.3 reduced the oviposition amount by 94.7%. These results suggest that Tchsp18.3 is not only essential for the resistance to heat and starvation stress, but also is critical for normal development and reproduction in T. castaneum.</text>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:35:49Z</infon>
+        <location offset="103" length="24"/>
+        <text>Small heat shock protein</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:35:54Z</infon>
+        <location offset="130" length="4"/>
+        <text>sHSP</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="262" length="7"/>
+        <text>hsp18.3</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="275" length="19"/>
+        <text>Tribolium castaneum</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:35:59Z</infon>
+        <location offset="312" length="4"/>
+        <text>shsp</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="405" length="9"/>
+        <text>Tchsp18.3</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">MESH:D010051</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="551" length="5"/>
+        <text>ovary</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="838" length="9"/>
+        <text>Tchsp18.3</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="909" length="9"/>
+        <text>Tchsp18.3</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="997" length="9"/>
+        <text>Tchsp18.3</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1075" length="9"/>
+        <text>Tchsp18.3</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1221" length="12"/>
+        <text>T. castaneum</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

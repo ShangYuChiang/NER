@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>12752654</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>B96Bom encodes a Bombyx mori tyramine receptor negatively coupled to adenylate cyclase.</text>
+      <annotation id="1">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="17" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="29" length="17"/>
+        <text>tyramine receptor</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:29:29Z</infon>
+        <location offset="69" length="17"/>
+        <text>adenylate cyclase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>88</offset>
+      <text>A cDNA encoding a biogenic amine receptor (B96Bom) was isolated from silkworm (Bombyx mori) larvae, and the ligand response of the receptor stably expressed in HEK-293 cells was examined. Tyramine (TA) at 0.1-100 micro m reduced forskolin (10 micro m)-stimulated intracellular cAMP levels by approximately 40%. The inhibitory effect of TA at 1 micro m was abolished by yohimbine and chlorpromazine (each 10 micro m). Although octopamine (OA) also reduced the cAMP levels, the potency was at least two orders of magnitude lower than that of TA. Furthermore, unlabelled TA (IC50 = 5.2 nm) inhibited specific [3H]TA binding to the membranes of B96Bom-transfected HEK-293 cells more potently than did OA (IC50 = 1.4 micro m) and dopamine (IC50 = 1.7 micro m). Taken together with the result of phylogenetic analysis, these findings indicate that the B96Bom receptor is a B. mori TA receptor, which is negatively coupled to adenylate cyclase. The use of this expression system should facilitate physiological studies of TA receptors as well as structure-activity studies of TA receptor ligands.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="106" length="23"/>
+        <text>biogenic amine receptor</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:25:40Z</infon>
+        <location offset="131" length="6"/>
+        <text>B96Bom</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="167" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">D014439</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="276" length="8"/>
+        <text>Tyramine</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">D005576</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="317" length="9"/>
+        <text>forskolin</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">CHEBI:17489</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="365" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">D015016</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="457" length="9"/>
+        <text>yohimbine</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">D002746</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="471" length="14"/>
+        <text>chlorpromazine</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">D009655</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="514" length="10"/>
+        <text>octopamine</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">CHEBI:17489</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="547" length="4"/>
+        <text>cAMP</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">D004298</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="813" length="8"/>
+        <text>dopamine</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:31:21Z</infon>
+        <location offset="934" length="6"/>
+        <text>B96Bom</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="955" length="7"/>
+        <text>B. mori</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:31:31Z</infon>
+        <location offset="963" length="10"/>
+        <text>TA recepto</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:31:46Z</infon>
+        <location offset="1007" length="17"/>
+        <text>adenylate cyclase</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:31:50Z</infon>
+        <location offset="1103" length="11"/>
+        <text>TA receptor</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:31:55Z</infon>
+        <location offset="1157" length="11"/>
+        <text>TA receptor</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

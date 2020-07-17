@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31480643</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Suppression of Gene Juvenile Hormone Diol Kinase Delays Pupation in &lt;i&gt;Heortia vitessoides&lt;/i&gt; Moore.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="20" length="28"/>
+        <text>Juvenile Hormone Diol Kinase</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="71" length="19"/>
+        <text>Heortia vitessoides</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>102</offset>
+      <text>Juvenile hormone diol kinase (JHDK) is a critical enzyme involved in juvenile hormone degradation in insects. In this study, &lt;i&gt;HvJHDK&lt;/i&gt; in the &lt;i&gt;Heortia vitessoides&lt;/i&gt; Moore (Lepidoptera: Crambidae) transcriptional library was cloned. Stage-specific expression patterns of &lt;i&gt;HvJHDK&lt;/i&gt;, &lt;i&gt;HvJHEH&lt;/i&gt;, and &lt;i&gt;HvJHE&lt;/i&gt; as well as juvenile hormone titers were determined. The three tested enzymes participated in juvenile hormone degradation. Moreover, juvenile hormone titers peaked after larval-larval molts, consistent with a role for juvenile hormone in inhibition of metamorphosis. &lt;i&gt;HvJHDK&lt;/i&gt; was subsequently suppressed using RNA interference (RNAi) to reveal its functions. Different concentrations of ds&lt;i&gt;JHDK&lt;/i&gt; elicited the optimal interference efficiency at different life stages of &lt;i&gt;H. vitessoides&lt;/i&gt;. Suppression of &lt;i&gt;HvJHDK&lt;/i&gt; decreased HvJHDK content and increased the juvenile hormone titer, thereby resulting in reduced triglyceride content, sharply declined survival rate, clearly lethal phenotypes, and extended larval growth. Moreover, suppression of &lt;i&gt;HvJHDK&lt;/i&gt; upregulated &lt;i&gt;HvJHEH&lt;/i&gt; and &lt;i&gt;HvJHE&lt;/i&gt; expression levels, suggesting that there is feedback regulation in the juvenile hormone metabolic pathway. Taken together, our findings provide molecular references for the selection of novel insecticidal targets.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="102" length="28"/>
+        <text>Juvenile hormone diol kinase</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="132" length="4"/>
+        <text>JHDK</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="230" length="6"/>
+        <text>HvJHDK</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="251" length="19"/>
+        <text>Heortia vitessoides</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="383" length="6"/>
+        <text>HvJHDK</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="398" length="6"/>
+        <text>HvJHEH</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="417" length="5"/>
+        <text>HvJHE</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="697" length="6"/>
+        <text>HvJHDK</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T03:07:29Z</infon>
+        <location offset="824" length="4"/>
+        <text>JHDK</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">1557813</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="909" length="14"/>
+        <text>H. vitessoides</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="947" length="6"/>
+        <text>HvJHDK</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="968" length="6"/>
+        <text>HvJHDK</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1191" length="6"/>
+        <text>HvJHDK</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1217" length="6"/>
+        <text>HvJHEH</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1235" length="5"/>
+        <text>HvJHE</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

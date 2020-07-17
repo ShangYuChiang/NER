@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30719783</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>The midgut V-ATPase subunit A gene is associated with toxicity to crystal 2Aa and crystal 1Ca-expressing transgenic rice in Chilo suppressalis.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="11" length="18"/>
+        <text>V-ATPase subunit A</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">MESH:D064420</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="54" length="8"/>
+        <text>toxicity</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:37:15Z</infon>
+        <location offset="66" length="11"/>
+        <text>crystal 2Aa</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:37:16Z</infon>
+        <location offset="82" length="11"/>
+        <text>crystal 1Ca</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">168631</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="124" length="18"/>
+        <text>Chilo suppressalis</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>144</offset>
+      <text>Insecticidal crystal (Cry) proteins produced by the bacterium Bacillus thuringiensis (Bt) are toxic to a diverse range of insects. Transgenic rice expressing Cry1A, Cry2A and Cry1C toxins have been developed that are lethal to Chilo suppressalis, a devastating insect pest of rice in China. Identifying the mechanisms underlying the interactions of Cry toxins with susceptible hosts will improve both our understanding of Cry protein toxicology and long-term efficacy of Bt crops. In this study, we tested the hypothesis that V-ATPase subunit A contributes to the action of Cry1Ab/1Ac, Cry2Aa and Cry1Ca toxins in C. suppressalis. The full-length V-ATPase subunit A transcript was initially cloned from the C. suppressalis larval midgut and then used to generate double-stranded RNA (dsRNA)-producing bacteria. Toxicity assays using transgenic rice lines TT51 (Cry1Ab and Cry1Ac fusion genes), T2A-1 (Cry2Aa), and T1C-19 (Cry1Ca) in conjunction with V-ATPase subunit A dsRNA-treated C. suppressalis larvae revealed significantly reduced larval susceptibility to T2A-1 and T1C-19 transgenic rice, but not to TT51 rice. These results suggest that the V-ATPase subunit A plays a crucial role in mediating Cry2Aa and Cry1Ca toxicity in C. suppressalis. These findings will have significant implications on the development of future resistance management tools.</text>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="166" length="3"/>
+        <text>Cry</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="302" length="5"/>
+        <text>Cry1A</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="309" length="5"/>
+        <text>Cry2A</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="319" length="5"/>
+        <text>Cry1C</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">168631</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="371" length="18"/>
+        <text>Chilo suppressalis</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="493" length="3"/>
+        <text>Cry</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="566" length="3"/>
+        <text>Cry</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="670" length="18"/>
+        <text>V-ATPase subunit A</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="718" length="6"/>
+        <text>Cry1Ab</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="730" length="6"/>
+        <text>Cry2Aa</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="741" length="6"/>
+        <text>Cry1Ca</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">168631</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="758" length="15"/>
+        <text>C. suppressalis</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="791" length="18"/>
+        <text>V-ATPase subunit A</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">168631</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="851" length="15"/>
+        <text>C. suppressalis</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">MESH:D064420</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="955" length="8"/>
+        <text>Toxicity</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1005" length="6"/>
+        <text>Cry1Ab</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:37:25Z</infon>
+        <location offset="1016" length="6"/>
+        <text>Cry1Ac</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1045" length="6"/>
+        <text>Cry2Aa</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1066" length="6"/>
+        <text>Cry1Ca</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1094" length="18"/>
+        <text>V-ATPase subunit A</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">168631</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1127" length="15"/>
+        <text>C. suppressalis</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1293" length="18"/>
+        <text>V-ATPase subunit A</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1346" length="6"/>
+        <text>Cry2Aa</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1357" length="6"/>
+        <text>Cry1Ca</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">MESH:D064420</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1364" length="8"/>
+        <text>toxicity</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">168631</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1376" length="15"/>
+        <text>C. suppressalis</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

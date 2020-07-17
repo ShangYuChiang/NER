@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30977704</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>The histone deacetylase NlHDAC1 regulates both female and male fertility in the brown planthopper, Nilaparvata lugens.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="4" length="19"/>
+        <text>histone deacetylase</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="24" length="7"/>
+        <text>NlHDAC1</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="80" length="17"/>
+        <text>brown planthopper</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="99" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>119</offset>
+      <text>Histone acetylation is a specific type of chromatin modification that serves as a key regulatory mechanism for many cellular processes in mammals. However, little is known about its biological function in invertebrates. Here, we identified 12 members of histone deacetylases (NlHDACs) in the brown planthopper (BPH), Nilaparvata lugens. RNAi-mediated silencing assay showed that NlHdac1, NlHdac3 and NlHdac4 played critical roles in female fertility via regulating ovary maturation or ovipositor development. Silencing of NlHdac1 substantially increased acetylation level of histones H3 and H4 in ovaries, indicating NlHDAC1 is the main histone deacetylase in ovaries of BPH. RNA sequencing (RNA-seq) analysis showed that knockdown of NlHdac1 impaired ovary development via multiple signalling pathways including the TOR pathway. Acoustic recording showed that males with NlHdac1 knockdown failed to make courtship songs, and thus were unacceptable to wild-type females, resulting in unfertilized eggs. Competition mating assay showed that wild-type females overwhelmingly preferred to mate with control males over NlHdac1-knockdown males. These findings improve our understanding of reproductive strategies controlled by HDACs in insects and provide a potential target for pest control.</text>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="373" length="20"/>
+        <text>histone deacetylases</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T20:26:15Z</infon>
+        <location offset="395" length="6"/>
+        <text>NlHDAC</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="411" length="17"/>
+        <text>brown planthopper</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="436" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="498" length="7"/>
+        <text>NlHdac1</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="507" length="7"/>
+        <text>NlHdac3</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="519" length="7"/>
+        <text>NlHdac4</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="641" length="7"/>
+        <text>NlHdac1</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T20:26:43Z</infon>
+        <location offset="703" length="2"/>
+        <text>H3</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T20:26:50Z</infon>
+        <location offset="710" length="2"/>
+        <text>H4</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:D010051</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="716" length="7"/>
+        <text>ovaries</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="736" length="7"/>
+        <text>NlHDAC1</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="756" length="19"/>
+        <text>histone deacetylase</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">MESH:D010051</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="779" length="7"/>
+        <text>ovaries</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="854" length="7"/>
+        <text>NlHdac1</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">MESH:D010051</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="862" length="14"/>
+        <text>impaired ovary</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="991" length="7"/>
+        <text>NlHdac1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1234" length="7"/>
+        <text>NlHdac1</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T20:26:06Z</infon>
+        <location offset="1341" length="4"/>
+        <text>HDAC</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

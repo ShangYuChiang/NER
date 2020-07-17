@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29107231</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Influence of the RDL A301S mutation in the brown planthopper Nilaparvata lugens on the activity of phenylpyrazole insecticides.</text>
+      <annotation id="1">
+        <infon key="identifier">p.A301S</infon>
+        <infon key="type">Mutation</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="21" length="5"/>
+        <text>A301S</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="61" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">MESH:C457899</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="99" length="14"/>
+        <text>phenylpyrazole</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>128</offset>
+      <text>We discovered the A301S mutation in the RDL GABA-gated chloride channel of fiprole resistant rice brown planthopper, Nilaparvata lugens populations by DNA sequencing and SNP calling via RNASeq. Ethiprole selection of two field N. lugens populations resulted in strong resistance to both ethiprole and fipronil and resulted in fixation of the A301S mutation, as well as the emergence of another mutation, Q359E in one of the selected strains. To analyse the roles of these mutations in resistance to phenylpyrazoles, three Rdl constructs: wild type, A301S and A301S+Q359E were expressed in Xenopus laevis oocytes and assessed for their sensitivity to ethiprole and fipronil using two-electrode voltage-clamp electrophysiology. Neither of the mutant Rdl subtypes significantly reduced the antagonistic action of fipronil, however there was a significant reduction in response to ethiprole in the two mutated subtypes compared with the wild type. Bioassays with a Drosophila melanogaster strain carrying the A301S mutation showed strong resistance to ethiprole but not fipronil compared to a strain without this mutation, thus further supporting a causal role for the A301S mutation in resistance to ethiprole. Homology modelling of the N. lugens RDL channel did not suggest implications of Q359E for fiprole binding in contrast to A301S located in transmembrane domain M2 forming the channel pore. Synergist bioassays provided no evidence of a role for cytochrome P450s in N. lugens resistance to fipronil and the molecular basis of resistance to this compound remains unknown. In summary this study provides strong evidence that target-site resistance underlies widespread ethiprole resistance in N. lugens populations.</text>
+      <annotation id="5">
+        <infon key="identifier">p.A301S</infon>
+        <infon key="type">Mutation</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="146" length="5"/>
+        <text>A301S</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="168" length="31"/>
+        <text>RDL GABA-gated chloride channel</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="245" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:C472185</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="322" length="9"/>
+        <text>Ethiprole</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="355" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">MESH:C472185</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="415" length="9"/>
+        <text>ethiprole</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">MESH:C082360</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="429" length="8"/>
+        <text>fipronil</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">p.A301S</infon>
+        <infon key="type">Mutation</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="470" length="5"/>
+        <text>A301S</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">p.Q359E</infon>
+        <infon key="type">Mutation</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="532" length="5"/>
+        <text>Q359E</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">MESH:C457899</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="627" length="15"/>
+        <text>phenylpyrazoles</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">p.A301S</infon>
+        <infon key="type">Mutation</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="677" length="5"/>
+        <text>A301S</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">p.A301S</infon>
+        <infon key="type">Mutation</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="687" length="5"/>
+        <text>A301S</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">p.Q359E</infon>
+        <infon key="type">Mutation</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="693" length="5"/>
+        <text>Q359E</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">8355</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="717" length="14"/>
+        <text>Xenopus laevis</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:C472185</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="778" length="9"/>
+        <text>ethiprole</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">MESH:C082360</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="792" length="8"/>
+        <text>fipronil</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">MESH:C082360</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="938" length="8"/>
+        <text>fipronil</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">MESH:C472185</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1005" length="9"/>
+        <text>ethiprole</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1089" length="23"/>
+        <text>Drosophila melanogaster</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">p.A301S</infon>
+        <infon key="type">Mutation</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1133" length="5"/>
+        <text>A301S</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">MESH:C472185</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1176" length="9"/>
+        <text>ethiprole</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">MESH:C082360</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1194" length="8"/>
+        <text>fipronil</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">p.A301S</infon>
+        <infon key="type">Mutation</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1293" length="5"/>
+        <text>A301S</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">MESH:C472185</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1325" length="9"/>
+        <text>ethiprole</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1362" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">p.Q359E</infon>
+        <infon key="type">Mutation</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1416" length="5"/>
+        <text>Q359E</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">p.A301S</infon>
+        <infon key="type">Mutation</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1457" length="5"/>
+        <text>A301S</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:13:33Z</infon>
+        <location offset="1579" length="15"/>
+        <text>cytochrome P450</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1599" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">MESH:C082360</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1623" length="8"/>
+        <text>fipronil</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier">MESH:C472185</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1800" length="9"/>
+        <text>ethiprole</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1824" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

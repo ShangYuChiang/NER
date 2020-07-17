@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>28945006</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>MicroRNA Let-7 targets the ecdysone signaling pathway E75 gene to control larval-pupal development in Bactrocera dorsalis.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="9" length="5"/>
+        <text>Let-7</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">MESH:D004440</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="27" length="8"/>
+        <text>ecdysone</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:36:38Z</infon>
+        <location offset="54" length="3"/>
+        <text>E75</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="102" length="19"/>
+        <text>Bactrocera dorsalis</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>123</offset>
+      <text>MicroRNAs (miRNAs) regulate various biological processes during insect development; however, their role in larval-pupal development in oriental fruit fly, Bactrocera dorsalis (Hendel) remains unknown. In the current study, we address the biological function of a conserved miRNA, Bdo-Let-7 in the regulation of BdE75 gene, which belongs to the ecdysone signaling pathway and participates in the larval-pupal development in B. dorsalis. Using dual luciferase reporter assay in HEK293T cells we show that Bdo-Let-7 miRNA interacts with the 3  untranslated region of BdE75 gene and suppresses its expression. The Bdo-Let-7 and BdE75 are also co-expressed in the larval-pupal stages and in different tissues of B. dorsalis. In in vivo experiments, the injection of Bdo-Let-7 agomir and antagomir in third instar larvae down- and up-regulated the expression of BdE75, respectively. The 20-hydroxyecdysone (20E) injection assay shows that 20E up-regulated the expression of Bdo-Let-7 on the 5th day of the larvae. Moreover, abnormal pupation and eclosion were observed after larval Bdo-Let-7 antagomir injection. Based on these results, we show that Bdo-Let-7 regulates the ecdysone signaling pathway through the exact dose of BdE75 gene, and is indispensable for normal larval-pupal development in B. dorsalis.</text>
+      <annotation id="5">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="278" length="19"/>
+        <text>Bactrocera dorsalis</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:36:49Z</infon>
+        <location offset="403" length="9"/>
+        <text>Bdo-Let-7</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="434" length="5"/>
+        <text>BdE75</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">MESH:D004440</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="467" length="8"/>
+        <text>ecdysone</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="546" length="11"/>
+        <text>B. dorsalis</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:36:56Z</infon>
+        <location offset="626" length="9"/>
+        <text>Bdo-Let-7</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="687" length="5"/>
+        <text>BdE75</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:37:05Z</infon>
+        <location offset="733" length="9"/>
+        <text>Bdo-Let-7</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="747" length="5"/>
+        <text>BdE75</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="830" length="11"/>
+        <text>B. dorsalis</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:37:13Z</infon>
+        <location offset="884" length="9"/>
+        <text>Bdo-Let-7</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="979" length="5"/>
+        <text>BdE75</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">MESH:D004441</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1004" length="18"/>
+        <text>20-hydroxyecdysone</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:37:24Z</infon>
+        <location offset="1091" length="9"/>
+        <text>Bdo-Let-7</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:37:31Z</infon>
+        <location offset="1199" length="9"/>
+        <text>Bdo-Let-7</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:37:38Z</infon>
+        <location offset="1267" length="9"/>
+        <text>Bdo-Let-7</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:D004440</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1291" length="8"/>
+        <text>ecdysone</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1344" length="5"/>
+        <text>BdE75</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1416" length="11"/>
+        <text>B. dorsalis</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

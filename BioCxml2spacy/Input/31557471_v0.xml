@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31557471</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Hh signaling from de novo organizers drive lgl neoplasia in Drosophila epithelium.</text>
+      <annotation id="1">
+        <infon key="identifier">42737</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="2"/>
+        <text>Hh</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">43791</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="43" length="3"/>
+        <text>lgl</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">MESH:D009369</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="47" length="9"/>
+        <text>neoplasia</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="60" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>83</offset>
+      <text>The Hedgehog (Hh) morphogen regulates growth and patterning. Since Hh signaling is also implicated in carcinogenesis, it is conceivable that de novo Hh-secreting organizers, if formed in association with oncogenic hit could be tumor-cooperative. Here we validate this hypothesis using the Drosophila model of cooperative epithelial carcinogenesis. We generate somatic clones with simultaneous loss of tumor suppressor, Lgl, and gain of the posterior compartment selector, Engrailed (En), known to induce synthesis of Hh. We show that lgl UAS-en clones in the anterior wing compartment trigger Hh signaling cascade via cross-talk with their Ci-expressing wild type cell neighbors. Hh-Dpp signaling from clone boundaries of such ectopically formed de novo organizers in turn drive lgl carcinogenesis. By contrast, Ci-expressing lgl clones transform by autocrine and/or juxtracine activation of Hh signaling in only the posterior compartment. We further show that sequestration of the Hh ligand or loss of Dpp receptor, Tkv, in these Hh-sending or -receiving lgl clones arrested their carcinogenesis. Our results therefore reveal a hitherto unrecognized mechanism of tumor cooperation by developmental organizers, which are induced fortuitously by oncogenic hits.</text>
+      <annotation id="5">
+        <infon key="identifier">42737</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="87" length="8"/>
+        <text>Hedgehog</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">42737</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="97" length="2"/>
+        <text>Hh</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">42737</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="150" length="2"/>
+        <text>Hh</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">MESH:D063646</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="185" length="14"/>
+        <text>carcinogenesis</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">42737</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="232" length="2"/>
+        <text>Hh</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:D009369</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="310" length="5"/>
+        <text>tumor</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T03:05:46Z</infon>
+        <location offset="372" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">MESH:D063646</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="415" length="14"/>
+        <text>carcinogenesis</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">MESH:D009369</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="484" length="5"/>
+        <text>tumor</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">43791</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="502" length="3"/>
+        <text>Lgl</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">36240</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="555" length="9"/>
+        <text>Engrailed</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="566" length="2"/>
+        <text>En</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">42737</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="600" length="2"/>
+        <text>Hh</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">43791</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="617" length="3"/>
+        <text>lgl</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="625" length="2"/>
+        <text>en</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">42737</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="676" length="2"/>
+        <text>Hh</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">42737</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="763" length="2"/>
+        <text>Hh</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">43791</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="862" length="3"/>
+        <text>lgl</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">MESH:D063646</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="866" length="14"/>
+        <text>carcinogenesis</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">43791</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="909" length="3"/>
+        <text>lgl</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">42737</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="975" length="2"/>
+        <text>Hh</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">42737</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1065" length="2"/>
+        <text>Hh</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">33753</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1086" length="12"/>
+        <text>Dpp receptor</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">33753</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1100" length="3"/>
+        <text>Tkv</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">42737</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1114" length="2"/>
+        <text>Hh</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">43791</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1139" length="3"/>
+        <text>lgl</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">MESH:D063646</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1165" length="14"/>
+        <text>carcinogenesis</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">MESH:D009369</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1247" length="5"/>
+        <text>tumor</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

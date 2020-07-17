@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30734475</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Molecular features and expression profiles of octopamine receptors in the brown planthopper, Nilaparvata lugens.</text>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:31:35Z</infon>
+        <location offset="46" length="19"/>
+        <text>octopamine receptor</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="93" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>113</offset>
+      <text>BACKGROUND: Octopamine, the invertebrate counterpart of adrenaline and noradrenaline, regulates and modulates many physiological and behavioral processes in insects. It mediates its effects by binding to specific octopamine receptors, which belong to the superfamily of G-protein coupled receptors (GPCRs). The expression profiles of octopamine receptor genes have been well documented in different developmental stages and multiple tissue types in several different insect orders. However, little work has addressed this issue in Hemiptera. RESULTS: In this study, we cloned four octopamine receptor genes from brown planthopper. The deduced amino acid sequences share high identity with other insect homologues and have the characteristic GPCRs domain architecture: seven transmembrane domains. These genes were expressed in all developmental stages and examined tissues. The expression of NlOA2B3 and NlOA3 was relatively higher in egg and first instar nymph stage than in other stages and other receptor genes. All of these receptor genes were more highly expressed in brain than other tissues. CONCLUSION: The identification of octopamine receptor genes in this study will provide a foundation for investigating the diverse roles played by NlOARs and for exploring specific target sites for chemicals that control agricultural pests.  2019 Society of Chemical Industry.</text>
+      <annotation id="5">
+        <infon key="identifier">MESH:D004837</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="169" length="10"/>
+        <text>adrenaline</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">MESH:D009638</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="184" length="13"/>
+        <text>noradrenaline</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:32:02Z</infon>
+        <location offset="326" length="19"/>
+        <text>octopamine receptor</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:31:49Z</infon>
+        <location offset="383" length="26"/>
+        <text>G-protein coupled receptor</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:31:51Z</infon>
+        <location offset="412" length="4"/>
+        <text>GPCR</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="447" length="19"/>
+        <text>octopamine receptor</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="694" length="19"/>
+        <text>octopamine receptor</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="725" length="17"/>
+        <text>brown planthopper</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:32:16Z</infon>
+        <location offset="854" length="4"/>
+        <text>GPCR</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1005" length="7"/>
+        <text>NlOA2B3</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1017" length="5"/>
+        <text>NlOA3</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1246" length="19"/>
+        <text>octopamine receptor</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T20:32:33Z</infon>
+        <location offset="1358" length="5"/>
+        <text>NlOAR</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

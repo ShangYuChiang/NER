@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31185651</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>RNAi-Mediated Knockdown of Tssk1 and Tektin1 Genes Impair Male Fertility in Bactrocera dorsalis.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="27" length="5"/>
+        <text>Tssk1</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">105224792</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="37" length="7"/>
+        <text>Tektin1</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="76" length="19"/>
+        <text>Bactrocera dorsalis</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>97</offset>
+      <text>The genetic-based sterile insect technique (SIT) is an effective and environmentally safe strategy to diminish populations of agricultural and horticultural insect pests. Functional characterization of genes related to male fertility can enhance the genetic-based SIT. Tssk1 has been involved to control male fertility in both mammals and insects. Moreover, Tektin1 has also been revealed to influence male fertility in both human and mammals. These findings suggested that Tssk1 and Tektin1 identified from Bactrocera dorsalis could be required for male fertility in B. dorsalis. In this study, expression profiles of these two genes were studied at different developmental stages and in various tissues of adult males. Remarkably, it was found that Tssk1 and Tektin1 were highly expressed in the testis of mature adult males of B. dorsalis. Furthermore, Tssk1 and Tektin1 genes were downregulated by using the RNA interference (RNAi) method. Fertility assays including egg laying, hatching, and spermatozoa count were also performed to investigate male fertility of B. dorsalis. Results showed that knockdown of Tssk1 and Tektin1 caused male sterility up to 58.99% and 64.49%, respectively. As expected, the total numbers of spermatozoa were also significantly reduced by 65.83% and 73.9%, respectively. These results suggested that male sterility was happened wing to the low number of spermatozoa. In conclusion, we demonstrate that Tssk1 and Tektin1 are the novel agents that could be used to enhance the genetic-based SIT, or their double-stranded RNA (dsRNA) can be used as biopesticides to control the population of B. dorsalis.</text>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="366" length="5"/>
+        <text>Tssk1</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">83659</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="455" length="7"/>
+        <text>Tektin1</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="571" length="5"/>
+        <text>Tssk1</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">105224792</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="581" length="7"/>
+        <text>Tektin1</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="605" length="19"/>
+        <text>Bactrocera dorsalis</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="665" length="11"/>
+        <text>B. dorsalis</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="848" length="5"/>
+        <text>Tssk1</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">105224792</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="858" length="7"/>
+        <text>Tektin1</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="927" length="11"/>
+        <text>B. dorsalis</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="953" length="5"/>
+        <text>Tssk1</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">105224792</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="963" length="7"/>
+        <text>Tektin1</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1165" length="11"/>
+        <text>B. dorsalis</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1211" length="5"/>
+        <text>Tssk1</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">105224792</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1221" length="7"/>
+        <text>Tektin1</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1534" length="5"/>
+        <text>Tssk1</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">105224792</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1544" length="7"/>
+        <text>Tektin1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1721" length="11"/>
+        <text>B. dorsalis</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

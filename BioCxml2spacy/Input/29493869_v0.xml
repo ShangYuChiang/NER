@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29493869</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Host-mediated RNA interference targeting a cuticular protein gene impaired fecundity in the green peach aphid Myzus persicae.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="43" length="17"/>
+        <text>cuticular protein</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:45:51Z</infon>
+        <location offset="110" length="14"/>
+        <text>Myzus persicae</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>126</offset>
+      <text>BACKGROUND: The green peach aphid (Myzus persicae) is a devastating sap-sucking insect pest that damages many host plants worldwide and causes billions of dollars of crop losses. Induction of RNA interference (RNAi) through oral feeding of small interfering RNA (siRNA) has been demonstrated in aphids. Therefore, host-mediated delivery of double-stranded RNA (dsRNA) specific to vital structural genes of aphids has been envisaged as a tool for the development of resistance against this aphid species. RESULTS: Cuticular protein (CP) senses seasonal photoperiodism and drives a shift from clonal to sexual generation in aphids. Thus, attenuation of CP gene expression is likely to result in a different reproductive orientation in aphids and thereby affect their fecundity. A gene encoding CP in M. persicae has been targeted for RNAi-mediated knockdown. Transgenic Arabidopsis expressing dsRNA homologous to the MyCP gene was developed. The dsRNA-transgenics produced gene-specific siRNAs fed by aphids infesting the transgenics. A reverse transcription-quantitative polymerase chain reaction (RT-qPCR) study revealed an attenuated level of transcripts of the CP gene in aphid nymphs reared on the transgenic plants. Decreased expression of the CP gene resulted in a noticeable decline in aphid fecundity on the transgenic Arabidopsis plants. CONCLUSION: Increasing genetic resistance is the only sustainable way of minimizing the use of toxic agrochemicals to protect plants. Host-mediated RNAi of important insect genes has been proposed as a potential avenue for developing crop resistance against insect pests. This study demonstrated the potential of MyCP dsRNA in developing RNAi-based resistance to M. persicae. RNAi-mediated resistance is expected to be more durable compared with other transgenic strategies.  2018 Society of Chemical Industry.</text>
+      <annotation id="3">
+        <infon key="identifier">13164</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="161" length="14"/>
+        <text>Myzus persicae</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="639" length="17"/>
+        <text>Cuticular protein</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="658" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">D016574</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="669" length="23"/>
+        <text>seasonal photoperiodism</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="777" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="918" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">13164</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="924" length="11"/>
+        <text>M. persicae</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">3702</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="994" length="11"/>
+        <text>Arabidopsis</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1041" length="4"/>
+        <text>MyCP</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1289" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1374" length="2"/>
+        <text>CP</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">3702</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1452" length="11"/>
+        <text>Arabidopsis</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1785" length="4"/>
+        <text>MyCP</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">13164</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1835" length="11"/>
+        <text>M. persicae</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

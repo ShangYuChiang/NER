@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>20420910</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Study of the aminopeptidase N gene family in the lepidopterans Ostrinia nubilalis (H bner) and Bombyx mori (L.): sequences, mapping and expression.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="13" length="16"/>
+        <text>aminopeptidase N</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">29057</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="63" length="18"/>
+        <text>Ostrinia nubilalis</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="95" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>148</offset>
+      <text>Aminopeptidases N (APNs) are a class of ectoenzymes present in lepidopteran larvae midguts, involved in the Bacillus thuringiensis (Bt) toxins mode of action. In the present work, seven aminopeptidases have been cloned from the midgut of Ostrinia nubilalis, the major Lepidopteran corn pest in the temperate climates. Six sequences were identified as APNs because of the presence of the HEXXH(X)18E and GAMEN motifs, as well as the signal peptide and the GPI-anchor sequences. The remaining sequence did not contain the two cellular targeting signals, indicating it belonged to the puromycin-sensitive aminopeptidase (PSA) family. An in silico analysis allowed us to find orthologous sequences in Bombyx mori. A phylogenetic study of lepidopteran aminopeptidase sequences resulted in their clustering into nine classes. Linkage analysis revealed that the onapn genes as well as all bmapn genes clustered in a single linkage group. O. nubilalis aminopeptidases were expressed in all larval instars. In 5th instar larvae tissues, apns transcripts were found mainly in midguts while apn8 was also highly expressed in Malpighian tubules, and psa showed an ubiquitous expression pattern in O. nubilalis and B. mori. The sequence homology and gene organization of apns suggest a single origin from an ancestral lepidopteran apn gene.</text>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:05:38Z</infon>
+        <location offset="167" length="3"/>
+        <text>APN</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">1428</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="256" length="22"/>
+        <text>Bacillus thuringiensis</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:06:35Z</infon>
+        <location offset="334" length="14"/>
+        <text>aminopeptidase</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">29057</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="386" length="18"/>
+        <text>Ostrinia nubilalis</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">381124</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="429" length="4"/>
+        <text>corn</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:05:51Z</infon>
+        <location offset="499" length="3"/>
+        <text>APN</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:06:02Z</infon>
+        <location offset="730" length="34"/>
+        <text>puromycin-sensitive aminopeptidase</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:06:04Z</infon>
+        <location offset="766" length="3"/>
+        <text>PSA</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="845" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:06:40Z</infon>
+        <location offset="895" length="14"/>
+        <text>aminopeptidase</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:07:05Z</infon>
+        <location offset="1003" length="5"/>
+        <text>onapn</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">29057</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1079" length="12"/>
+        <text>O. nubilalis</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:06:44Z</infon>
+        <location offset="1092" length="14"/>
+        <text>aminopeptidase</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:06:56Z</infon>
+        <location offset="1176" length="3"/>
+        <text>apn</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:06:49Z</infon>
+        <location offset="1228" length="4"/>
+        <text>apn8</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">29057</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1333" length="12"/>
+        <text>O. nubilalis</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1350" length="7"/>
+        <text>B. mori</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:06:55Z</infon>
+        <location offset="1406" length="3"/>
+        <text>apn</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29203177</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Characterisation, analysis of expression and localisation of the opsin gene repertoire from the perspective of photoperiodism in the aphid Acyrthosiphon pisum.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="65" length="5"/>
+        <text>opsin</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="139" length="19"/>
+        <text>Acyrthosiphon pisum</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>160</offset>
+      <text>Organisms exhibit a wide range of seasonal responses as adaptions to predictable annual changes in their environment. These changes are originally caused by the effect of the Earth s cycles around the sun and its axial tilt. Examples of seasonal responses include floration, migration, reproduction and diapause. In temperate climate zones, the most robust variable to predict seasons is the length of the day (i.e. the photoperiod). The first step to trigger photoperiodic driven responses involves measuring the duration of the light-dark phases, but the molecular clockwork performing this task is poorly characterized. Photopigments such as opsins are known to participate in light perception, being part of the machinery in charge of providing information about the luminous state of the surroundings. Aphids (Hemiptera: Aphididae) are paradigmatic photoperiodic insects, exhibiting a strong induction to diapause when the light regime mimics autumn conditions. The availability of the pea aphid (Acyrthosiphon pisum) genome has facilitated molecular approaches to understand the effect of light stimulus in the photoperiodic induction process. We have identified, experimentally validated and characterized the expression of the full opsin gene repertoire in the pea aphid. Among identified opsin genes in A. pisum, arthropsin is absent in most insects sequenced to date (except for dragonflies and two other hemipterans) but also present in a crustacean, an onychophoran and chelicerates. We have quantified the expression of these genes in aphids exposed to different photoperiodic conditions and at different times of the day and localized their transcripts in the aphid brain. Clear differences in expression patterns were found, thus relating opsin expression with the photoperiodic response.</text>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:07:29Z</infon>
+        <location offset="805" length="5"/>
+        <text>opsin</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">7029</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1162" length="19"/>
+        <text>Acyrthosiphon pisum</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1400" length="5"/>
+        <text>opsin</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1457" length="5"/>
+        <text>opsin</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">7029</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1472" length="8"/>
+        <text>A. pisum</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1482" length="10"/>
+        <text>arthropsin</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1914" length="5"/>
+        <text>opsin</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31026465</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>The regulation of crecropin-A and gloverin 2 by the silkworm Toll-like gene 18 wheeler in immune response.</text>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:58:18Z</infon>
+        <location offset="18" length="11"/>
+        <text>crecropin-A</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="identifier">692527</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="34" length="10"/>
+        <text>gloverin 2</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="52" length="8"/>
+        <text>silkworm</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="76" length="10"/>
+        <text>18 wheeler</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>107</offset>
+      <text>The innate immune system is conserved among different insect species in its response to microorganism infection. The transmembrane receptors of the Toll superfamily play an important role in activating immune response, however, the function of silkworm Toll family member 18 Wheeler (18 W) remained unclear. Here, the 18w gene in silkworm was characterized. A relatively high transcription level of Bm18w mRNA was found in Malpighian tubules, and in eggs, larvae pre-molt to fourth instar, pupae and adults. When silkworm larvae were infected with E. coli or S. aureus, Bm18w showed a significant response, especially to E. coli, but did not have antibacterial activity. To further identify the downstream antimicrobial peptide genes of Bm18w, expression of Bm18w was knocked down with siRNA in vitro, resulting in significant decreases of cecropin-A, gloverin 2, and moricin B3. The overexpression of Bm18w was carried out using pIZT/V5-His-mCherry insect vector in BmN cells and significant upregulation of cecropin-A and gloverin 2 was detected, as well as upregulation of attacin and defensin. Based on the results, we concluded that Bm18w is involved in response to bacterial infection by selectively inducing the expression of antimicrobial peptide genes, especially cecropin-A and gloverin 2. This study provides valuable data to supplement understanding of the immune pathway of the silkworm.</text>
+      <annotation id="4">
+        <infon key="identifier">MESH:D007239</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="209" length="9"/>
+        <text>infection</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="351" length="8"/>
+        <text>silkworm</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="379" length="10"/>
+        <text>18 Wheeler</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="391" length="4"/>
+        <text>18 W</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="425" length="3"/>
+        <text>18w</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="437" length="8"/>
+        <text>silkworm</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">100144599</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="506" length="5"/>
+        <text>Bm18w</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="620" length="8"/>
+        <text>silkworm</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">562</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="655" length="7"/>
+        <text>E. coli</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">1280</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="666" length="9"/>
+        <text>S. aureus</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">100144599</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="677" length="5"/>
+        <text>Bm18w</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">562</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="728" length="7"/>
+        <text>E. coli</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">100144599</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="844" length="5"/>
+        <text>Bm18w</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">100144599</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="865" length="5"/>
+        <text>Bm18w</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">101743336</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="947" length="10"/>
+        <text>cecropin-A</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">692527</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="959" length="10"/>
+        <text>gloverin 2</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">100144599</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1009" length="5"/>
+        <text>Bm18w</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">101743336</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1116" length="10"/>
+        <text>cecropin-A</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">692527</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1131" length="10"/>
+        <text>gloverin 2</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">692555</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1183" length="7"/>
+        <text>attacin</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">692778</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1195" length="8"/>
+        <text>defensin</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">100144599</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1245" length="5"/>
+        <text>Bm18w</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">MESH:D001424</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1278" length="19"/>
+        <text>bacterial infection</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">101743336</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1380" length="10"/>
+        <text>cecropin-A</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">692527</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1395" length="10"/>
+        <text>gloverin 2</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1498" length="8"/>
+        <text>silkworm</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

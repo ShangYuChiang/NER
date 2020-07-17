@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30610767</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Two delta class glutathione S-transferases involved in the detoxification of malathion in Bactrocera dorsalis (Hendel).</text>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:10:08Z</infon>
+        <location offset="16" length="25"/>
+        <text>glutathione S-transferase</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">MESH:D008294</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="77" length="9"/>
+        <text>malathion</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="90" length="19"/>
+        <text>Bactrocera dorsalis</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>120</offset>
+      <text>BACKGROUND: The oriental fruit fly Bactrocera dorsalis (Hendel), a widespread agricultural pest, has evolved resistance to many insecticides, including organophosphorus compounds. Glutathione S-transferases (GSTs) are involved in xenobiotic detoxification and insecticide resistance in many insects. However, the role of delta class GSTs in detoxifying malathion in B. dorsalis is unknown. Here, we evaluated the roles of two delta class GSTs in malathion detoxification in this species. RESULTS: Two delta class GSTs genes, BdGSTd1 and BdGSTd10, were characterized in B. dorsalis. They were highly expressed in 5-day-old adults, as well as in midgut and Malpighian tubules. Upon malathion exposure, the two genes were upregulated by 2.63- and 2.85-fold, respectively. Injection of double-stranded RNA targeting BdGSTd1 or BdGSTd10 significantly reduced their mRNA levels in adults and also significantly increased adult susceptibility to malathion. The expression of these two GSTs in Escherichia coli helped the host to endure malathion stress at a concentration of 10  g  mL-1 according to a Cell Counting Kit-8 assay. High-performance liquid chromatography analyses indicated that malathion could be significantly depleted by the two delta GSTs. The role of BdGSTd10 in malathion sequestration was also discussed. CONCLUSION: BdGSTd1 and BdGSTd10 play important roles in the detoxification of malathion in B. dorsalis.  2019 Society of Chemical Industry.</text>
+      <annotation id="4">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="136" length="18"/>
+        <text>oriental fruit fly</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="155" length="19"/>
+        <text>Bactrocera dorsalis</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">MESH:D010755</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="272" length="16"/>
+        <text>organophosphorus</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:10:11Z</infon>
+        <location offset="300" length="25"/>
+        <text>Glutathione S-transferase</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:10:13Z</infon>
+        <location offset="328" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:10:15Z</infon>
+        <location offset="453" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:D008294</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="473" length="9"/>
+        <text>malathion</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="486" length="11"/>
+        <text>B. dorsalis</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:10:16Z</infon>
+        <location offset="558" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">MESH:D008294</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="566" length="9"/>
+        <text>malathion</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:10:18Z</infon>
+        <location offset="633" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:10:19Z</infon>
+        <location offset="645" length="7"/>
+        <text>BdGSTd1</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:10:20Z</infon>
+        <location offset="657" length="8"/>
+        <text>BdGSTd10</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="689" length="11"/>
+        <text>B. dorsalis</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">MESH:D008294</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="800" length="9"/>
+        <text>malathion</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:10:22Z</infon>
+        <location offset="932" length="7"/>
+        <text>BdGSTd1</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:10:23Z</infon>
+        <location offset="943" length="8"/>
+        <text>BdGSTd10</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:D008294</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1059" length="9"/>
+        <text>malathion</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:10:26Z</infon>
+        <location offset="1098" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">562</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1106" length="16"/>
+        <text>Escherichia coli</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">MESH:D054549</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1149" length="16"/>
+        <text>malathion stress</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">MESH:D008294</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1305" length="9"/>
+        <text>malathion</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:10:30Z</infon>
+        <location offset="1364" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:10:32Z</infon>
+        <location offset="1382" length="8"/>
+        <text>BdGSTd10</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">MESH:D008294</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1394" length="9"/>
+        <text>malathion</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:10:33Z</infon>
+        <location offset="1450" length="7"/>
+        <text>BdGSTd1</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:10:34Z</infon>
+        <location offset="1462" length="8"/>
+        <text>BdGSTd10</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">MESH:D008294</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1517" length="9"/>
+        <text>malathion</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1530" length="11"/>
+        <text>B. dorsalis</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30871993</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Characterization of the novel role of NinaB orthologs from Bombyx mori and Tribolium castaneum.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="38" length="5"/>
+        <text>NinaB</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="59" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="75" length="19"/>
+        <text>Tribolium castaneum</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>96</offset>
+      <text>Carotenoids can be enzymatically converted to apocarotenoids by carotenoid cleavage dioxygenases. Insect genomes encode only one member of this ancestral enzyme family. We cloned and characterized the ninaB genes from the silk worm (Bombyx mori) and the flour beetle (Tribolium castaneum). We expressed BmNinaB and TcNinaB in E. coli and analyzed their biochemical properties. Both enzymes catalyzed a conversion of carotenoids into cis-retinoids. The enzymes catalyzed a combined trans to cis isomerization at the C11, C12 double bond and oxidative cleavage reaction at the C15, C15  bond of the carotenoid carbon backbone. Analyses of the spatial and temporal expression patterns revealed that ninaB genes were differentially expressed during the beetle and moth life cycles with high expression in reproductive organs. In Bombyx mori, ninaB was almost exclusively expressed in female reproductive organs of the pupa and adult. In Tribolium castaneum, low expression was found in reproductive organs of females but high expressions in male reproductive organs of the pupa and imagoes. We performed RNAi experiments to characterize the role of NinaB in insect reproduction. We observed that RNAi treatment significantly decreased the expression levels of BmninaB and TcninaB and reduced the egg laying capacity of both insects. Together, our study revealed that NinaB s unique enzymatic properties are well conserved among insects and implicate NinaB function in insect reproduction.</text>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T18:32:46Z</infon>
+        <location offset="160" length="31"/>
+        <text>carotenoid cleavage dioxygenase</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="297" length="5"/>
+        <text>ninaB</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="329" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="364" length="19"/>
+        <text>Tribolium castaneum</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="399" length="7"/>
+        <text>BmNinaB</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="411" length="7"/>
+        <text>TcNinaB</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">562</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="422" length="7"/>
+        <text>E. coli</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:D012176</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="529" length="13"/>
+        <text>cis-retinoids</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">MESH:C057499</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="616" length="3"/>
+        <text>C12</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">MESH:C003946</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="671" length="3"/>
+        <text>C15</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">MESH:C003946</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="676" length="3"/>
+        <text>C15</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:D002244</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="704" length="6"/>
+        <text>carbon</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="792" length="5"/>
+        <text>ninaB</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="921" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="934" length="5"/>
+        <text>ninaB</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">7070</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1029" length="19"/>
+        <text>Tribolium castaneum</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1241" length="5"/>
+        <text>NinaB</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1352" length="7"/>
+        <text>BmninaB</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1364" length="7"/>
+        <text>TcninaB</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1459" length="5"/>
+        <text>NinaB</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1542" length="5"/>
+        <text>NinaB</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

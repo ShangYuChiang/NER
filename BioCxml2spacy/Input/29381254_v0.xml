@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29381254</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Double-stranded RNA targeting calmodulin reveals a potential target for pest management of Nilaparvata lugens.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="30" length="10"/>
+        <text>calmodulin</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="91" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>111</offset>
+      <text>BACKGROUND: Calmodulin (CaM) is an essential protein in cellular activity and plays important roles in many processes in insect development. RNA interference (RNAi) has been hypothesized to be a promising method for pest control. CaM is a good candidate for RNAi target. However, the sequence and function of CaM in Nilaparvata lugens are unknown. Furthermore, the double-stranded RNA (dsRNA) target to CaM gene in pest control is still unavailable. RESULTS: In the present study, two alternatively spliced variants of CaM transcripts, designated NlCaM1 and NlCaM2, were cloned from N. lugens. The two cDNA sequences exhibited 100% identity to each other in the open reading frame (ORF), and only differed in the 3  untranslated region (UTR). NlCaM including NlCaM1 and NlCaM2 mRNA was detectable in all developmental stages and tissues of N. lugens, with significantly increased expression in the salivary glands. Knockdown of NlCaM expression by RNAi with different dsRNAs led to an inability to molt properly, increased mortality, which ranged from 49.7 to 92.5%, impacted development of the ovaries and led to female infertility. There were no significant reductions in the transcript levels of vitellogenin and its receptor or in the total vitellogenin protein level relative to the control group. However, a significant reduction in vitellogenin protein was detected in ovaries injected with dsNlCaM. In addition, a specific dsRNA of NlCaM for control of N. lugens was designed and tested. CONCLUSION: NlCaM plays important roles mainly in nymph development and uptake of vitellogenin by ovaries in vitellogenesis in N. lugens. dsRNA derived from the less conserved 3 -UTR of NlCaM shows great potential for RNAi-based N. lugens management.  2018 Society of Chemical Industry.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="123" length="10"/>
+        <text>Calmodulin</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="135" length="3"/>
+        <text>CaM</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="341" length="3"/>
+        <text>CaM</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="420" length="3"/>
+        <text>CaM</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="427" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="514" length="3"/>
+        <text>CaM</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="630" length="3"/>
+        <text>CaM</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="658" length="6"/>
+        <text>NlCaM1</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="669" length="6"/>
+        <text>NlCaM2</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="694" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="854" length="5"/>
+        <text>NlCaM</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="870" length="6"/>
+        <text>NlCaM1</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="881" length="6"/>
+        <text>NlCaM2</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="951" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1039" length="5"/>
+        <text>NlCaM</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">MESH:D010051</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1206" length="7"/>
+        <text>ovaries</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">MESH:D007246</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1232" length="11"/>
+        <text>infertility</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">MESH:D010051</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1487" length="7"/>
+        <text>ovaries</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1551" length="5"/>
+        <text>NlCaM</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1572" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1619" length="5"/>
+        <text>NlCaM</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">MESH:D010051</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1705" length="7"/>
+        <text>ovaries</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1734" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1793" length="5"/>
+        <text>NlCaM</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1836" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

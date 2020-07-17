@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30182401</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Tudor knockdown disrupts ovary development in Bactrocera dorsalis.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="5"/>
+        <text>Tudor</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="46" length="19"/>
+        <text>Bactrocera dorsalis</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>67</offset>
+      <text>One of the main functions of the piwi-interacting RNA pathway is the post-transcriptional silencing of transposable elements in the germline of many species. In insects, proteins belonging to the Tudor superfamily proteins belonging to the Tudor superfamily play an important role in to play an important role in this mechanism. In this study, we identified the tudor gene in the oriental fruit fly, Bactrocera dorsalis, investigated the spatiotemporal expressional profile of the gene, and performed a functional analysis using RNA interference. We identified one transcript for a tudor homologue in the B. dorsalis transcriptome, which encodes a protein containing the typical 10 Tudor domains and an Adenosine triphosphate (ATP) synthase delta subunit signature. Phylogenetic analysis confirmed the identity of this transcript as a tudor homologue in this species. The expression profile indicated a much higher expression in the adult and pupal stages compared to the larval stages (up to a 60-fold increase), and that the gene was mostly expressed in the ovaries, Malpighian tubules and fat body. Finally, gene knockdown of tudor in B. dorsalis led to clearly underdeveloped ovaries in the female adult and reductions in copulation rate and amount of oviposition, indicating its important role in reproduction. The results of this study shed more light on the role of tudor in ovary development and reproduction.</text>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:35:53Z</infon>
+        <location offset="100" length="4"/>
+        <text>piwi</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="263" length="5"/>
+        <text>Tudor</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="307" length="5"/>
+        <text>Tudor</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="429" length="5"/>
+        <text>tudor</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="447" length="18"/>
+        <text>oriental fruit fly</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="467" length="19"/>
+        <text>Bactrocera dorsalis</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="649" length="5"/>
+        <text>tudor</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="672" length="11"/>
+        <text>B. dorsalis</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="749" length="5"/>
+        <text>Tudor</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">MESH:D000255</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="770" length="22"/>
+        <text>Adenosine triphosphate</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">MESH:D000255</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="794" length="3"/>
+        <text>ATP</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="902" length="5"/>
+        <text>tudor</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:D010051</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1127" length="7"/>
+        <text>ovaries</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1196" length="5"/>
+        <text>tudor</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">27457</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1205" length="11"/>
+        <text>B. dorsalis</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">MESH:D010051</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1247" length="7"/>
+        <text>ovaries</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1440" length="5"/>
+        <text>tudor</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

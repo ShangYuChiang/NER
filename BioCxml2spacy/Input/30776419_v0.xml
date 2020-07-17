@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30776419</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Microplitis bicoloratus bracovirus modulates innate immune suppression through the eIF4E-eIF4A axis in the insect Spodoptera litura.</text>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="83" length="5"/>
+        <text>eIF4E</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="89" length="5"/>
+        <text>eIF4A</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">69820</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="114" length="17"/>
+        <text>Spodoptera litura</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>133</offset>
+      <text>Eukaryotic initiation factor 4E (eIF4E) is regulated during the innate immune response. However, its translational regulation under innate immune suppression remains largely unexplored. Microplitis bicoloratus bracovirus (MbBV), a symbiotic virus harbored by the parasitoid wasp, Microplitis bicoloratus, suppresses innate immunity in parasitized Spodoptera litura. Here, we generated eIF4E dsRNA and used it to silence the eIF4E gene of S. litura, resulting in a hallmark immunosuppressive phenotype characterized by increased apoptosis of hemocytes and retardation of head capsule width development. In response to natural parasitism, loss of eIF4E function was associated with similar immunosuppression, and we detected no significant differences between the response to parasitism and treatment with eIF4E RNAi. Under MbBV infection, eIF4E overexpression significantly suppressed MbBV-induced increase in apoptosis and suppressed apoptosis to the same extent as co-expression of both eIF4E and eIF4A. There were no significant differences between MbBV-infected and uninfected larvae in which eIF4E was overexpressed. More importantly, in the eIF4E RNAi strain, eIF4A RNAi did not increase apoptosis. Collectively, our results indicate that eIF4E plays a nodal role in the MbBV-suppressed innate immune response via the eIF4E-eIF4A axis.</text>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="133" length="31"/>
+        <text>Eukaryotic initiation factor 4E</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="166" length="5"/>
+        <text>eIF4E</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">359321</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="413" length="23"/>
+        <text>Microplitis bicoloratus</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">69820</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="480" length="17"/>
+        <text>Spodoptera litura</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="518" length="5"/>
+        <text>eIF4E</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="557" length="5"/>
+        <text>eIF4E</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">69820</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="571" length="9"/>
+        <text>S. litura</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:C535460</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="597" length="26"/>
+        <text>hallmark immunosuppressive</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">MESH:D008607</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="688" length="11"/>
+        <text>retardation</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">MESH:D010272</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="758" length="10"/>
+        <text>parasitism</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="778" length="5"/>
+        <text>eIF4E</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">MESH:D010272</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="907" length="10"/>
+        <text>parasitism</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="937" length="5"/>
+        <text>eIF4E</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:D007239</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="960" length="9"/>
+        <text>infection</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="971" length="5"/>
+        <text>eIF4E</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1121" length="5"/>
+        <text>eIF4E</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1131" length="5"/>
+        <text>eIF4A</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1229" length="5"/>
+        <text>eIF4E</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1279" length="5"/>
+        <text>eIF4E</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1298" length="5"/>
+        <text>eIF4A</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1377" length="5"/>
+        <text>eIF4E</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1456" length="5"/>
+        <text>eIF4E</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1462" length="5"/>
+        <text>eIF4A</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

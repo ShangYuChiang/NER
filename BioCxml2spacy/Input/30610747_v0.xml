@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30610747</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Transcription factors CncC/Maf and AhR/ARNT coordinately regulate the expression of multiple GSTs conferring resistance to chlorpyrifos and cypermethrin in Spodoptera exigua.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="22" length="8"/>
+        <text>CncC/Maf</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="35" length="8"/>
+        <text>AhR/ARNT</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:11:15Z</infon>
+        <location offset="93" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">MESH:D004390</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="123" length="12"/>
+        <text>chlorpyrifos</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">MESH:C017160</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="140" length="12"/>
+        <text>cypermethrin</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7107</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="156" length="17"/>
+        <text>Spodoptera exigua</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>175</offset>
+      <text>BACKGROUND: Glutathione S-transferases (GSTs) are a superfamily of multifunctional dimeric proteins existing in both prokaryotic and eukaryotic organisms. They are involved in the detoxification of both endogenous and exogenous electrophiles, including insecticides. However, the molecular mechanisms underlying the regulation of GST genes in insects are poorly understood. RESULTS: We first identified at least three GST genes involved in resistance to the insecticides chlorpyrifos and cypermethrin. Analysis of upstream sequences revealed that three GSTs (SeGSTo2, SeGSTe6 and SeGSTd3) harbor the same cap  n  collar C/muscle aponeurosis fibromatosis (CncC/Maf) binding site, and SeGSTo2 and SeGSTe6 contain the aryl hydrocarbon receptor/aryl hydrocarbon receptor nuclear translocator (AhR/ARNT) binding site. Luciferase reporter assay showed co-transfection of reporter plasmid containing the SeGSTe6 promoter with CncC and/or Maf expressing constructs significantly boosted transcription. Similarly, AhR and/or ARNT expressing constructs also significantly increased the promoter activities. The co-transfection of mutated reporter plasmid with CncC/Maf or AhR/ARNT did not increase transcription activity anymore. Constitutive over-expression of CncC, Maf and AhR was also found in the HZ16 strain, which might be the molecular mechanism for up-regulated expression of multiple detoxification genes conferring resistance to insecticides. CONCLUSION: These results suggest that CncC/Maf and AhR/ARNT coordinately regulate the expression of multiple GST genes involved in insecticide resistance in Spodoptera exigua.  2019 Society of Chemical Industry.</text>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:11:23Z</infon>
+        <location offset="187" length="25"/>
+        <text>Glutathione S-transferase</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:11:28Z</infon>
+        <location offset="215" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:11:34Z</infon>
+        <location offset="505" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:11:35Z</infon>
+        <location offset="593" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">MESH:D004390</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="646" length="12"/>
+        <text>chlorpyrifos</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:C017160</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="663" length="12"/>
+        <text>cypermethrin</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:11:43Z</infon>
+        <location offset="728" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="734" length="7"/>
+        <text>SeGSTo2</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="743" length="7"/>
+        <text>SeGSTe6</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="755" length="7"/>
+        <text>SeGSTd3</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">MESH:D005350</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="797" length="31"/>
+        <text>muscle aponeurosis fibromatosis</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="830" length="8"/>
+        <text>CncC/Maf</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="858" length="7"/>
+        <text>SeGSTo2</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="870" length="7"/>
+        <text>SeGSTe6</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">MESH:D006838</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="890" length="16"/>
+        <text>aryl hydrocarbon</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">MESH:D006838</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="916" length="16"/>
+        <text>aryl hydrocarbon</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="964" length="8"/>
+        <text>AhR/ARNT</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1072" length="7"/>
+        <text>SeGSTe6</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:12:42Z</infon>
+        <location offset="1180" length="3"/>
+        <text>AhR</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:12:43Z</infon>
+        <location offset="1191" length="4"/>
+        <text>ARNT</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1325" length="8"/>
+        <text>CncC/Maf</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1337" length="8"/>
+        <text>AhR/ARNT</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:12:47Z</infon>
+        <location offset="1427" length="4"/>
+        <text>CncC</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:12:48Z</infon>
+        <location offset="1433" length="3"/>
+        <text>Maf</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:12:50Z</infon>
+        <location offset="1441" length="3"/>
+        <text>AhR</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1658" length="8"/>
+        <text>CncC/Maf</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1671" length="8"/>
+        <text>AhR/ARNT</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:12:56Z</infon>
+        <location offset="1729" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">7107</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1777" length="17"/>
+        <text>Spodoptera exigua</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31836052</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Knockdown of the aminopeptidase N genes decreases susceptibility of Chilo suppressalis larvae to Cry1Ab/Cry1Ac and Cry1Ca.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="17" length="16"/>
+        <text>aminopeptidase N</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">168631</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="68" length="18"/>
+        <text>Chilo suppressalis</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:49:30Z</infon>
+        <location offset="97" length="6"/>
+        <text>Cry1Ab</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:49:36Z</infon>
+        <location offset="104" length="6"/>
+        <text>Cry1Ac</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:49:38Z</infon>
+        <location offset="115" length="6"/>
+        <text>Cry1Ca</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>123</offset>
+      <text>Bacillus thuringiensis (Bt) insecticide is currently the most widely used bioinsecticide. Bt expressing cry genes are some of the most successful foreign-genome-inserting genes used in transgenic insect-resistant crop development. Cry toxins are resistant to lepidopteran pests, such as Chilo suppressalis, a major insect pest of rice worldwide. Since Cry toxins exert their activity by binding to specific receptors in the midgut of target insects, identification of functional Cry toxin receptors in the midgut of C. suppressalis larvae is crucial to evaluate potential resistance mechanisms and develop effective strategies for inhibiting insect resistance. In this study, we isolated two aminopeptidase N genes (APN6 and APN8) from C. suppressalis and determined that they were expressed in the foregut. APN6 was highly expressed at the fourth instar, and APN8 was highly expressed in adult and pupa. Knockdown of CsAPN6 and CsAPN8 by RNA interference resulted in significantly decreased susceptibility of larvae to Bt rice varieties TT51 (expressing cry1Ac/cry1Ab fusion genes) and T1C-19 (expressing cry1Ca), but not T2A-1 (expressing cry2Aa). These findings suggest that both APN6 and APN8 are involved in the toxicity of Cry1Ac/Cry1Ab and Cry1Ca toxins.</text>
+      <annotation id="3">
+        <infon key="identifier">1428</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="123" length="22"/>
+        <text>Bacillus thuringiensis</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">1428</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="147" length="2"/>
+        <text>Bt</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">1428</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="213" length="2"/>
+        <text>Bt</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:48:50Z</infon>
+        <location offset="227" length="3"/>
+        <text>cry</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:49:02Z</infon>
+        <location offset="354" length="3"/>
+        <text>Cry</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">168631</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="410" length="18"/>
+        <text>Chilo suppressalis</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">4530</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="453" length="4"/>
+        <text>rice</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:49:03Z</infon>
+        <location offset="475" length="3"/>
+        <text>Cry</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:49:05Z</infon>
+        <location offset="602" length="3"/>
+        <text>Cry</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">168631</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="639" length="15"/>
+        <text>C. suppressalis</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="815" length="16"/>
+        <text>aminopeptidase N</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="839" length="4"/>
+        <text>APN6</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="848" length="4"/>
+        <text>APN8</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">168631</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="859" length="15"/>
+        <text>C. suppressalis</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="931" length="4"/>
+        <text>APN6</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="983" length="4"/>
+        <text>APN8</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1041" length="6"/>
+        <text>CsAPN6</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1052" length="6"/>
+        <text>CsAPN8</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">1428</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1143" length="2"/>
+        <text>Bt</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">4530</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1146" length="4"/>
+        <text>rice</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:49:13Z</infon>
+        <location offset="1178" length="6"/>
+        <text>cry1Ac</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:49:14Z</infon>
+        <location offset="1185" length="6"/>
+        <text>cry1Ab</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:49:20Z</infon>
+        <location offset="1229" length="6"/>
+        <text>cry1Ca</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:49:21Z</infon>
+        <location offset="1264" length="6"/>
+        <text>cry2Aa</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1306" length="4"/>
+        <text>APN6</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1315" length="4"/>
+        <text>APN8</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:D064420</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1340" length="8"/>
+        <text>toxicity</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:49:24Z</infon>
+        <location offset="1352" length="6"/>
+        <text>Cry1Ac</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:49:26Z</infon>
+        <location offset="1359" length="6"/>
+        <text>Cry1Ab</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:49:27Z</infon>
+        <location offset="1370" length="6"/>
+        <text>Cry1Ca</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30695713</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Characterization and expression profiling of odorant-binding proteins in Anoplophora glabripennis Motsch.</text>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:04:23Z</infon>
+        <location offset="45" length="23"/>
+        <text>odorant-binding protein</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="73" length="24"/>
+        <text>Anoplophora glabripennis</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>106</offset>
+      <text>In insects, olfaction plays a critical role in locating hosts, recognizing mates, and selecting oviposition sites. The Asian long-horned beetle (Anoplophora glabripennis Motschulsky) feeds on 43 species of trees in 15 families, but its chemosensory mechanisms are poorly understood. Herein, genes encoding 61 odorant-binding proteins (OBPs) were identified from the published genome and our previous A. glabripennis transcriptomic data. To investigate their physiological functions, we performed expression profiling of all AglaOBPs in the antennae, legs, and maxillary palps of both sexes. Phylogenetic analysis clustered A. glabripennis OBPs into four subgroups, comprising 29 Minus-C OBPs, 15 Antennae-binding proteins (ABPIIs), 10 Classic OBPs, and one Plus-C OBP. 12 AglaOBP genes were expressed specifically in antennae, and AglaOBP3, AglaOBP18, AglaOBP21, AglaOBP33, AglaOBP41, AglaOBP45, and AglaOBP47 were particularly highly expressed in male antennae. These proteins may function in the detection of female sex pheromones. AglaOBP23 and AglaOBP44 were preferentially expressed in maxillary palps. Expression profiling suggests that many OBPs may be involved in olfaction and gustation, in addition to carrying hydrophobic molecules. The AglaOBPs family has acquired functional diversity concurrently with functional constraints, and further investigation could provide insight into the roles of OBPs in chemoreception.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="251" length="24"/>
+        <text>Anoplophora glabripennis</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:04:31Z</infon>
+        <location offset="415" length="23"/>
+        <text>odorant-binding protein</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:04:32Z</infon>
+        <location offset="441" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">217634</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="506" length="15"/>
+        <text>A. glabripennis</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:04:36Z</infon>
+        <location offset="630" length="7"/>
+        <text>AglaOBP</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">217634</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="729" length="15"/>
+        <text>A. glabripennis</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:04:37Z</infon>
+        <location offset="745" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:04:47Z</infon>
+        <location offset="793" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:04:53Z</infon>
+        <location offset="829" length="5"/>
+        <text>ABPII</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:04:56Z</infon>
+        <location offset="849" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:04:59Z</infon>
+        <location offset="870" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:05:02Z</infon>
+        <location offset="878" length="7"/>
+        <text>AglaOBP</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:05:08Z</infon>
+        <location offset="937" length="8"/>
+        <text>AglaOBP3</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:05:09Z</infon>
+        <location offset="947" length="9"/>
+        <text>AglaOBP18</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:05:10Z</infon>
+        <location offset="958" length="9"/>
+        <text>AglaOBP21</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:05:11Z</infon>
+        <location offset="969" length="9"/>
+        <text>AglaOBP33</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:05:12Z</infon>
+        <location offset="980" length="9"/>
+        <text>AglaOBP41</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:05:13Z</infon>
+        <location offset="991" length="9"/>
+        <text>AglaOBP45</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:05:14Z</infon>
+        <location offset="1006" length="9"/>
+        <text>AglaOBP47</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:05:17Z</infon>
+        <location offset="1140" length="9"/>
+        <text>AglaOBP23</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:05:18Z</infon>
+        <location offset="1154" length="9"/>
+        <text>AglaOBP44</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:05:20Z</infon>
+        <location offset="1254" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:05:24Z</infon>
+        <location offset="1354" length="7"/>
+        <text>AglaOBP</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:05:26Z</infon>
+        <location offset="1512" length="3"/>
+        <text>OBP</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

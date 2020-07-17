@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>18854586</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Drosophila asterless and vertebrate Cep152 Are orthologs essential for centriole duplication.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="11" length="9"/>
+        <text>asterless</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="36" length="6"/>
+        <text>Cep152</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>94</offset>
+      <text>The centriole is the core structure of centrosome and cilium. Failure to restrict centriole duplication to once per cell cycle has serious consequences and is commonly observed in cancer. Despite its medical importance, the mechanism of centriole formation is poorly understood. Asl was previously reported to be a centrosomal protein essential for centrosome function. Here we identify mecD, a severe loss-of-function allele of the asl gene, and demonstrate that it is required for centriole and cilia formation. Similarly, Cep152, the Asl ortholog in vertebrates, is essential for cilia formation and its function can be partially rescued by the Drosophila Asl. The study of Asl localization suggests that it is closely associated with the centriole wall, but is not part of the centriole structure. By analyzing the biogenesis of centrosomes in cells depleted of Asl, we found that, while pericentriolar material (PCM) function is mildly affected, Asl is essential for daughter centriole formation. The clear absence of several centriolar markers in mecD mutants suggests that Asl is critical early in centriole duplication.</text>
+      <annotation id="4">
+        <infon key="identifier">D009369</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="274" length="6"/>
+        <text>cancer</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">40682</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="373" length="3"/>
+        <text>Asl</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">40682</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="527" length="3"/>
+        <text>asl</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="619" length="6"/>
+        <text>Cep152</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">40682</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="631" length="3"/>
+        <text>Asl</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">40682</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="753" length="3"/>
+        <text>Asl</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">40682</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="771" length="3"/>
+        <text>Asl</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">40682</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="960" length="3"/>
+        <text>Asl</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">40682</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1045" length="3"/>
+        <text>Asl</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">40682</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1174" length="3"/>
+        <text>Asl</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

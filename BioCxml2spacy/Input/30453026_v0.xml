@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30453026</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Clustered miR-2, miR-13a, miR-13b and miR-71 coordinately target Notch gene to regulate oogenesis of the migratory locust Locusta migratoria.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="10" length="5"/>
+        <text>miR-2</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="17" length="7"/>
+        <text>miR-13a</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="26" length="7"/>
+        <text>miR-13b</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="38" length="6"/>
+        <text>miR-71</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="65" length="5"/>
+        <text>Notch</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7004</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="105" length="16"/>
+        <text>migratory locust</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">7004</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="122" length="18"/>
+        <text>Locusta migratoria</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>142</offset>
+      <text>MicroRNAs (miRNAs),  22-nt small noncoding RNAs with a crucial role in various biological processes of organisms, are usually clustered in the genome. However, little is known about the miRNA clusters involved in insect reproduction. By small RNA sequencing and quantification followed by qRT-PCR, we found that the expression of invertebrate-specific miR-2/13/71 cluster including miR-2, miR-13a, miR-13b and miR-71 significantly decreased after adult ecdysis of the migratory locust, Locusta migratoria. Luciferase reporter assay and RNA immunoprecipitation demonstrated that miR-2/13/71 bound to the protein coding sequence of Notch and downregulated its expression. Injection of miR-2/13/71 agomiRs led to significant decrease of Notch expression as well as markedly reduced levels of Vitellogenin mRNA, suppressed oocyte maturation and impaired ovarian growth. Moreover, the expression of miR-2/13/71 was repressed by juvenile hormone (JH). Our results thus point to a previously unidentified mechanism by which JH-repressed miR-2/13/71 coordinately downregulates Notch to modulate insect reproduction. The increase of JH and decrease of miR-2/13/71 expression in both previtellogenic and vitellogenic stages of adult females ensure a high level of Notch expression, critically contributing to JH-dependent vitellogenesis and oogenesis.</text>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="494" length="5"/>
+        <text>miR-2</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="524" length="5"/>
+        <text>miR-2</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="531" length="7"/>
+        <text>miR-13a</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="540" length="7"/>
+        <text>miR-13b</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="552" length="6"/>
+        <text>miR-71</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">7004</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="610" length="16"/>
+        <text>migratory locust</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">7004</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="628" length="18"/>
+        <text>Locusta migratoria</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="720" length="5"/>
+        <text>miR-2</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="772" length="5"/>
+        <text>Notch</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="825" length="5"/>
+        <text>miR-2</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="876" length="5"/>
+        <text>Notch</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:29:10Z</infon>
+        <location offset="931" length="12"/>
+        <text>Vitellogenin</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">MESH:D010049</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="983" length="23"/>
+        <text>impaired ovarian growth</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1036" length="5"/>
+        <text>miR-2</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1172" length="5"/>
+        <text>miR-2</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1211" length="5"/>
+        <text>Notch</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1285" length="5"/>
+        <text>miR-2</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1396" length="5"/>
+        <text>Notch</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

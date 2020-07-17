@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29178612</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Identification of a sugar gustatory receptor and its effect on fecundity of the brown planthopper Nilaparvata lugens.</text>
+      <annotation id="1">
+        <infon key="identifier">MESH:D002241</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="20" length="5"/>
+        <text>sugar</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="26" length="18"/>
+        <text>gustatory receptor</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:08:13Z</infon>
+        <location offset="98" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>118</offset>
+      <text>In insects, the gustatory system plays a crucial role in multiple physiological behaviors, including feeding, toxin avoidance, courtship, mating and oviposition. Gustatory stimuli from the environment are recognized by gustatory receptors. To date, little is known about the function of gustatory receptors in agricultural pest insects. In this study, we cloned a sugar gustatory receptor gene, NlGr11, from the brown planthopper (BPH), Nilaparvata lugens (St l), a serious pest of rice in Asia; we then identified its ligands, namely, fructose, galactose and arabinose, by calcium imaging assay. After injection of NlGr11 double-stranded RNA, we found that the number of eggs laid by BPH decreased. Moreover, we found that NlGr11 inhibited the phosphorylation of adenosine monophosphate-activated protein kinase (AMPK) and promoted the phosphorylation of protein kinase B (AKT). These findings demonstrated that NlGr11 could accelerate the fecundity of BPH through AMPK- and AKT-mediated signaling pathways. This is the first report to indicate that a gustatory receptor modulates the fecundity of insects and that the receptor could be a potential target for pest control.</text>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:08:35Z</infon>
+        <location offset="337" length="18"/>
+        <text>gustatory receptor</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:08:41Z</infon>
+        <location offset="405" length="18"/>
+        <text>gustatory receptor</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">MESH:D002241</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="482" length="5"/>
+        <text>sugar</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="488" length="18"/>
+        <text>gustatory receptor</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="513" length="6"/>
+        <text>NlGr11</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Species</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:08:15Z</infon>
+        <location offset="555" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">4530</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="600" length="4"/>
+        <text>rice</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:D005632</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="654" length="8"/>
+        <text>fructose</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">MESH:D005690</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="664" length="9"/>
+        <text>galactose</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">MESH:D001089</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="678" length="9"/>
+        <text>arabinose</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">MESH:D002118</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="692" length="7"/>
+        <text>calcium</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="734" length="6"/>
+        <text>NlGr11</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="842" length="6"/>
+        <text>NlGr11</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:10:13Z</infon>
+        <location offset="882" length="48"/>
+        <text>adenosine monophosphate-activated protein kinase</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:10:13Z</infon>
+        <location offset="932" length="4"/>
+        <text>AMPK</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:10:17Z</infon>
+        <location offset="974" length="16"/>
+        <text>protein kinase B</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:10:18Z</infon>
+        <location offset="992" length="3"/>
+        <text>AKT</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1031" length="6"/>
+        <text>NlGr11</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:10:20Z</infon>
+        <location offset="1084" length="4"/>
+        <text>AMPK</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T13:10:22Z</infon>
+        <location offset="1094" length="3"/>
+        <text>AKT</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1171" length="18"/>
+        <text>gustatory receptor</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

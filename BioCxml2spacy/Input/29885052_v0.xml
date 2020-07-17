@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29885052</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>G119S ace-1 mutation conferring insecticide resistance detected in the Culex pipiens complex in Morocco.</text>
+      <annotation id="1">
+        <infon key="identifier">p.G119S</infon>
+        <infon key="type">Mutation</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="5"/>
+        <text>G119S</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="6" length="5"/>
+        <text>ace-1</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">518105</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="71" length="21"/>
+        <text>Culex pipiens complex</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>105</offset>
+      <text>BACKGROUND: Arboviruses are controlled through insecticide control of their mosquito vector. However, inconsiderate use of insecticides often results in the selection of resistance in treated populations, so that monitoring is required to optimize their usage. Here, Culex pipiens (West Nile and Rift Valley Fever virus vector) specimens were collected from four Moroccan cities. Levels of susceptibility to the organophosphate (OP) insecticide malathion were assessed using World Health Organization (WHO)-recommended bioassays. Individual mosquitoes were tested for the presence of the G119S mutation in the ace-1 gene, the main OP-target resistance mutation. RESULTS: Bioassays showed that mosquitoes from Mohammedia were significantly more resistant to malathion than those from Marrakech. Analyzing the ace-1 genotypes in dead and surviving individuals suggested that other resistance mechanisms may be present in Mohammedia. The ace-1 resistance allele frequencies were relatively moderate (&lt; 0.4). Their analyses in three Moroccan cities (Tangier, Casablanca and Marrakech) however showed disparities between two coexisting Cx. pipiens forms and revealed that the G119S mutation tends to be more frequent in urban than in rural collection sites. CONCLUSION: These findings provide a reference assessment of OP resistance in Morocco and should help the health authorities to develop informed and sustainable vector control programs.  2018 Society of Chemical Industry.</text>
+      <annotation id="4">
+        <infon key="identifier">7175</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="372" length="13"/>
+        <text>Culex pipiens</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">MESH:D010755</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="517" length="15"/>
+        <text>organophosphate</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">MESH:D008294</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="550" length="9"/>
+        <text>malathion</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">p.G119S</infon>
+        <infon key="type">Mutation</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="693" length="5"/>
+        <text>G119S</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="715" length="5"/>
+        <text>ace-1</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:D008294</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="862" length="9"/>
+        <text>malathion</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="913" length="5"/>
+        <text>ace-1</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1040" length="5"/>
+        <text>ace-1</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1236" length="11"/>
+        <text>Cx. pipiens</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">p.G119S</infon>
+        <infon key="type">Mutation</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1276" length="5"/>
+        <text>G119S</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

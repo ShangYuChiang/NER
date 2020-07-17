@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>19956620</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Wing defects in Drosophila xenicid mutant clones are caused by C-terminal deletion of additional sex combs (Asx).</text>
+      <annotation id="1">
+        <infon key="identifier">D000013</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="12"/>
+        <text>Wing defects</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="16" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="63" length="1"/>
+        <text>C</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="86" length="20"/>
+        <text>additional sex combs</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>114</offset>
+      <text>BACKGROUND: The coordinated action of genes that control patterning, cell fate determination, cell size, and cell adhesion is required for proper wing formation in Drosophila. Defects in any of these basic processes can lead to wing aberrations, including blisters. The xenicid mutation was originally identified in a screen designed to uncover regulators of adhesion between wing surfaces [1]. PRINCIPAL FINDINGS: Here, we demonstrate that expression of the betaPS integrin or the patterning protein Engrailed are not affected in developing wing imaginal discs in xenicid mutants. Instead, expression of the homeotic protein Ultrabithorax (Ubx) is strongly increased in xenicid mutant cells. CONCLUSION: Our results suggest that upregulation of Ubx transforms cells from a wing blade fate to a haltere fate, and that the presence of haltere cells within the wing blade is the primary defect leading to the adult wing phenotypes observed.</text>
+      <annotation id="7">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="278" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">44885</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="573" length="15"/>
+        <text>betaPS integrin</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="615" length="9"/>
+        <text>Engrailed</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">42034</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="740" length="13"/>
+        <text>Ultrabithorax</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">42034</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="755" length="3"/>
+        <text>Ubx</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">42034</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="860" length="3"/>
+        <text>Ubx</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

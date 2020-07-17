@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30080999</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Characterization of antennal chemosensilla and associated odorant binding as well as chemosensory proteins in the Eupeodes corollae (Diptera: Syrphidae).</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="29" length="13"/>
+        <text>chemosensilla</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">290404</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="114" length="17"/>
+        <text>Eupeodes corollae</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>154</offset>
+      <text>Aphidophagous syrphids are important for pest control and pollination in various agroecosystems. However, the mechanism underlying olfaction, which is critical for insect  behavioral processes and fitness, has not been well understood in the family Syrphidae. Hence, we performed a systematic identification and characterisation of the antennal sensilla and two groups of soluble proteins, odorant-binding proteins (OBPs) and chemosensory proteins (CSPs), in the hoverfly Eupeodes corollae. (i) With scanning electron microscopy, four major types of sensilla (chaetic sensilla [two subtypes], trichoid sensilla, basiconic sensilla [two subtypes] and coeloconic sensilla), with numerous microtrichia, were first observed along the entire surface of aristate antennae of both sexes of E. corollae. Of these, only chaetic sensillum was found on the first two antennal segments, scape and pedicel, while the other types of sensilla were located on the flagellum. No marked difference was observed in the morphological structure or distributional pattern of any of the sensilla between the two sexes. (ii) By molecular cloning and bioinformatic analysis, 7 EcorCSPs and 28 EcorOBPs (20 classic OBPs, 5 minus-C OBPs, and 3 plus-C OBPs) were directly identified from the species, which all share the characteristic hallmarks of their family, including the presence of a signal peptide and conserved cysteine signature. (iii) RT-qPCR of these chemosensory genes showed predominately tissue-biased expression patterns; 32 of the 35 EcorOBPs/CSPs were uniquely or primarily expressed in the main olfactory organs, either the antennae or head. (iv) Among these, several genes (EcorCSP2 and EcorOBP1, 9, 12, 15-17, 20) appeared to be antenna-biased. In situ hybridization assays indicated that each antenna-biased chemosensory gene was expressed in a different number of cells, suggesting they might play a more vital role in odour recognition and perception and could be potential candidates to study their biological functions in vivo and in vitro. Together, our current findings provide a basis for future studies on how syrphids utilize chemical cues to regulate their behavior during interactions among the natural enemy, its prey, and host plant in agro-ecosystems.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="544" length="23"/>
+        <text>odorant-binding protein</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:37:38Z</infon>
+        <location offset="570" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="580" length="20"/>
+        <text>chemosensory protein</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:37:44Z</infon>
+        <location offset="603" length="3"/>
+        <text>CSP</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">290404</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="626" length="17"/>
+        <text>Eupeodes corollae</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">290404</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="937" length="11"/>
+        <text>E. corollae</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:38:04Z</infon>
+        <location offset="1306" length="7"/>
+        <text>EcorCSP</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:37:56Z</infon>
+        <location offset="1322" length="7"/>
+        <text>EcorOBP</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:38:09Z</infon>
+        <location offset="1343" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:38:15Z</infon>
+        <location offset="1359" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:38:21Z</infon>
+        <location offset="1378" length="3"/>
+        <text>OBP</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:D003545</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1546" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:38:29Z</infon>
+        <location offset="1677" length="7"/>
+        <text>EcorOBP</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:38:34Z</infon>
+        <location offset="1686" length="3"/>
+        <text>CSP</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:38:39Z</infon>
+        <location offset="1820" length="8"/>
+        <text>EcorCSP2</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:38:42Z</infon>
+        <location offset="1833" length="8"/>
+        <text>EcorOBP1</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>14518004</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Cloning of a putative Bombyx mori TFIIB-related factor (BRF).</text>
+      <annotation id="1">
+        <infon key="identifier">692609</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="22" length="32"/>
+        <text>Bombyx mori TFIIB-related factor</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">692609</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="56" length="3"/>
+        <text>BRF</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>62</offset>
+      <text>To identify the protein domains responsible for its conserved and specialized functions, putative TFIIB-Related Factor (BRF) from the silkworm (Bombyx mori) was compared with BRFs from other organisms. The Bombyx BRF coding region was assembled from three separate and overlapping cDNA fragments. Fragments encoding the middle portion and the 3  end were discovered in the Bombyx mori Genome Project "Silkbase" collection through sequence homology with human BRF1, and the fragment encoding the N-terminus was isolated in our laboratory using the 5  RACE method. Southern analysis showed that silkworm BRF is encoded by a single-copy gene. Bombyx BRF contains the following domains that have been noted in all other BRFs, and that are likely, therefore, to provide highly conserved functions: a zinc finger domain, an imperfect repeat, three "BRF Homology" domains, and an acidic domain at the C-terminus. As expected from the evolutionary relationships among insects and mammals, Bombyx BRF is more similar overall to Drosophila BRF (55% identical) than to human BRF1 (42% identical). Detailed examination of individual domains reveals a remarkable exception, however. Domain II of Bombyx BRF is more similar to its human counterpart than to Drosophila Domain II. This result indicates that Domain II has undergone unusual divergence in Drosophila, and suggests a structural basis for Drosophila BRF s unique pattern of interaction with other transcription factors.</text>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:26:18Z</infon>
+        <location offset="160" length="20"/>
+        <text>TFIIB-Related Factor</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">692609</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="182" length="3"/>
+        <text>BRF</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="206" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">692609</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="275" length="3"/>
+        <text>BRF</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="435" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">2972</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="521" length="4"/>
+        <text>BRF1</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="557" length="1"/>
+        <text>N</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">692609</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="664" length="3"/>
+        <text>BRF</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">692609</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="709" length="3"/>
+        <text>BRF</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">D015032</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="857" length="4"/>
+        <text>zinc</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">692609</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="905" length="3"/>
+        <text>BRF</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">42087</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1050" length="3"/>
+        <text>BRF</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1081" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">42087</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1092" length="3"/>
+        <text>BRF</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">2972</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1126" length="4"/>
+        <text>BRF1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">2972</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1252" length="3"/>
+        <text>BRF</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1305" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1400" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1448" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">42087</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1459" length="3"/>
+        <text>BRF</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

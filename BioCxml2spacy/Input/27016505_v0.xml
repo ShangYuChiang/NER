@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>27016505</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Hunchback knockdown induces supernumerary segment formation in Bombyx.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="9"/>
+        <text>Hunchback</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="63" length="6"/>
+        <text>Bombyx</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>71</offset>
+      <text>Insect segment number within species appears to be fixed irrespective of germ types: long vs. short/intermediate. The present study showed induction of supernumerary segment formation by the knockdown of Bombyx hunchback (Bm-hb), presumably by terminal segment addition, a short/intermediate-like-segmentation mode that is not observed in normal Bombyx embryogenesis. This suggests that Bm-hb suppresses segmentation. The results obtained also suggest that the gap gene Bm-Kr (Bombyx Kruppel) provides a permissive environment for the progression of segmentation by suppressing the expression Bm-hb, which terminates segmentation. This indicates a novel mechanism by which the gap gene is involved in segmentation. It appears that Bm-Kr and Bm-hb are involved in segment counting and their interplay contributes to the correct number of segments being formed in Bombyx. Similar mechanisms may be operating in insects that employ the non-Drosophilan mode of segmentation such as in short/intermediate-germ insects.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="275" length="6"/>
+        <text>Bombyx</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="282" length="9"/>
+        <text>hunchback</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="293" length="5"/>
+        <text>Bm-hb</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="417" length="6"/>
+        <text>Bombyx</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="458" length="5"/>
+        <text>Bm-hb</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="541" length="5"/>
+        <text>Bm-Kr</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="548" length="6"/>
+        <text>Bombyx</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="555" length="7"/>
+        <text>Kruppel</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="664" length="5"/>
+        <text>Bm-hb</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:48:50Z</infon>
+        <location offset="802" length="5"/>
+        <text>Bm-Kr</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="812" length="5"/>
+        <text>Bm-hb</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="933" length="6"/>
+        <text>Bombyx</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

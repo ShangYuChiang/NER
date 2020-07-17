@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30367845</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Complexities in Bombyx germ cell formation process revealed by Bm-nosO (a Bombyx homolog of nanos) knockout.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="63" length="7"/>
+        <text>Bm-nosO</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="92" length="5"/>
+        <text>nanos</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>109</offset>
+      <text>Inheritance (sequestration of a localized determinant: germplasm) and zygotic induction are two modes of metazoan primordial germ cell (PGC) specification. vasa and nanos homologs are evolutionarily conserved germline marker genes that have been used to examine the ontogeny of germ cells in various animals. In the lepidopteran insect Bombyx mori, although the lack of vasa homolog (BmVLG) protein localization as well as microscopic observation suggested the lack of germplasm, classical embryo manipulation studies and the localization pattern of Bm-nosO (one of the four nanos genes in Bombyx) maternal mRNA in the egg raised the possibility that an inheritance mode is operating in Bombyx. Here, we generated Bm-nosO knockouts to examine whether the localized mRNA acts as a localized germ cell determinant. Contrary to our expectations, Bm-nosO knockout lines could be established. However, these lines frequently produced abnormal eggs, which failed to hatch, to various extent depending on the individuals. We also found that Bm-nosO positively regulated BmVLG expression at least during embryonic stage, directly or indirectly, indicating that these genes were on the same developmental pathway for germ cell formation in Bombyx. These results suggest that these conserved genes are concerned with stable germ cell production. On the other hand, from the aspect of BmVLG as a PGC marker, we showed that maternal Bm-nosO product(s) as well as early zygotic Bm-nosO activity were redundantly involved in PGC specification; elimination of both maternal and zygotic gene activities (as in knockout lines) resulted in the apparent lack of PGCs, indicating that an inheritance mechanism indeed operates in Bombyx. This, however, together with the fact that germ cells are produced at all in Bm-nosO knockout lines, also suggests the possibility that, in Bombyx, not only this inheritance mechanism but also an inductive mechanism acts in concert to form germ cells or that loss of early PGCs are compensated for by germline regeneration: mechanisms that could enable the evolution of preformation. Thus, Bombyx could serve as an important organism in understanding the evolution of germ cell formation mechanisms; transition between preformation and inductive modes.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="265" length="4"/>
+        <text>vasa</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="274" length="5"/>
+        <text>nanos</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">7091</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="445" length="11"/>
+        <text>Bombyx mori</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="479" length="4"/>
+        <text>vasa</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">692765</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="493" length="5"/>
+        <text>BmVLG</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="659" length="7"/>
+        <text>Bm-nosO</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="684" length="5"/>
+        <text>nanos</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="823" length="7"/>
+        <text>Bm-nosO</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="952" length="7"/>
+        <text>Bm-nosO</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1143" length="7"/>
+        <text>Bm-nosO</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">692765</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1172" length="5"/>
+        <text>BmVLG</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">692765</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1483" length="5"/>
+        <text>BmVLG</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1530" length="7"/>
+        <text>Bm-nosO</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1574" length="7"/>
+        <text>Bm-nosO</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1903" length="7"/>
+        <text>Bm-nosO</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

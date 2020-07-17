@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>19944757</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Digestive beta-glucosidases from the wood-feeding higher termite, Nasutitermes takasagoensis: intestinal distribution, molecular characterization, and alteration in sites of expression.</text>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:53:03Z</infon>
+        <location offset="10" length="16"/>
+        <text>beta-glucosidase</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="66" length="26"/>
+        <text>Nasutitermes takasagoensis</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>186</offset>
+      <text>beta-Glucosidase [EC 3.2.1.21] hydrolyzes cellobiose or cello-oligosaccharides into glucose during cellulose digestion in termites. SDS-PAGE and zymogram analyses of the digestive system in the higher termite Nasutitermes takasagoensis revealed that beta-glucosidase activity is localized in the salivary glands and midgut as dimeric glycoproteins. Degenerate PCR using primers based on the N-terminal amino acid sequences of the salivary beta-glucosidase resulted in cDNA fragments of 1.7 kb, encoding 489 amino acids with a sequence similar to glycosyl hydrolase family 1. Moreover, these primers amplified cDNA fragments from the midgut, and the deduced amino acid sequences are 87-91% identical to those of the salivary beta-glucosidases. Successful expression of the cDNAs in Escherichia coli implies that these sequences also encode functional beta-glucosidases. These results indicate that beta-glucosidases that primarily contribute to the digestive process of N. takasagoensis are produced in the midgut. Reverse transcription-PCR analysis indicated the site-specific expression of beta-glucosidase mRNAs in the salivary glands and midgut. These results suggest that termites have developed the ability to produce beta-glucosidases in the midgut, as is the case for endo-beta-1,4-glucanase, in which the site of expression has shifted from the salivary glands of lower termites to the midgut of higher termites.</text>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="186" length="16"/>
+        <text>beta-Glucosidase</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">D005947</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="270" length="7"/>
+        <text>glucose</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">CHEBI:8984</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="318" length="3"/>
+        <text>SDS</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="395" length="26"/>
+        <text>Nasutitermes takasagoensis</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="436" length="16"/>
+        <text>beta-glucosidase</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="577" length="1"/>
+        <text>N</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">CHEBI:33704</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="588" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="625" length="16"/>
+        <text>beta-glucosidase</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">CHEBI:33709</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="693" length="11"/>
+        <text>amino acids</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="732" length="18"/>
+        <text>glycosyl hydrolase</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">CHEBI:33704</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="843" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">562</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="967" length="16"/>
+        <text>Escherichia coli</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1036" length="16"/>
+        <text>beta-glucosidase</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:53:24Z</infon>
+        <location offset="1083" length="16"/>
+        <text>beta-glucosidase</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1155" length="16"/>
+        <text>N. takasagoensis</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1277" length="16"/>
+        <text>beta-glucosidase</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:53:32Z</infon>
+        <location offset="1409" length="16"/>
+        <text>beta-glucosidase</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T02:53:36Z</infon>
+        <location offset="1461" length="23"/>
+        <text>endo-beta-1,4-glucanase</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

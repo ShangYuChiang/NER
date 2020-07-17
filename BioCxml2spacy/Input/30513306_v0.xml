@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30513306</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Structural glycoprotein LmAbd-9 is required for the formation of the endocuticle during locust molting.</text>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:22:53Z</infon>
+        <location offset="0" length="23"/>
+        <text>Structural glycoprotein</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="24" length="7"/>
+        <text>LmAbd-9</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>104</offset>
+      <text>Insect cuticle is a composite made of chitin filaments embedded in a proteinaceous matrix, consisting mainly of structural cuticular proteins. In the present study, an endocuticle structural glycoprotein gene, LmAbd-9, was characterized based on the Locusta migratoria transcriptome. LmAbd-9 encodes a glycoprotein with a chitin binding domain 4, belonging to RR-1 subclass of the CPR family, which has two potential O-linked glycosylation sites (S115 and T137) at which glycosylation modification may occur. LmAbd-9 was highly expressed in the integument and showed periodic expression during molting. The expression levels of LmAbd-9 were significantly down-regulated after injection with 20-hydroxyecdysone (20E) for 6, 12, and 24  h, whereas it was upregulated after double-stranded RNA-mediated RNA interference of the 20E receptor gene LmEcR and LmFTZ-F1beta at day 2 of fifth instar nymphs for 48  h. After injection of dsLmAbd-9 on day 2 of fifth instar nymphs, the insects could normally molt to adults and showed no macroscopic phenotype; however, the cuticle of the adults was thinner, and there were significantly fewer endocuticular lamellae than in the control. Thus, LmAbd-9 that negatively regulated by the 20E signaling pathway was involved in the formation of the endocuticle in L. migratoria.</text>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:22:51Z</infon>
+        <location offset="284" length="23"/>
+        <text>structural glycoprotein</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="314" length="7"/>
+        <text>LmAbd-9</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7004</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="354" length="18"/>
+        <text>Locusta migratoria</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="388" length="7"/>
+        <text>LmAbd-9</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="613" length="7"/>
+        <text>LmAbd-9</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="732" length="7"/>
+        <text>LmAbd-9</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">MESH:D004441</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="795" length="18"/>
+        <text>20-hydroxyecdysone</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="946" length="5"/>
+        <text>LmEcR</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="956" length="12"/>
+        <text>LmFTZ-F1beta</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1286" length="7"/>
+        <text>LmAbd-9</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">7004</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1401" length="13"/>
+        <text>L. migratoria</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

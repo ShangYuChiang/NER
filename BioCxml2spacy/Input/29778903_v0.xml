@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29778903</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Orcokinins regulate the expression of neuropeptide precursor genes related to ecdysis in the hemimetabolous insect Rhodnius prolixus.</text>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:43:24Z</infon>
+        <location offset="0" length="9"/>
+        <text>Orcokinin</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:43:29Z</infon>
+        <location offset="38" length="22"/>
+        <text>neuropeptide precursor</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">13249</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="115" length="17"/>
+        <text>Rhodnius prolixus</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>134</offset>
+      <text>Ecdysis is a vital process for insects, during which they shed the old cuticle in order to emerge as the following developmental stage. Given its relevance for survival and reproduction, ecdysis is tightly regulated by peptidic hormones that conform an interrelated neuromodulatory network. This network was studied in species that undergo a complete metamorphosis, but not in hemimetabola. In a recent work, we demonstrated that orcokinin neuropeptides are essential for ecdysis to occur in the kissing bug Rhodnius prolixus. Here we performed gene silencing, quantitative PCR and in vitro treatments in order to study the interrelationships between RhoprOKs and hormones such as ecdysis triggering hormone, corazonin, eclosion hormone, crustacean cardioactive peptide and ecdysone. Our results suggest that RhoprOKs directly or indirectly regulate the expression of other genes. Whereas RhoprOKA is centrally involved in the regulation of gene expression, RhoprOKB is implicated in processes related to midgut physiology. Therefore, we propose that the different transcripts encoded in RhoprOK gene could integrate signaling cues, in order to coordinate the nutritional state with development and ecdysis. Given the emerging data that point to OKs as important factors for survival and reproduction, they could be candidates in the search for new insect management strategies based on neuroendocrine targets.</text>
+      <annotation id="3">
+        <infon key="identifier">MESH:C536351</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="485" length="13"/>
+        <text>metamorphosis</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:42:45Z</infon>
+        <location offset="564" length="22"/>
+        <text>orcokinin neuropeptide</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">13249</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="642" length="17"/>
+        <text>Rhodnius prolixus</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:42:28Z</infon>
+        <location offset="785" length="7"/>
+        <text>RhoprOK</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">MESH:C060602</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="843" length="9"/>
+        <text>corazonin</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">MESH:D004440</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="908" length="8"/>
+        <text>ecdysone</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:43:10Z</infon>
+        <location offset="943" length="7"/>
+        <text>RhoprOK</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1023" length="8"/>
+        <text>RhoprOKA</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1092" length="8"/>
+        <text>RhoprOKB</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1222" length="7"/>
+        <text>RhoprOK</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:43:16Z</infon>
+        <location offset="1380" length="2"/>
+        <text>OK</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

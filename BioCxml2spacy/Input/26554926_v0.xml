@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>26554926</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Ran Involved in the Development and Reproduction Is a Potential Target for RNA-Interference-Based Pest Management in Nilaparvata lugens.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="3"/>
+        <text>Ran</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="117" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>137</offset>
+      <text>UNASSIGNED: Ran (RanGTPase) in insects participates in the 20-hydroxyecdysone signal transduction pathway in which downstream genes, FTZ-F1, Kruppel-homolog 1 (Kr-h1) and vitellogenin, are involved. A putative Ran gene (NlRan) was cloned from Nilaparvata lugens, a destructive phloem-feeding pest of rice. NlRan has the typical Ran primary structure features that are conserved in insects. NlRan showed higher mRNA abundance immediately after molting and peaked in newly emerged female adults. Among the examined tissues ovary had the highest transcript level, followed by fat body, midgut and integument, and legs. Three days after dsNlRan injection the NlRan mRNA abundance in the third-, fourth-, and fifth-instar nymphs was decreased by 94.3%, 98.4% and 97.0%, respectively. NlFTZ-F1 expression levels in treated third- and fourth-instar nymphs were reduced by 89.3% and 23.8%, respectively. In contrast, NlKr-h1 mRNA levels were up-regulated by 67.5 and 1.5 folds, respectively. NlRan knockdown significantly decreased the body weights, delayed development, and killed &gt;85% of the nymphs at day seven. Two apparent phenotypic defects were observed: (1) Extended body form, and failed to molt; (2) The cuticle at the notum was split open but cannot completely shed off. The newly emerged female adults from dsNlRan injected fifth-instar nymphs showed lower levels of NlRan and vitellogenin, lower weight gain and honeydew excretion comparing with the blank control, and no offspring. Those results suggest that NlRan encodes a functional protein that was involved in development and reproduction. The study established proof of concept that NlRan could serve as a target for dsRNA-based pesticides for N. lugens control.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="149" length="3"/>
+        <text>Ran</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="154" length="9"/>
+        <text>RanGTPase</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">MESH:D004441</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="199" length="15"/>
+        <text>hydroxyecdysone</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="270" length="6"/>
+        <text>FTZ-F1</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="278" length="17"/>
+        <text>Kruppel-homolog 1</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="297" length="5"/>
+        <text>Kr-h1</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="308" length="12"/>
+        <text>vitellogenin</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="347" length="3"/>
+        <text>Ran</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="357" length="5"/>
+        <text>NlRan</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="380" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="443" length="5"/>
+        <text>NlRan</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:51:00Z</infon>
+        <location offset="465" length="3"/>
+        <text>Ran</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="527" length="5"/>
+        <text>NlRan</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">MESH:C046045</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="774" length="3"/>
+        <text>Ran</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="792" length="5"/>
+        <text>NlRan</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:51:07Z</infon>
+        <location offset="916" length="8"/>
+        <text>NlFTZ-F1</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1046" length="7"/>
+        <text>NlKr-h1</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1121" length="5"/>
+        <text>NlRan</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:C046045</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1452" length="3"/>
+        <text>Ran</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1508" length="5"/>
+        <text>NlRan</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1518" length="12"/>
+        <text>vitellogenin</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">MESH:D015430</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1538" length="11"/>
+        <text>weight gain</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1652" length="5"/>
+        <text>NlRan</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1782" length="5"/>
+        <text>NlRan</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1843" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

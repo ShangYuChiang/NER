@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30455105</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Environmental dissemination of mcr-1 positive Enterobacteriaceae by Chrysomya spp. (common blowfly): An increasing public health risk.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="31" length="5"/>
+        <text>mcr-1</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="68" length="9"/>
+        <text>Chrysomya</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>135</offset>
+      <text>Until recently, the role of insects, and particularly flies, in disseminating antimicrobial resistance (AMR) has been poorly studied. In this study, we screened blowflies (Chrysomya spp.) from different areas near the city of Phitsanulok, Northern Thailand, for the presence of AMR genes and in particular, mcr-1, using whole genome sequencing (WGS). In total, 48 mcr-1-positive isolates were recovered, consisting of 17 mcr-1-positive Klebsiella pneumoniae (MCRPKP) and 31 mcr-1-positive Escherichia coli (MCRPEC) strains. The 17 MCRPKP were shown to be clonal (ST43) with few single poly nucleomorphs (SNPs) by WGS analysis. In in-vitro models, the MCRPKP were shown to be highly virulent. In contrast, 31 recovered MCRPEC isolates are varied, belonging to 12 different sequence types shared with those causing human infections. The majority of mcr-1 gene are located on IncX4 plasmids (29/48, 60.42%), sharing an identical plasmid backbone. These findings highlight the contribution of flies to the AMR contagion picture in low- and middle-income countries and the challenges of tackling global AMR.</text>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="307" length="9"/>
+        <text>Chrysomya</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="442" length="5"/>
+        <text>mcr-1</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="480" length="3"/>
+        <text>WGS</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="499" length="5"/>
+        <text>mcr-1</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="556" length="5"/>
+        <text>mcr-1</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">573</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="571" length="21"/>
+        <text>Klebsiella pneumoniae</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="609" length="5"/>
+        <text>mcr-1</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">562</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="624" length="16"/>
+        <text>Escherichia coli</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">MESH:C017937</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="720" length="17"/>
+        <text>poly nucleomorphs</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="748" length="3"/>
+        <text>WGS</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">9606</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="948" length="5"/>
+        <text>human</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="982" length="5"/>
+        <text>mcr-1</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

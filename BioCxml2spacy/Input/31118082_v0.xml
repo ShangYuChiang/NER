@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31118082</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Characterization of a broad-based mosquito yeast interfering RNA larvicide with a conserved target site in mosquito semaphorin-1a genes.</text>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="116" length="13"/>
+        <text>semaphorin-1a</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>137</offset>
+      <text>BACKGROUND: RNA interference (RNAi), which has facilitated functional characterization of mosquito neural development genes such as the axon guidance regulator semaphorin-1a (sema1a), could one day be applied as a new means of vector control. Saccharomyces cerevisiae (baker s yeast) may represent an effective interfering RNA expression system that could be used directly for delivery of RNA pesticides to mosquito larvae. Here we describe characterization of a yeast larvicide developed through bioengineering of S. cerevisiae to express a short hairpin RNA (shRNA) targeting a conserved site in mosquito sema1a genes. RESULTS: Experiments conducted on Aedes aegypti larvae demonstrated that the yeast larvicide effectively silences sema1a expression, generates severe neural defects, and induces high levels of larval mortality in laboratory, simulated-field, and semi-field experiments. The larvicide was also found to induce high levels of Aedes albopictus, Anopheles gambiae and Culex quinquefasciatus mortality. CONCLUSIONS: The results of these studies indicate that use of yeast interfering RNA larvicides targeting mosquito sema1a genes may represent a new biorational tool for mosquito control.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="297" length="13"/>
+        <text>semaphorin-1a</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="312" length="6"/>
+        <text>sema1a</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="744" length="6"/>
+        <text>sema1a</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="792" length="13"/>
+        <text>Aedes aegypti</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="872" length="6"/>
+        <text>sema1a</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">MESH:D009436</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="908" length="14"/>
+        <text>neural defects</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">7160</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1082" length="16"/>
+        <text>Aedes albopictus</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1100" length="17"/>
+        <text>Anopheles gambiae</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">7176</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1122" length="22"/>
+        <text>Culex quinquefasciatus</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1271" length="6"/>
+        <text>sema1a</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

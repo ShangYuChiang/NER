@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31026441</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>A trypsin inhibitor-like protein secreted by Cotesia vestalis teratocytes inhibits hemolymph prophenoloxidase activation of Plutella xylostella.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2" length="30"/>
+        <text>trypsin inhibitor-like protein</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">217443</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="45" length="16"/>
+        <text>Cotesia vestalis</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">51655</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="124" length="19"/>
+        <text>Plutella xylostella</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>145</offset>
+      <text>To establish successful infections, endoparasitoid wasps must develop strategies to evade immune responses of the host. Here, we identified and characterized a teratocytes-expressed gene encoding a trypsin inhibitor-like protein containing a cysteine-rich domain from Cotesia vestalis, CvT-TIL. CvT-TIL had a high expression level during the later developmental stage of teratocytes and was secreted into host hemolymph. Further experiments showed CvT-TIL strongly suppressed the prophenoloxidase activation of host hemolymph in a dose-dependent manner by interacting with PxPAP3 of PO cascade. Our results not only provide evidence for an inhibition between CvT-TIL gene and the host s melanization activity, but also expand our knowledge about the mechanisms by which parasitoids regulate humoral immunity of the host.</text>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="343" length="30"/>
+        <text>trypsin inhibitor-like protein</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">MESH:D003545</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="387" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">217443</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="413" length="16"/>
+        <text>Cotesia vestalis</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="431" length="7"/>
+        <text>CvT-TIL</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="440" length="7"/>
+        <text>CvT-TIL</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="593" length="7"/>
+        <text>CvT-TIL</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:58:50Z</infon>
+        <location offset="718" length="6"/>
+        <text>PxPAP3</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="804" length="7"/>
+        <text>CvT-TIL</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

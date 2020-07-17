@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>20043914</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Cloning and characterization of a Gasp homolog from the spruce budworm, Choristoneura fumiferana, and its putative role in cuticle formation.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="34" length="4"/>
+        <text>Gasp</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="72" length="24"/>
+        <text>Choristoneura fumiferana</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>142</offset>
+      <text>Proteins that are capable of binding chitin play essential roles in the synthesis and structural integrity of the insect cuticle and peritrophic matrix. In the course of developing expressed sequence tag (EST) libraries for the eastern spruce budworm, Choristoneura fumiferana, we identified an abundant cDNA encoding a homolog of the Drosophila "gasp" gene (Gene Analogous to Small Peritrophins). For the present work, we undertook the characterization of this new homolog, CfGasp, in an effort to identify its role during larval development. As shown for DmGasp, the C. fumiferana homolog was found to contain three type-2 chitin-binding domains (CBDs), which were also found in Gasp orthologs retrieved from GenBank. In a phylogenetic analysis, these Gasp proteins formed a tight cluster, distinct from the midgut-specific peritrophins with which they share the cysteine-containing CBDs so far considered absent from cuticular proteins. However, unlike what has been shown for peritrophins, CfGasp transcript levels were low in larval midguts and most abundant in epidermis, while they were low in trachea and ovaries. Transcript levels increased during larval molts in a pattern similar to that observed for exocuticular proteins in other insects. In addition, the recombinant protein was shown to be capable of binding chitin. Altogether, these results suggest a structural role for CfGasp in exocuticle formation.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="394" length="24"/>
+        <text>Choristoneura fumiferana</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="477" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">40745</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="489" length="4"/>
+        <text>gasp</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="501" length="36"/>
+        <text>Gene Analogous to Small Peritrophins</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:09:10Z</infon>
+        <location offset="617" length="6"/>
+        <text>CfGasp</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:09:11Z</infon>
+        <location offset="699" length="6"/>
+        <text>DmGasp</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="711" length="13"/>
+        <text>C. fumiferana</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="823" length="4"/>
+        <text>Gasp</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="896" length="4"/>
+        <text>Gasp</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">D003545</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1007" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:09:17Z</infon>
+        <location offset="1136" length="6"/>
+        <text>CfGasp</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">D009800</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1166" length="21"/>
+        <text>low in larval midguts</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">D055090</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1243" length="7"/>
+        <text>trachea</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:09:21Z</infon>
+        <location offset="1530" length="6"/>
+        <text>CfGasp</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

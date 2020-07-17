@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>8901557</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Conserved promoter elements in the CYP6B gene family suggest common ancestry for cytochrome P450 monooxygenases mediating furanocoumarin detoxification.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="35" length="5"/>
+        <text>CYP6B</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="81" length="30"/>
+        <text>cytochrome P450 monooxygenases</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">MESH:D011564</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="122" length="14"/>
+        <text>furanocoumarin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>153</offset>
+      <text>Despite the fact that Papilio glaucus and Papilio polyxenes share no single hostplant species, both species feed to varying extents on hostplants that contain furanocoumarins. P. glaucus contains two nearly identical genes, CYP6B4v2 and CYP6B5v1, and P. polyxenes contains two related genes, CYP6B1v3 and CYP6B3v2. Except for CYP6B3v2, the substrate specificity of which has not yet been defined, each of the encoded cytochrome P450 monooxygenases (P450s) metabolizes an array of linear furanocoumarins. All four genes are transcriptionally induced in larvae by exposure to the furanocoumarin xanthotoxin; several are also induced by other furanocoumarins. Comparisons of the organizational structures of these genes indicate that all have the same intron/exon arrangement. Sequences in the promoter regions of the P. glaucus CYP6B4v2/CYP6B5v1 genes and the P. polyxenes CYP6B3v2 gene are similar but not identical to the -146 to -97 region of CYP6B1v3 gene, which contains a xanthotoxin-responsive element (XRE-xan) important for basal and xanthotoxin-inducible transcription of CYP6B1v3. Complements of the xenobiotic-responsive element (XRE-AhR) in the dioxin-inducible human and rat CYP1A1 genes also exist in all four promoters, suggesting that these genes may be regulated by dioxin. Antioxidant-responsive elements (AREs) in mouse and rat glutathione S-transferase genes and the Barbie box element (Bar) in the bacterial CYP102 gene exist in the CYP6B1v3, CYP6B4v2, and CYP6B5v1 promoters. Similarities in the protein sequences, intron positions, and xanthotoxin- and xenobiotic-responsive promoter elements indicate that these insect CYP6B genes are derived from a common ancestral gene. Evolutionary comparisons between these P450 genes are the first available for a group of insect genes transcriptionally regulated by hostplant allelochemicals and provide insights into the process by which insects evolve specialized feeding habits.</text>
+      <annotation id="4">
+        <infon key="identifier">45779</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="175" length="15"/>
+        <text>Papilio glaucus</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">7146</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="195" length="17"/>
+        <text>Papilio polyxenes</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">MESH:D011564</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="312" length="15"/>
+        <text>furanocoumarins</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">45779</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="329" length="10"/>
+        <text>P. glaucus</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="377" length="8"/>
+        <text>CYP6B4v2</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="390" length="8"/>
+        <text>CYP6B5v1</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">7146</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="404" length="12"/>
+        <text>P. polyxenes</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="445" length="8"/>
+        <text>CYP6B1v3</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="458" length="8"/>
+        <text>CYP6B3v2</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="479" length="8"/>
+        <text>CYP6B3v2</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="570" length="30"/>
+        <text>cytochrome P450 monooxygenases</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:38:16Z</infon>
+        <location offset="602" length="4"/>
+        <text>P450</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">MESH:D011564</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="640" length="15"/>
+        <text>furanocoumarins</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">MESH:D008730</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="731" length="26"/>
+        <text>furanocoumarin xanthotoxin</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">MESH:D011564</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="793" length="15"/>
+        <text>furanocoumarins</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">45779</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="968" length="10"/>
+        <text>P. glaucus</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="979" length="8"/>
+        <text>CYP6B4v2</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="988" length="8"/>
+        <text>CYP6B5v1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">7146</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1011" length="12"/>
+        <text>P. polyxenes</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1024" length="8"/>
+        <text>CYP6B3v2</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1097" length="8"/>
+        <text>CYP6B1v3</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">MESH:D008730</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1129" length="11"/>
+        <text>xanthotoxin</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">MESH:D008730</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1194" length="11"/>
+        <text>xanthotoxin</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1233" length="8"/>
+        <text>CYP6B1v3</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">MESH:D004147</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1309" length="6"/>
+        <text>dioxin</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">9606</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1326" length="5"/>
+        <text>human</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">10116</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1336" length="3"/>
+        <text>rat</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">24296</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1340" length="6"/>
+        <text>CYP1A1</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">MESH:D004147</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1435" length="6"/>
+        <text>dioxin</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">10090</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1485" length="5"/>
+        <text>mouse</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier">10116</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1495" length="3"/>
+        <text>rat</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:38:57Z</infon>
+        <location offset="1499" length="25"/>
+        <text>glutathione S-transferase</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:39:01Z</infon>
+        <location offset="1581" length="6"/>
+        <text>CYP102</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1606" length="8"/>
+        <text>CYP6B1v3</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1616" length="8"/>
+        <text>CYP6B4v2</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1630" length="8"/>
+        <text>CYP6B5v1</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="identifier">MESH:D008730</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1711" length="11"/>
+        <text>xanthotoxin</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1795" length="5"/>
+        <text>CYP6B</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:38:53Z</infon>
+        <location offset="1888" length="4"/>
+        <text>P450</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

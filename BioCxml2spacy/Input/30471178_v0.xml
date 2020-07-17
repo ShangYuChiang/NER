@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30471178</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Rh6 gene modulates the visual mechanism of host utilization in fruit fly Bactrocera minax.</text>
+      <annotation id="1">
+        <infon key="identifier">41889</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="3"/>
+        <text>Rh6</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">104690</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="73" length="16"/>
+        <text>Bactrocera minax</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>91</offset>
+      <text>BACKGROUND: Vision plays a critical role in host location and oviposition behavior for herbivorous insects. However, the molecular mechanisms underlying visual regulation in host recognition and oviposition site selection in insects remains unknown. The aim of this study was to explore the key visual genes that are linked to the host plant location of the fruit fly, Bactrocera minax. RESULTS: Using a host specialist fruit fly, B. minax, which lays eggs only into immature green citrus fruit, we undertook behavioral, transcriptomic, and RNAi research to identify the molecular basis for host fruit color recognition. In laboratory and field assays we found that adults prefer green over other colors, and this preference is significantly increased in sexually mature over immature flies. Furthermore, we identified that the Rh6 gene, responsible for green spectral sensitivity, has elevated expression in mature flies over immature flies. RNAi suppression of Rh6 eliminated the preference for green, resulting in a significant decrease in the number of eggs laid by B. minax in green unripe citrus. CONCLUSION: These results show that the Rh6 gene modulates the visual mechanism of host utilization in B. minax, providing a genetic basis for visual host location in a non-model insect herbivore.  2018 Society of Chemical Industry.</text>
+      <annotation id="5">
+        <infon key="identifier">104690</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="460" length="16"/>
+        <text>Bactrocera minax</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">104690</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="522" length="8"/>
+        <text>B. minax</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">41889</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="919" length="3"/>
+        <text>Rh6</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">41889</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1054" length="3"/>
+        <text>Rh6</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">104690</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1161" length="8"/>
+        <text>B. minax</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">41889</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1234" length="3"/>
+        <text>Rh6</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">104690</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1297" length="8"/>
+        <text>B. minax</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

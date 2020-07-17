@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>18826030</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>CNAct-1 gene is differentially expressed in the subtropical mosquito Culex nigripalpus (Diptera: Culicidae), the primary West Nile Virus vector in Florida.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="7"/>
+        <text>CNAct-1</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="69" length="17"/>
+        <text>Culex nigripalpus</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>156</offset>
+      <text>Analysis of differentially expressed genes is a common molecular biological tool to investigate changes in mosquito genes after a bloodmeal or parasite exposure. We report here the characterization of a differentially expressed actin gene, CNAct-1, from the subtropical mosquito, Culex nigripalpus Theobald (Diptera: Culicidae). The CNAct-1 genomic clone is 1.525 kb, includes one 66-bp intron, and a 328-bp 3 -untranslated region. The 376-amino acid putative translation product shares high similarity with muscle-specific actin proteins from other insects, including Culex pipiens pipiens L., Aedes aegypti (L.), Anopheles gambiae Giles and Drosophila melanogaster (Meigen). CNAct-1 is expressed in second and third instars, late pupae, and adult females and males. Interestingly, Cx. nigripalpus actin was highly expressed in female mosquito midgut tissue isolated 6-12 h after ingestion of a bloodmeal. This expression profile indicates a unique function for CNAct-1 in midgut processes that are initiated after blood ingestion.</text>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="384" length="5"/>
+        <text>actin</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="396" length="7"/>
+        <text>CNAct-1</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="436" length="17"/>
+        <text>Culex nigripalpus</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="489" length="7"/>
+        <text>CNAct-1</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">CHEBI:33704</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="596" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="680" length="5"/>
+        <text>actin</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">38569</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="725" length="23"/>
+        <text>Culex pipiens pipiens L</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">C536652</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="739" length="7"/>
+        <text>pipiens</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">7159</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="751" length="13"/>
+        <text>Aedes aegypti</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="771" length="17"/>
+        <text>Anopheles gambiae</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="799" length="23"/>
+        <text>Drosophila melanogaster</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="833" length="7"/>
+        <text>CNAct-1</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="955" length="5"/>
+        <text>actin</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1119" length="7"/>
+        <text>CNAct-1</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

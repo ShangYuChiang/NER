@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30536703</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Insulin-like peptides of the legume pod borer, Maruca vitrata, and their mediation effects on hemolymph trehalose level, larval development, and adult reproduction.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="20"/>
+        <text>Insulin-like peptide</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">497515</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="47" length="14"/>
+        <text>Maruca vitrata</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">MESH:D014199</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="104" length="9"/>
+        <text>trehalose</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>165</offset>
+      <text>Insulin-like peptides (ILPs) of insects mediate various physiological processes including hemolymph sugar level, immature growth, female reproduction, and lifespan. In target cells of ILPs, insulin/insulin-like growth factor signaling (IIS) is highly conserved in animals. IIS in the legume pod borer, Maruca vitrata (Lepidoptera: Crambidae), is known to be involved in maintaining hemolymph trehalose levels and promoting larval growth. However, ILPs in M. vitrata have not been reported yet. This study predicted two ILP genes of Mv-ILP1 and Mv-ILP2 from transcriptome of M. vitrata. Mv-ILP1 and Mv-ILP2 shared high sequence homologies and domain architecture with Drosophila ILPs. Both ILPs exhibited similar expression patterns in most developmental stages, showing high expression levels in adult stage. In the larval stage, Mv-ILP1 and Mv-IlP2 were expressed mostly in the brain and fat body. However, in the adult stage, both ILP genes were expressed more in the abdomen than those in the head containing the brain. RNA interference (RNAi) of either Mv-ILP1 or Mv-ILP2 during larval stage resulted in significant malfunctioning in regulating hemolymph trehalose titers. RNAi-treated larvae also exhibited significant retardation of larval growth. RNAi treatment in adult stage interfered with the ovarian development of females. These results suggest that Mv-ILP1 and Mv-ILP2 play crucial roles in mediating larval growth and adult reproduction.</text>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:19:46Z</infon>
+        <location offset="165" length="20"/>
+        <text>Insulin-like peptide</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="188" length="3"/>
+        <text>ILP</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">MESH:D002241</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="265" length="5"/>
+        <text>sugar</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:19:53Z</infon>
+        <location offset="349" length="3"/>
+        <text>ILP</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">497515</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="467" length="14"/>
+        <text>Maruca vitrata</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">MESH:D014199</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="557" length="9"/>
+        <text>trehalose</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:20:04Z</infon>
+        <location offset="612" length="3"/>
+        <text>ILP</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">497515</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="620" length="10"/>
+        <text>M. vitrata</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="684" length="3"/>
+        <text>ILP</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:20:14Z</infon>
+        <location offset="697" length="7"/>
+        <text>Mv-ILP1</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:20:21Z</infon>
+        <location offset="709" length="7"/>
+        <text>Mv-ILP2</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">497515</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="739" length="10"/>
+        <text>M. vitrata</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:20:27Z</infon>
+        <location offset="751" length="7"/>
+        <text>Mv-ILP1</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:20:37Z</infon>
+        <location offset="763" length="7"/>
+        <text>Mv-ILP2</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:20:44Z</infon>
+        <location offset="843" length="3"/>
+        <text>ILP</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:20:46Z</infon>
+        <location offset="854" length="3"/>
+        <text>ILP</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:20:53Z</infon>
+        <location offset="995" length="7"/>
+        <text>Mv-ILP1</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:20:58Z</infon>
+        <location offset="1007" length="7"/>
+        <text>Mv-IlP2</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1098" length="3"/>
+        <text>ILP</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:21:05Z</infon>
+        <location offset="1222" length="7"/>
+        <text>Mv-ILP1</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:21:11Z</infon>
+        <location offset="1233" length="7"/>
+        <text>Mv-ILP2</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:D014199</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1324" length="9"/>
+        <text>trehalose</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">MESH:D008607</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1389" length="11"/>
+        <text>retardation</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:21:25Z</infon>
+        <location offset="1528" length="7"/>
+        <text>Mv-ILP1</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T03:21:27Z</infon>
+        <location offset="1540" length="7"/>
+        <text>Mv-ILP2</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

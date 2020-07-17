@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30834620</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Downregulation of dystrophin expression in pupae of the whitefly Bemisia tabaci inhibits the emergence of adults.</text>
+      <annotation id="1">
+        <infon key="identifier">1756</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="18" length="10"/>
+        <text>dystrophin</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7038</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="65" length="14"/>
+        <text>Bemisia tabaci</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>114</offset>
+      <text>The whitefly Bemisia tabaci is a major pest to agriculture. Adults are is able to fly for long distances and to colonize staple crops, herbs and ornamentals, and to vector viruses belonging to several important taxonomic groups. During their early development, whiteflies mature from eggs through several nymphal stages (instars I to IV) until adults emerge from pupae. We aim at reducing whitefly populations by inhibiting the emergence of adults from nymphs. Here we targeted dystrophin, a conserved protein essential for the development of the muscle system in human, animals and insects. We have exploited the fact that whitefly nymphs developing on tomato leaves feed from the plant phloem via their stylets. Thus, we delivered dystrophin-silencing dsRNA to nymphs developing on leaves of tomato plantlets with their roots bathing in the silencing solution. Downregulation of dystrophin expression occurred mainly in pupae. Dystrophin silencing induced also the downregulation of the dystrophin-associated protein genes actin and tropomyosin, and disrupted F-actin. Most significant, the treatment inhibited the emergence of adults from pupae, suggesting that targeting dystrophin may help restraining whitefly populations. This study demonstrates for the first time the important role of dystrophin in the development of a major insect pest to agriculture. This article is protected by copyright. All rights reserved.</text>
+      <annotation id="3">
+        <infon key="identifier">7038</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="127" length="14"/>
+        <text>Bemisia tabaci</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">1756</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="592" length="10"/>
+        <text>dystrophin</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">1756</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="847" length="10"/>
+        <text>dystrophin</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">1756</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="995" length="10"/>
+        <text>dystrophin</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">1756</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1043" length="10"/>
+        <text>Dystrophin</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">1756</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1103" length="10"/>
+        <text>dystrophin</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:34:24Z</infon>
+        <location offset="1139" length="5"/>
+        <text>actin</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:34:28Z</infon>
+        <location offset="1149" length="11"/>
+        <text>tropomyosin</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:34:32Z</infon>
+        <location offset="1176" length="7"/>
+        <text>F-actin</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">1756</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1289" length="10"/>
+        <text>dystrophin</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">1756</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1408" length="10"/>
+        <text>dystrophin</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

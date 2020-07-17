@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29066324</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Functional analysis by RNAi of an glutaredoxin gene in Helicoverpa armigera.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="34" length="12"/>
+        <text>glutaredoxin</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">29058</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="55" length="20"/>
+        <text>Helicoverpa armigera</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>77</offset>
+      <text>Glutaredoxins play crucial roles in maintaining intracellular redox homeostasis via scavenging of excess reactive oxygen species. In this study, a glutaredoxin domain-containing cysteine-rich gene from Helicoverpa armigera, named HaGdccr, was characterized. Sequence analysis revealed that it contains a glutaredoxin domain and a conserved cysteine and shares high sequence identity with other insect genes. HaGdccr mRNA expression was highest in molting larvae of the 3rd instar and was mainly detected in the central nervous system of larvae and the wings of adults. Quantitative real-time PCR results revealed that the expression of HaGdccr was suppressed at 1 and 6 h and increased at 24 h after the larvae were treated with 4  C and hydrogen peroxide. When the larvae were exposed to 20  C, HaGdccr decreased at 1 h and was induced at 12 and 24 h. HaGdccr transcription level was downregulated at 2 and 12 h and upregulated at 24 h after the adults were exposed to 0  C. However, transcript levels were increased by high temperature in both larvae and adults. After knockdown of HaGdccr by RNA interference, the expression of antioxidant genes, including thioredoxin-like (Trx-like), catalase (CAT), glutathione-S-transferase (GST), thioredoxin reductase (TrxR), and thioredoxin (Trx), was increased, whereas that of thioredoxin peroxidase (Tpx) was decreased. In addition, we found that HaGdccr knockdown enhanced the enzymatic activity of superoxide dismutase and the contents of hydrogen peroxide and ascorbate. Taken together, these results indicate that HaGdccr may play significant roles in protecting organisms against oxidative damage.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="77" length="12"/>
+        <text>Glutaredoxin</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">D010100</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="191" length="6"/>
+        <text>oxygen</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="224" length="49"/>
+        <text>glutaredoxin domain-containing cysteine-rich gene</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">29058</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="279" length="20"/>
+        <text>Helicoverpa armigera</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="307" length="7"/>
+        <text>HaGdccr</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">D003545</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="417" length="8"/>
+        <text>cysteine</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="485" length="7"/>
+        <text>HaGdccr</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="713" length="7"/>
+        <text>HaGdccr</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="873" length="7"/>
+        <text>HaGdccr</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="930" length="7"/>
+        <text>HaGdccr</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1161" length="7"/>
+        <text>HaGdccr</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1237" length="16"/>
+        <text>thioredoxin-like</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1255" length="8"/>
+        <text>Trx-like</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1266" length="8"/>
+        <text>catalase</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1276" length="3"/>
+        <text>CAT</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1282" length="25"/>
+        <text>glutathione-S-transferase</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1309" length="3"/>
+        <text>GST</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1315" length="21"/>
+        <text>thioredoxin reductase</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1338" length="4"/>
+        <text>TrxR</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1349" length="11"/>
+        <text>thioredoxin</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1362" length="3"/>
+        <text>Trx</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1399" length="22"/>
+        <text>thioredoxin peroxidase</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1423" length="3"/>
+        <text>Tpx</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1470" length="7"/>
+        <text>HaGdccr</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1641" length="7"/>
+        <text>HaGdccr</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

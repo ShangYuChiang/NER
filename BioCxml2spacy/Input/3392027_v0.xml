@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>3392027</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Primary structure of apolipophorin-III from the migratory locust, Locusta migratoria. Potential amphipathic structures and molecular evolution of an insect apolipoprotein.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="21" length="17"/>
+        <text>apolipophorin-III</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7004</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="66" length="18"/>
+        <text>Locusta migratoria</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:41:02Z</infon>
+        <location offset="156" length="14"/>
+        <text>apolipoprotein</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>172</offset>
+      <text>The amino acid sequence of an insect apolipoprotein, apolipophorin-III from Locusta migratoria, has been deduced from the sequence of its cloned cDNA. The mature hemolymph protein consists of 161 amino acids. Optimized alignments of this protein with apolipophorin-III from the tobacco hornworm, Manduca sexta, disclosed an overall sequence identity of only 29%, even though the two proteins are functionally equivalent. The L. migratoria sequence is composed of 12 repeating peptides that are variable in length. Six amphipathic helical segments of varying length were identified in each protein using a newly described algorithm for detecting such secondary structures. The degree of sequence identity between the two insect apoproteins is considerably less than that observed among orthologous mammalian apolipoproteins. However, calculation of the rates of synonymous and nonsynonymous nucleotide substitutions indicates that the insect genes may be evolving at rates similar to the mammalian apolipoprotein genes. Further comparative analyses of insect and mammalian apolipoproteins should provide insights about the limits of sequence diversity tolerated by their predicted amphipathic helical domains.</text>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:40:56Z</infon>
+        <location offset="209" length="14"/>
+        <text>apolipoprotein</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="225" length="17"/>
+        <text>apolipophorin-III</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">7004</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="248" length="18"/>
+        <text>Locusta migratoria</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="423" length="17"/>
+        <text>apolipophorin-III</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">7130</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="468" length="13"/>
+        <text>Manduca sexta</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">7004</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="597" length="13"/>
+        <text>L. migratoria</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:40:48Z</infon>
+        <location offset="899" length="10"/>
+        <text>apoprotein</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:40:46Z</infon>
+        <location offset="979" length="14"/>
+        <text>apolipoprotein</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:40:36Z</infon>
+        <location offset="1169" length="14"/>
+        <text>apolipoprotein</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:40:39Z</infon>
+        <location offset="1244" length="14"/>
+        <text>apolipoprotein</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

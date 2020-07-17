@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30270498</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Hormonal control and target genes of ftz-f1 expression in the honeybee Apis mellifera: a positive loop linking juvenile hormone, ftz-f1, and vitellogenin.</text>
+      <annotation id="1">
+        <infon key="identifier">726450</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="37" length="6"/>
+        <text>ftz-f1</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7460</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="62" length="8"/>
+        <text>honeybee</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7460</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="71" length="14"/>
+        <text>Apis mellifera</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">726450</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="129" length="6"/>
+        <text>ftz-f1</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">406088</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="141" length="12"/>
+        <text>vitellogenin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>155</offset>
+      <text>Ftz-f1 is an orphan member of the nuclear hormone receptor superfamily. A 20-hydroxyecdysone pulse allows ftz-f1 gene expression, which then regulates the activity of downstream genes involved in major developmental progression events. In honeybees, the expression of genes like vitellogenin (vg), prophenoloxidase and juvenile hormone-esterase during late pharate-adult development is known to be hormonally controlled in both queens and workers by increasing juvenile hormone (JH) titres in the presence of declining levels of ecdysteroids. Since Ftz-f1 is known for mediating intracellular JH signalling, we hypothesized that ftz-f1 could mediate JH action during the pharate-adult development of honeybees, thus controlling the expression of these genes. Here, we show that ftz-f1 has caste-specific transcription profiles during this developmental period, with a peak coinciding with the increase in JH titre, and that its expression is upregulated by JH and downregulated by ecdysteroids. RNAi-mediated knock down of ftz-f1 showed that the expression of genes essential for adult development (e.g. vg and cuticular genes) depends on ftz-f1 expression. Finally, a double-repressor hypothesis-inspired vg gene knock-down experiment suggests the existence of a positive molecular loop between JH, ftz-f1 and vg.</text>
+      <annotation id="6">
+        <infon key="identifier">726450</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="155" length="6"/>
+        <text>Ftz-f1</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">MESH:D004441</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="229" length="18"/>
+        <text>20-hydroxyecdysone</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">726450</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="261" length="6"/>
+        <text>ftz-f1</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">7460</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="394" length="9"/>
+        <text>honeybees</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">406088</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="434" length="12"/>
+        <text>vitellogenin</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="448" length="2"/>
+        <text>vg</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">406155</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="453" length="16"/>
+        <text>prophenoloxidase</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">406066</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="474" length="25"/>
+        <text>juvenile hormone-esterase</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">MESH:D026461</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="684" length="12"/>
+        <text>ecdysteroids</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">726450</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="704" length="6"/>
+        <text>Ftz-f1</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">726450</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="784" length="6"/>
+        <text>ftz-f1</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">7460</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="855" length="9"/>
+        <text>honeybees</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">726450</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="933" length="6"/>
+        <text>ftz-f1</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">MESH:D026461</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1136" length="12"/>
+        <text>ecdysteroids</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">726450</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1178" length="6"/>
+        <text>ftz-f1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1259" length="2"/>
+        <text>vg</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">726450</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1294" length="6"/>
+        <text>ftz-f1</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1361" length="2"/>
+        <text>vg</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">726450</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1455" length="6"/>
+        <text>ftz-f1</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1466" length="2"/>
+        <text>vg</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

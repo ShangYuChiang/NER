@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31096618</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Identification and Expression Analysis of Four Small Heat Shock Protein Genes in Cigarette Beetle, Lasioderma serricorne (Fabricius).</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="53" length="18"/>
+        <text>Heat Shock Protein</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="99" length="21"/>
+        <text>Lasioderma serricorne</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>134</offset>
+      <text>Small heat shock proteins (sHsps) are molecular chaperones that play crucial roles in the stress adaption of insects. In this study, we identified and characterized four sHsp genes (LsHsp19.4, 20.2, 20.3, and 22.2) from the cigarette beetle, Lasioderma serricorne (Fabricius). The four cDNAs encoded proteins of 169, 180, 181, and 194 amino acids with molecular weights of 19.4, 20.2, 20.3, and 22.2 kDa, respectively. The four LsHsp sequences possessed a typical sHsp domain structure. Quantitative real-time PCR analyses revealed that LsHsp19.4 and 20.3 transcripts were most abundant in pupae, whereas the transcript levels of LsHsp20.2 and 22.2 were highest in adults. Transcripts of three LsHsp genes were highly expressed in the larval fat body, whereas LsHsp20.2 displayed an extremely high expression level in the gut. Expression of the four LsHsp genes was dramatically upregulated in larvae exposed to 20-hydroxyecdysone. The majority of the LsHsp genes were significantly upregulated in response to heat and cold treatments, while LsHsp19.4 was insensitive to cold stress. The four genes were upregulated when challenged by immune triggers (peptidoglycan isolated from Staphylococcus aureus and from Escherichia coli 0111:B4). Exposure to CO2 increased LsHsp20.2 and 20.3 transcript levels, but the LsHsp19.4 transcript level declined. The results suggest that different LsHsp genes play important and distinct regulatory roles in L. serricorne development and in response to diverse stresses.</text>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="161" length="5"/>
+        <text>sHsps</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="304" length="4"/>
+        <text>sHsp</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="316" length="9"/>
+        <text>LsHsp19.4</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="376" length="21"/>
+        <text>Lasioderma serricorne</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="562" length="5"/>
+        <text>LsHsp</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="598" length="4"/>
+        <text>sHsp</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="671" length="9"/>
+        <text>LsHsp19.4</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="764" length="9"/>
+        <text>LsHsp20.2</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="828" length="5"/>
+        <text>LsHsp</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="894" length="9"/>
+        <text>LsHsp20.2</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="984" length="5"/>
+        <text>LsHsp</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">MESH:D004441</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1046" length="18"/>
+        <text>20-hydroxyecdysone</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1086" length="5"/>
+        <text>LsHsp</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1176" length="9"/>
+        <text>LsHsp19.4</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">1280</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1314" length="21"/>
+        <text>Staphylococcus aureus</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">562</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1345" length="16"/>
+        <text>Escherichia coli</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:D002245</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1384" length="3"/>
+        <text>CO2</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1398" length="9"/>
+        <text>LsHsp20.2</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1444" length="9"/>
+        <text>LsHsp19.4</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1516" length="5"/>
+        <text>LsHsp</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">295660</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1576" length="13"/>
+        <text>L. serricorne</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

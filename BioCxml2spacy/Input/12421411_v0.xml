@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>12421411</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Isolation and molecular characterization of Musca domestica delta-9 desaturase sequences.</text>
+      <annotation id="1">
+        <infon key="identifier">7370</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="44" length="15"/>
+        <text>Musca domestica</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="60" length="18"/>
+        <text>delta-9 desaturase</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>90</offset>
+      <text>We have isolated fatty acyl-CoA desaturase cDNA (Mdomd9) and genomic sequences from the housefly, Musca domestica. Two approximately 1.66 kb cDNAs were recovered. They had identical coding regions and 3  untranslated regions (UTRs), but differed in their 5  UTRs. The open reading frame encodes a 380 amino acid (aa) protein with 82% identity to Drosophila melanogaster desat1, and significant (&gt; 50%) identity with other insect delta-9 desaturases. Functional analyses in a yeast expression system confirmed the cDNA encodes a delta9 desaturase. Northern analysis indicated two transcripts of 1.7 and 2.9 kb that hybridized specifically to the open reading frame. PCR amplification of genomic templates revealed three intron sites that are conserved among other insect species. Southern analysis of genomic DNA indicated at least two desaturase gene copies per haploid genome. There is a high degree of polymorphism, most of which appears to be due to variable intron sequences; curiously, individual flies had varying morphs of intron II and intron III. Together, the data suggest that there are more delta9 desaturase alleles within the population studied than there are loci within the genome, and support other studies suggesting that insect fatty acyl-CoA desaturases are a dynamically evolving gene family.</text>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="107" length="25"/>
+        <text>fatty acyl-CoA desaturase</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:34:32Z</infon>
+        <location offset="139" length="6"/>
+        <text>Mdomd9</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">7370</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="188" length="15"/>
+        <text>Musca domestica</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">CHEBI:33704</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="391" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="436" length="23"/>
+        <text>Drosophila melanogaster</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">117369</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="460" length="6"/>
+        <text>desat1</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:34:49Z</infon>
+        <location offset="519" length="18"/>
+        <text>delta-9 desaturase</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:34:57Z</infon>
+        <location offset="618" length="17"/>
+        <text>delta9 desaturase</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:35:12Z</infon>
+        <location offset="1193" length="17"/>
+        <text>delta9 desaturase</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T17:35:30Z</infon>
+        <location offset="1337" length="25"/>
+        <text>fatty acyl-CoA desaturase</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

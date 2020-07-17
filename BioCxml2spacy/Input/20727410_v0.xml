@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>20727410</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Molecular cloning of a multidomain cysteine protease and protease inhibitor precursor gene from the tobacco hornworm (Manduca sexta) and functional expression of the cathepsin F-like cysteine protease domain.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="35" length="17"/>
+        <text>cysteine protease</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7130</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="100" length="16"/>
+        <text>tobacco hornworm</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7130</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="118" length="13"/>
+        <text>Manduca sexta</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:59:30Z</infon>
+        <location offset="166" length="34"/>
+        <text>cathepsin F-like cysteine protease</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>209</offset>
+      <text>A Manduca sexta (tobacco hornworm) cysteine protease inhibitor, MsCPI, purified from larval hemolymph has an apparent molecular mass of 11.5 kDa, whereas the size of the mRNA is very large (  9 kilobases). MsCPI cDNA consists of a 9,273 nucleotides that encode a polypeptide of 2,676 amino acids, which includes nine tandemly repeated MsCPI domains, four cystatin-like domains and one procathepsin F-like domain. The procathepsin F-like domain protein was expressed in Escherichia coli and processed to its active mature form by incubation with pepsin. The mature enzyme hydrolyzed Z-Leu-Arg-MCA, Z-Phe-Arg-MCA and Boc-Val-Leu-Lys-MCA rapidly, whereas hydrolysis of Suc-Leu-Tyr-MCA and Z-Arg-Arg-MCA was very slow. The protease was strongly inhibited by MsCPI, egg-white cystatin and sunflower cystatin with K(i) values in the nanomolar range. When the MsCPI tandem protein linked to two MsCPI domains was treated with proteases, it was degraded by the cathepsin F-like protease. However, tryptic digestion converted the MsCPI tandem protein to an active inhibitory form. These data support the hypothesis that the mature MsCPI protein is produced from the MsCPI precursor protein by trypsin-like proteases. The resulting mature MsCPI protein probably plays a role in the regulation of the activity of endogenous cysteine proteases.</text>
+      <annotation id="5">
+        <infon key="identifier">7130</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="211" length="13"/>
+        <text>Manduca sexta</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7130</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="226" length="16"/>
+        <text>tobacco hornworm</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="244" length="27"/>
+        <text>cysteine protease inhibitor</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="273" length="5"/>
+        <text>MsCPI</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="415" length="5"/>
+        <text>MsCPI</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="544" length="5"/>
+        <text>MsCPI</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:59:08Z</infon>
+        <location offset="626" length="34"/>
+        <text>procathepsin F-like domain protein</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="963" length="5"/>
+        <text>MsCPI</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1062" length="5"/>
+        <text>MsCPI</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1097" length="5"/>
+        <text>MsCPI</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:58:53Z</infon>
+        <location offset="1162" length="25"/>
+        <text>cathepsin F-like protease</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1230" length="5"/>
+        <text>MsCPI</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1331" length="5"/>
+        <text>MsCPI</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1366" length="5"/>
+        <text>MsCPI</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1438" length="5"/>
+        <text>MsCPI</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T14:59:00Z</infon>
+        <location offset="1522" length="17"/>
+        <text>cysteine protease</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

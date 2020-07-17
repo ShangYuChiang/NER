@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>20589912</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Life-span phenotypes of elav and Rbp9 in Drosophila suggest functional cooperation of the two ELAV-family protein genes.</text>
+      <annotation id="1">
+        <infon key="identifier">31000</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="24" length="4"/>
+        <text>elav</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">33498</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="33" length="4"/>
+        <text>Rbp9</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="41" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">31000</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="94" length="4"/>
+        <text>ELAV</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>121</offset>
+      <text>The ELAV family of RNA-binding proteins is involved in various aspects of the post-transcriptional regulation of gene expression, from alternative splicing to translation. The members of this family have been shown to interact with each other and have been suggested to function as homo- and/or hetero-multimers. However, the functional interactions among them have not been demonstrated in vivo. In this study, we examined the genetic interaction between elav and Rbp9, two of the three genes encoding ELAV-family proteins in Drosophila. Mutants of both elav and Rbp9 showed shorter life spans than the control, with elav showing a shorter life span than Rbp9. The survival curve of elav-Rbp9 double-mutant flies was indistinguishable from that of elav single-mutant flies, suggesting that both mutations affect longevity through the same pathway. Considering the fact that both genes are co-expressed in adult neurons, we hypothesize that ELAV and Rbp9 cooperate to maintain the functional integrity of the adult nervous system.</text>
+      <annotation id="5">
+        <infon key="identifier">31000</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="125" length="4"/>
+        <text>ELAV</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">31000</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="577" length="4"/>
+        <text>elav</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">33498</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="586" length="4"/>
+        <text>Rbp9</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">31000</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="624" length="4"/>
+        <text>ELAV</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="648" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">31000</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="676" length="4"/>
+        <text>elav</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">33498</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="685" length="4"/>
+        <text>Rbp9</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">31000</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="739" length="4"/>
+        <text>elav</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">33498</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="777" length="4"/>
+        <text>Rbp9</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">31000</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="805" length="4"/>
+        <text>elav</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">33498</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="810" length="4"/>
+        <text>Rbp9</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">31000</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="870" length="4"/>
+        <text>elav</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">31000</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1062" length="4"/>
+        <text>ELAV</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">33498</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1071" length="4"/>
+        <text>Rbp9</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

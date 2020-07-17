@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31037535</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Influence of Metarhizium anisopliae (IMI330189) and Mad1 protein on enzymatic activities and Toll-related genes of migratory locust.</text>
+      <annotation id="1">
+        <infon key="identifier">5530</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="13" length="22"/>
+        <text>Metarhizium anisopliae</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">MESH:C064482</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="37" length="9"/>
+        <text>IMI330189</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:41:02Z</infon>
+        <location offset="52" length="4"/>
+        <text>Mad1</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:45:59Z</infon>
+        <location offset="93" length="4"/>
+        <text>Toll</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">7004</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="115" length="16"/>
+        <text>migratory locust</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>133</offset>
+      <text>Efficacy of Metarhizium anisopliae strain (IMI330189) and Mad1 protein alone or in combination by feeding method to overcome immune-related enzymes and Toll-like pathway genes was investigated in migratory locust. M. anisopliae (IMI330189) is a potent and entomopathogenic fungal strain could be effectively used against insect pests. Similarly, Mad1 protein adheres to insect cuticle, causing virulence to insects. We confirmed maximum 55% of mortality when M. anisopliae (IMI330189) and Mad1 was applied in combination. Similarly, increased PO activity was observed in locust with combined dose of Mad1  +  IMI330189 whereas PO, POD, and SOD activities reduced using Mad1 independently. Four Toll-like signaling pathway genes (MyD88, Cactus, Pelle, and CaN) were investigated from midgut and body of the migratory locust after 72 h of treatments. Subsequently, the expression of MyD88 in the midgut and body significantly decreased with the application of Mad1 and Mad1  +  IMI330189. Performance of these treatments was absolutely non-consistent in both parts of insects. Meanwhile, IMI330189 significantly raised the expression of Cactus in both midgut and body. However, the combined treatment (Mad1  +  IMI330189) significantly reduced the Cactus expression in both body parts. Pelle expression was significantly increased in the midgut with the application of independent treatment of Mad1 and IMI330189 whereas the combined treatment (Mad1  +  IMI330189) suppressed the Pelle expression in midgut. Its expression level was absolutely higher in body with the application of IMI330189 and Mad1  +  IMI330189 only. On the other hand, Mad1 significantly increased the expression of CaN in midgut. However, all three treatments significantly affected and suppressed the expression of CaN gene in body of locust. This shows that the applications of M. anisopliae and Mad1 protein significantly affected Toll signaling pathway genes, which ultimately increased level of susceptibility of locust. However, their effect was significantly different in both parts of locust which recommends that the Toll-related genes are conserved in midgut instead of locust body.</text>
+      <annotation id="4">
+        <infon key="identifier">5530</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="145" length="22"/>
+        <text>Metarhizium anisopliae</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">MESH:C064482</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="176" length="9"/>
+        <text>IMI330189</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:41:23Z</infon>
+        <location offset="191" length="4"/>
+        <text>Mad1</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:40:53Z</infon>
+        <location offset="285" length="9"/>
+        <text>Toll-like</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7004</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="329" length="16"/>
+        <text>migratory locust</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">5530</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="347" length="13"/>
+        <text>M. anisopliae</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">MESH:C064482</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="362" length="9"/>
+        <text>IMI330189</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:41:32Z</infon>
+        <location offset="479" length="4"/>
+        <text>Mad1</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">5530</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="592" length="13"/>
+        <text>M. anisopliae</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">MESH:C064482</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="607" length="9"/>
+        <text>IMI330189</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:41:43Z</infon>
+        <location offset="622" length="4"/>
+        <text>Mad1</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:44:46Z</infon>
+        <location offset="733" length="4"/>
+        <text>Mad1</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">MESH:C064482</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <infon key="error:misaligned:11">740-&gt;742</infon>
+        <location offset="742" length="9"/>
+        <text>IMI330189</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:44:49Z</infon>
+        <location offset="802" length="4"/>
+        <text>Mad1</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:41:58Z</infon>
+        <location offset="827" length="9"/>
+        <text>Toll-like</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:42:00Z</infon>
+        <location offset="862" length="5"/>
+        <text>MyD88</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:42:02Z</infon>
+        <location offset="869" length="6"/>
+        <text>Cactus</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:42:05Z</infon>
+        <location offset="877" length="5"/>
+        <text>Pelle</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:42:07Z</infon>
+        <location offset="888" length="3"/>
+        <text>CaN</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">7004</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="939" length="16"/>
+        <text>migratory locust</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:42:12Z</infon>
+        <location offset="1014" length="5"/>
+        <text>MyD88</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:44:53Z</infon>
+        <location offset="1091" length="4"/>
+        <text>Mad1</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:44:55Z</infon>
+        <location offset="1100" length="4"/>
+        <text>Mad1</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">MESH:C064482</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1109" length="9"/>
+        <text>IMI330189</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">MESH:C064482</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1219" length="9"/>
+        <text>IMI330189</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:45:08Z</infon>
+        <location offset="1268" length="6"/>
+        <text>Cactus</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:44:59Z</infon>
+        <location offset="1333" length="4"/>
+        <text>Mad1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:C064482</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1342" length="9"/>
+        <text>IMI330189</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:45:04Z</infon>
+        <location offset="1379" length="6"/>
+        <text>Cactus</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:45:06Z</infon>
+        <location offset="1417" length="5"/>
+        <text>Pelle</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:45:19Z</infon>
+        <location offset="1525" length="4"/>
+        <text>Mad1</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">MESH:C064482</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1534" length="9"/>
+        <text>IMI330189</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:45:18Z</infon>
+        <location offset="1576" length="4"/>
+        <text>Mad1</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">MESH:C064482</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1585" length="9"/>
+        <text>IMI330189</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:45:21Z</infon>
+        <location offset="1611" length="5"/>
+        <text>Pelle</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier">MESH:C064482</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1714" length="9"/>
+        <text>IMI330189</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:45:32Z</infon>
+        <location offset="1728" length="4"/>
+        <text>Mad1</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">MESH:C064482</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1737" length="9"/>
+        <text>IMI330189</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:45:16Z</infon>
+        <location offset="1772" length="4"/>
+        <text>Mad1</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">MESH:D002118</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1819" length="3"/>
+        <text>CaN</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">MESH:D002118</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1920" length="3"/>
+        <text>CaN</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">5530</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1984" length="13"/>
+        <text>M. anisopliae</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:45:23Z</infon>
+        <location offset="2002" length="4"/>
+        <text>Mad1</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:45:28Z</infon>
+        <location offset="2038" length="4"/>
+        <text>Toll</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:42:26Z</infon>
+        <location offset="2230" length="4"/>
+        <text>Toll</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

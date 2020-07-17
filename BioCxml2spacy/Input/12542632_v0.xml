@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>12542632</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Cloning and characterization of a 70 kDa heat shock cognate gene (HSC70) from two species of Chironomus.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="34" length="25"/>
+        <text>70 kDa heat shock cognate</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">3312</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="66" length="5"/>
+        <text>HSC70</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="93" length="10"/>
+        <text>Chironomus</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>105</offset>
+      <text>In the present study we carried out the isolation and characterization of an HSC70 gene from two midges, Chironomus tentans and C. yoshimatsui. The HSC70 cDNAs are approximately 2424 (C. tentans) and 2464 bp (C. yoshimatsui) long, and contain 1950 and 1956 bp open reading frames, respectively. Analysis of genomic DNA revealed the presence of two introns in these genes. The 5  untranslated regions of the HSC70 genes are adenosine-rich, a feature found in inducible HSP70 genes. The nucleotide and amino acid sequences exhibit high identity with cytosolic HSC70s from other Dipterans. Northern hybridization indicated that HSC70 is expressed at all developmental stages, from embryo to adult, and Southern hybridization confirmed the presence of multiple HSP70 genes in Chironomus.</text>
+      <annotation id="4">
+        <infon key="identifier">3312</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="182" length="5"/>
+        <text>HSC70</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="210" length="18"/>
+        <text>Chironomus tentans</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="233" length="14"/>
+        <text>C. yoshimatsui</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">3312</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="253" length="5"/>
+        <text>HSC70</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="289" length="10"/>
+        <text>C. tentans</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="314" length="14"/>
+        <text>C. yoshimatsui</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">3312</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="512" length="5"/>
+        <text>HSC70</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">D000241</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="528" length="9"/>
+        <text>adenosine</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">3308</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="573" length="5"/>
+        <text>HSP70</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">CHEBI:36976</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="590" length="10"/>
+        <text>nucleotide</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">CHEBI:33704</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="605" length="10"/>
+        <text>amino acid</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">3312</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="663" length="5"/>
+        <text>HSC70</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">3312</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="730" length="5"/>
+        <text>HSC70</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">3308</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="862" length="5"/>
+        <text>HSP70</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="877" length="10"/>
+        <text>Chironomus</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

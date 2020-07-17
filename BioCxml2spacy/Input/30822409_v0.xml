@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>30822409</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>The expression of cockroach insulin-like peptides is differentially regulated by physiological conditions and affected by compensatory regulation.</text>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:49:17Z</infon>
+        <location offset="28" length="20"/>
+        <text>insulin-like peptide</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>147</offset>
+      <text>In insects, the insulin receptor (InR) pathway is involved in regulating key physiological processes, including juvenile hormone (JH) synthesis, vitellogenin production, and oocyte growth. This raises the question about which ligand (or ligands) binds to InR to trigger the above effects. We have cloned seven insulin-like peptides (BgILP1 to 7) from female Blattella germanica cockroaches and found that the brain expresses BgILP1 to 6, the fat body BgILP7, and the ovary BgILP2. Starvation induces the reduction of BgILP3, 5, and 6 mRNA levels in the brain, and the various BgILPs are differentially expressed during the gonadotrophic cycle. In addition, by knocking down the BgILPs we were able to identify compensatory regulation at transcriptional level between the different BgILPs, although none of the BgILP knockdown assays, including the knockdown of the seven BgILPs, produced the same phenotypes that we achieved by depleting InR. Taken together, the results indicate that B. germanica ILPs are differentially expressed in tissues and in response to physiological conditions, and that they are affected by compensatory regulation.</text>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:49:37Z</infon>
+        <location offset="163" length="16"/>
+        <text>insulin receptor</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:49:52Z</infon>
+        <location offset="181" length="3"/>
+        <text>InR</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:50:24Z</infon>
+        <location offset="402" length="3"/>
+        <text>InR</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:51:05Z</infon>
+        <location offset="457" length="20"/>
+        <text>insulin-like peptide</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="480" length="6"/>
+        <text>BgILP1</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">1214577</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="487" length="4"/>
+        <text>to 7</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="505" length="19"/>
+        <text>Blattella germanica</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="525" length="11"/>
+        <text>cockroaches</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="572" length="6"/>
+        <text>BgILP1</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="598" length="6"/>
+        <text>BgILP7</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="620" length="6"/>
+        <text>BgILP2</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="664" length="6"/>
+        <text>BgILP3</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="723" length="5"/>
+        <text>BgILP</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:50:42Z</infon>
+        <location offset="825" length="5"/>
+        <text>BgILP</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:50:44Z</infon>
+        <location offset="928" length="5"/>
+        <text>BgILP</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="957" length="5"/>
+        <text>BgILP</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:50:46Z</infon>
+        <location offset="1018" length="5"/>
+        <text>BgILP</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:50:51Z</infon>
+        <location offset="1085" length="3"/>
+        <text>InR</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">6973</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1132" length="12"/>
+        <text>B. germanica</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-27T19:50:55Z</infon>
+        <location offset="1145" length="3"/>
+        <text>ILP</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

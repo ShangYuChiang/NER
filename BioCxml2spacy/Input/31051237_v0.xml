@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31051237</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Two functionally distinct CYP4G genes of Anopheles gambiae contribute to cuticular hydrocarbon biosynthesis.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="26" length="5"/>
+        <text>CYP4G</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="41" length="17"/>
+        <text>Anopheles gambiae</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">MESH:D006838</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="83" length="11"/>
+        <text>hydrocarbon</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>109</offset>
+      <text>Cuticular hydrocarbon (CHC) biosynthesis is a major pathway of insect physiology. In Drosophila melanogaster the cytochrome P450 CYP4G1 catalyses the insect-specific oxidative decarbonylation step, while in the malaria vector Anopheles gambiae, two CYP4G paralogues, CYP4G16 and CYP4G17 are present. Analysis of the subcellular localization of CYP4G17 and CYP4G16 in larval and pupal stages revealed that CYP4G16 preserves its PM localization across developmental stages analyzed; however CYPG17 is differentially localized in two distinct types of pupal oenocytes, presumably oenocytes of larval and adult developmental specificity. Western blot analysis showed the presence of two CYP4G17 forms, potentially associated with each oenocyte type. Both An. gambiae CYP4Gs were expressed in D. melanogaster flies in a Cyp4g1 silenced background in order to functionally characterize them in vivo. CYP4G16, CYP4G17 or their combination rescued the lethal phenotype of Cyp4g1-knock down flies, demonstrating that CYP4G17 is also a functional decarbonylase, albeit of somewhat lower efficiency than CYP4G16 in Drosophila. Flies expressing mosquito CYP4G16 and/or CYP4G17 produced similar CHC profiles to  wild-type  flies expressing the endogenous CYP4G1, but they also produce very long-chain dimethyl-branched CHCs not detectable in wild type flies, suggesting that the specificity of the CYP4G enzymes contributes to determine the complexity of the CHC blend. In conclusion, both An. gambiae CYP4G enzymes contribute to the unique Anopheles CHC profile, which has been associated to defense, adult desiccation tolerance, insecticide penetration rate and chemical communication.</text>
+      <annotation id="4">
+        <infon key="identifier">MESH:D006838</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="119" length="11"/>
+        <text>hydrocarbon</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="194" length="23"/>
+        <text>Drosophila melanogaster</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="222" length="15"/>
+        <text>cytochrome P450</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">30986</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="238" length="6"/>
+        <text>CYP4G1</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">MESH:D008288</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="320" length="7"/>
+        <text>malaria</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="335" length="17"/>
+        <text>Anopheles gambiae</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="358" length="5"/>
+        <text>CYP4G</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="376" length="7"/>
+        <text>CYP4G16</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="388" length="7"/>
+        <text>CYP4G17</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="453" length="7"/>
+        <text>CYP4G17</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="465" length="7"/>
+        <text>CYP4G16</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="514" length="7"/>
+        <text>CYP4G16</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="598" length="6"/>
+        <text>CYPG17</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="792" length="7"/>
+        <text>CYP4G17</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="860" length="11"/>
+        <text>An. gambiae</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-26T18:39:57Z</infon>
+        <location offset="872" length="5"/>
+        <text>CYP4G</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="897" length="15"/>
+        <text>D. melanogaster</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">30986</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="924" length="6"/>
+        <text>Cyp4g1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1003" length="7"/>
+        <text>CYP4G16</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1012" length="7"/>
+        <text>CYP4G17</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">30986</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1073" length="6"/>
+        <text>Cyp4g1</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1117" length="7"/>
+        <text>CYP4G17</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1202" length="7"/>
+        <text>CYP4G16</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1213" length="10"/>
+        <text>Drosophila</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1251" length="7"/>
+        <text>CYP4G16</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1266" length="7"/>
+        <text>CYP4G17</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier">30986</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1351" length="6"/>
+        <text>CYP4G1</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">MESH:C032720</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1397" length="8"/>
+        <text>dimethyl</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1494" length="5"/>
+        <text>CYP4G</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">MESH:D019698</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1555" length="9"/>
+        <text>CHC blend</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1586" length="11"/>
+        <text>An. gambiae</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1598" length="5"/>
+        <text>CYP4G</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="identifier">7165</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1637" length="9"/>
+        <text>Anopheles</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

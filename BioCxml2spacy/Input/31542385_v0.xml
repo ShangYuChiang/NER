@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>31542385</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Apoptosis-mediated vasa down-regulation controls developmental transformation in Japanese Copidosoma floridanum female soldiers.</text>
+      <annotation id="1">
+        <infon key="identifier">26067080</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="19" length="4"/>
+        <text>vasa</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">29053</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="90" length="21"/>
+        <text>Copidosoma floridanum</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>129</offset>
+      <text>Copidosoma floridanum is a polyembryonic, caste-forming, wasp species. The ratio of investment in different castes changes with environmental stressors (e.g. multi-parasitism with competitors). The vasa gene was first identified in Drosophila melanogaster as a germ-cell-determining factor, and C. floridanum vasa (Cf-vas) gene positive cells have been known to develop into reproductive larvae. Cf-vas seems to control the ratio of investment in C. floridanum larval castes. In this study, we identified environmental factors that control Cf-vas mRNA expression in Japanese C. floridanum by examining Cf-vas mRNA expression under competitor (Meteorus pulchricornis) venom stress; we treated the male and female morulae with M. pulchricornis venom. We also assessed the effects of multi-parasitism of Japanese C. floridanum with M. pulchricornis and found an increasing number of female soldier larvae. The results showed that several amino acid sequences differ between the Japanese and US Cf-vas. Quantitative reverse transcription polymerase chain reaction (qRT-PCR) showed that Japanese Cf-vas mRNA is expressed in both male and female larvae and pupae, but mRNA expression decreases in adults. Cf-vas mRNA expression significantly decreased, while C. floridanum dronc (Cf-dronc) mRNA expression increased, in female morulae after M. pulchricornis venom treatment at 20  h and 0  h of the culture period, respectively. Females and males showed different Cf-vas or Cf-dronc mRNA expression after M. pulchricornis venom treatment. Therefore, M. pulchricornis venom could affect the ratio of investment in different female castes of Japanese C. floridanum by decreasing Cf-vas mRNA expression via apoptosis.</text>
+      <annotation id="3">
+        <infon key="identifier">29053</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="129" length="21"/>
+        <text>Copidosoma floridanum</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">MESH:D010272</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="287" length="16"/>
+        <text>multi-parasitism</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier">26067080</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="327" length="4"/>
+        <text>vasa</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">7227</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="361" length="23"/>
+        <text>Drosophila melanogaster</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">29053</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="424" length="13"/>
+        <text>C. floridanum</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">26067080</infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="438" length="4"/>
+        <text>vasa</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="444" length="6"/>
+        <text>Cf-vas</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="525" length="6"/>
+        <text>Cf-vas</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">29053</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="576" length="13"/>
+        <text>C. floridanum</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="669" length="6"/>
+        <text>Cf-vas</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">29053</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="704" length="13"/>
+        <text>C. floridanum</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="731" length="6"/>
+        <text>Cf-vas</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">51522</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="772" length="22"/>
+        <text>Meteorus pulchricornis</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">51522</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="854" length="16"/>
+        <text>M. pulchricornis</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">MESH:D010272</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="910" length="16"/>
+        <text>multi-parasitism</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">29053</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="939" length="13"/>
+        <text>C. floridanum</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">51522</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="958" length="16"/>
+        <text>M. pulchricornis</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1120" length="6"/>
+        <text>Cf-vas</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1220" length="6"/>
+        <text>Cf-vas</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1328" length="6"/>
+        <text>Cf-vas</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier">29053</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1382" length="13"/>
+        <text>C. floridanum</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1396" length="5"/>
+        <text>dronc</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1403" length="8"/>
+        <text>Cf-dronc</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier">51522</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1464" length="16"/>
+        <text>M. pulchricornis</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1587" length="6"/>
+        <text>Cf-vas</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier">MESH:D002142</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1597" length="2"/>
+        <text>Cf</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1600" length="5"/>
+        <text>dronc</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">51522</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1628" length="16"/>
+        <text>M. pulchricornis</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier">51522</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1673" length="16"/>
+        <text>M. pulchricornis</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="identifier">29053</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1772" length="13"/>
+        <text>C. floridanum</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1800" length="6"/>
+        <text>Cf-vas</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

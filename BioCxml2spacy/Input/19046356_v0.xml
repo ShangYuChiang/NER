@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>19046356</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Heteromeric co-assembly of two insect nicotinic acetylcholine receptor alpha subunits: influence on sensitivity to neonicotinoid insecticides.</text>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:21:30Z</infon>
+        <location offset="38" length="38"/>
+        <text>nicotinic acetylcholine receptor alpha</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>143</offset>
+      <text>Neonicotinoid insecticides, such as imidacloprid, are selective agonists of insect nicotinic acetylcholine receptors (nAChRs) and are used extensively in areas of crop protection and animal health to control a variety of insect pest species. Here, we describe studies performed with nAChR subunits Nlalpha1 and Nlalpha2 cloned from the brown planthopper Nilaparvata lugens, a major insect pest of rice crops in many parts of Asia. The influence of Nlalpha1 and Nlalpha2 subunits upon the functional properties of recombinant nAChRs has been examined by expression in Xenopus oocytes. In addition, the influence of a Nlalpha1 mutation (Y151S), which has been linked to neonicotinoid lab generated resistance in N. lugens, has been examined. As in previous studies of insect alpha subunits, functional expression has been achieved by co-expression with the mammalian beta2 subunit. This approach has revealed a significantly higher apparent affinity of imidacloprid for Nlalpha1/beta2 than for Nlalpha2/beta2 nAChRs. In addition, evidence has been obtained for the co-assembly of Nlalpha1 and Nlalpha2 subunits into  triplet  nAChRs of subunit composition Nlalpha1/Nlalpha2/beta2. Evidence has also been obtained which demonstrates that the resistance-associated Y151S mutation has a significantly reduced effect on neonicotinoid agonist activity when Nlalpha1 is co-assembled with Nlalpha2 than when expressed as the sole alpha subunit in a heteromeric nAChR. These findings may be of importance in assessing the likely impact of the target-site mutations such as Y151S upon neonicotinoid insecticide resistance in insect field populations.</text>
+      <annotation id="2">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="179" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:20:54Z</infon>
+        <location offset="226" length="32"/>
+        <text>nicotinic acetylcholine receptor</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:21:01Z</infon>
+        <location offset="261" length="5"/>
+        <text>nAChR</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="426" length="5"/>
+        <text>nAChR</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="497" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:21:32Z</infon>
+        <location offset="591" length="8"/>
+        <text>Nlalpha1</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:21:33Z</infon>
+        <location offset="604" length="8"/>
+        <text>Nlalpha2</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:21:39Z</infon>
+        <location offset="668" length="5"/>
+        <text>nAChR</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">8355</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="710" length="7"/>
+        <text>Xenopus</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:21:41Z</infon>
+        <location offset="759" length="8"/>
+        <text>Nlalpha1</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier">p.Y151S</infon>
+        <infon key="type">Mutation</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="778" length="5"/>
+        <text>Y151S</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="853" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">MESH:C082359</infon>
+        <infon key="type">Chemical</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1094" length="12"/>
+        <text>imidacloprid</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:21:55Z</infon>
+        <location offset="1111" length="8"/>
+        <text>Nlalpha1</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:21:56Z</infon>
+        <location offset="1135" length="8"/>
+        <text>Nlalpha2</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:22:01Z</infon>
+        <location offset="1150" length="5"/>
+        <text>nAChR</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:22:02Z</infon>
+        <location offset="1221" length="8"/>
+        <text>Nlalpha1</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:22:03Z</infon>
+        <location offset="1234" length="8"/>
+        <text>Nlalpha2</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1267" length="6"/>
+        <text>nAChRs</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:22:04Z</infon>
+        <location offset="1297" length="8"/>
+        <text>Nlalpha1</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:22:05Z</infon>
+        <location offset="1306" length="8"/>
+        <text>Nlalpha2</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">p.Y151S</infon>
+        <infon key="type">Mutation</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1404" length="5"/>
+        <text>Y151S</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:22:11Z</infon>
+        <location offset="1493" length="8"/>
+        <text>Nlalpha1</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Gene</infon>
+        <infon key="identifier"></infon>
+        <infon key="annotator">5ef4bd7e0113</infon>
+        <infon key="updated_at">2020-05-28T15:22:12Z</infon>
+        <location offset="1523" length="8"/>
+        <text>Nlalpha2</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1595" length="5"/>
+        <text>nAChR</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">p.Y151S</infon>
+        <infon key="type">Mutation</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1706" length="5"/>
+        <text>Y151S</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>
