@@ -1,0 +1,1 @@
+{"label":"Gene","pattern":[{"TEXT":{"REGEX":"^(?=.*[a-zA-Z])(?=.*[0-9])[a-zA-Z0-9]+.*$"}}]}
