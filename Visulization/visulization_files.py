@@ -19,7 +19,7 @@ a = 1
 for line in data:
     #print(line[0])
     text = line[0]
-    model = 'test'
+    model = 'model/test'
     doc1=ner_model(text)
     result(doc1,str(a)+'original_')     
     test_model = spacy.load(model)
