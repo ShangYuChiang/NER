@@ -10,7 +10,8 @@
 designed specifically for production use and helps you build applications that process and “understand” large volumes of text. It can be used to build information extraction or natural language understanding systems, or to pre-process text for deep learning.
 
 ### Requirment
-* Install `Python` and `Jupyter Notebook`. Python 3.3 or greater is required to install the Jupyter Notebook.
+`Python` `Anaconda` and `Jupyter Notebook`<br>
+Python 3.3 or greater is required to install the Jupyter Notebook.
 * Anaconda and Jupyter Notebook Install Instructions -[ Windows ](https://mas-dse.github.io/startup/anaconda-windows-install/)
 * How to install Python 3.6 and run the Spyder Integrated Development Environment (IDE) or the Jupyter Notebook. [Vedio]( https://www.youtube.com/watch?v=LrMOrMb8-3s)
 
