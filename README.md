@@ -94,6 +94,11 @@ python BioCxml2spacy.py
 
 # 2.
 
+# other
+[convert annotation format from BioCxml to Spacy](https://github.com/ShangYuChiang/BioCxml2spacy)
+[Convert text file into BioCxml format](https://github.com/ShangYuChiang/txt2BioCxml)
+
+
 ## Reference
 XML Tutorial : [w3schools.com](https://docs.python.org/2/library/xml.etree.elementtree.html)  
 Spacy : [Training spaCy’s Statistical Models](https://spacy.io/usage/training)  
