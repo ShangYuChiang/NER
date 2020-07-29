@@ -15,6 +15,8 @@ Python 3.3 or greater is required to install the Jupyter Notebook.
 * Anaconda and Jupyter Notebook Install Instructions -[ Windows ](https://mas-dse.github.io/startup/anaconda-windows-install/)
 * How to install Python 3.6 and run the Spyder Integrated Development Environment (IDE) or the Jupyter Notebook. [Vedio]( https://www.youtube.com/watch?v=LrMOrMb8-3s)
 
+### Installation
+
 
 # 1.Convert data format form BioCxml to spacy
 ## User guide
@@ -92,15 +94,20 @@ python BioCxml2spacy.py
 ```
 - Step3 - The results are shown in the output file
 
-# 2.
+# 2. Basic spaCy NER example and implement
+
+- Follow the README.md at gene-NER [Github](https://github.com/ShangYuChiang/gene_NER)
+
+# 3. spaCy Arthropod gene Named Entity Recognition example and experiment
+- Using jupyter notebook to open file [spaCy_NER.ipynb](https://github.com/ShangYuChiang/NER/blob/master/spaCy_NER.ipynb)
 
 # other
-[convert annotation format from BioCxml to Spacy](https://github.com/ShangYuChiang/BioCxml2spacy)
-[Convert text file into BioCxml format](https://github.com/ShangYuChiang/txt2BioCxml)
+Convert annotation format from BioCxml to Spacy [Github Link](https://github.com/ShangYuChiang/BioCxml2spacy)<br>
+Convert text file into BioCxml format [Github Link](https://github.com/ShangYuChiang/txt2BioCxml)<br>
+Using PySysrev Gene Annotations dataset [NER with PySysrev dataset.ipynb](https://github.com/ShangYuChiang/NER/blob/master/NER%20with%20PySysrev%20dataset.ipynb)
 
 
 ## Reference
-XML Tutorial : [w3schools.com](https://docs.python.org/2/library/xml.etree.elementtree.html)  
-Spacy : [Training spaCy’s Statistical Models](https://spacy.io/usage/training)  
-Github : [BioC-JSON](https://github.com/ncbi-nlp/BioC-JSON)
-
+XML Tutorial : [w3schools.com](https://docs.python.org/2/library/xml.etree.elementtree.html)  <br>
+Spacy : [Training spaCy’s Statistical Models](https://spacy.io/usage/training) <br> 
+Github : [BioC-JSON](https://github.com/ncbi-nlp/BioC-JSON) , [Spacy-ner-annotator](https://github.com/ManivannanMurugavel/spacy-ner-annotator)
