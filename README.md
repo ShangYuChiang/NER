@@ -96,7 +96,7 @@ python BioCxml2spacy.py
 
 # 2. Basic spaCy NER example and implement
 
-- Follow the README.md at gene-NER [Github](https://github.com/ShangYuChiang/gene_NER)
+- Follow the README.md tutorial at NER_GS [Github](https://github.com/ShangYuChiang/NER_GS)
 
 # 3. spaCy Arthropod gene Named Entity Recognition example and experiment
 - Using jupyter notebook to open file [spaCy_NER.ipynb](https://github.com/ShangYuChiang/NER/blob/master/spaCy_NER.ipynb)
